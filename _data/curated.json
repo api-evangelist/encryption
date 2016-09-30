@@ -1,5 +1,237 @@
 [
 	{
+		"curated_id": "GfSb993pyAjOpnhkOjPTjwGWMVZvRgLJZ8pmOuAIazx123ufS6EBETml8OOe5eico38Jfs6LyoO4JhFh34a8CFqg117117",
+		"item_date": "2016-09-21 09:15:15",
+		"title": "Is TLS Fast Yet",
+		"url": "https://istlsfastyet.com/",
+		"domain": "istlsfastyet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "T0vEGRXX3DrrJiD62xmkHUX8RotwgANK5WIH5miRPcKb4M2wAi22heymOKLG2KNVdO123v123NNFwemPB5dQcAgnXA117117",
+		"item_date": "2016-09-20 06:05:14",
+		"title": "Tweet Encryption Week  TLS 13 Automatic HTTPS Rewrites and Opportunistic Encryption httpstcowaZB9CuuyM httpstcocEssBCBFpz",
+		"url": "https://twitter.com/CloudFlare/statuses/778218461965279232",
+		"domain": "twitter.com",
+		"image": ""
+	},
+	{
+		"curated_id": "qD3cQZT8syEOSuxplkxozVpAviBQ4gWcMqVh1hgvtbbqUhqytxIt1nhjQ5NHB7dDz123eBJrD3oiXQP37dUwegfQ117117",
+		"item_date": "2016-09-20 06:05:24",
+		"title": "Tweet Introducing TLS 13  CloudFlare is turbocharging the encrypted internet httpstcoGpsWYkoIci httpstcoe6CEX3a0EJ",
+		"url": "https://twitter.com/CloudFlare/statuses/778218502935248898",
+		"domain": "twitter.com",
+		"image": ""
+	},
+	{
+		"curated_id": "QDcK7YpJGKJIQ116jb6O9gZGsbnrbQ24ErF6XDuft123pCj123av123JxijCLgROED8tWj123Oo1PqtfOqPAzHNAimIp116CWw117117",
+		"item_date": "2016-09-21 08:52:16",
+		"title": "Opportunistic Encryption Bringing HTTP2 to the unencrypted web",
+		"url": "https://blog.cloudflare.com/opportunistic-encryption-bringing-http-2-to-the-unencrypted-web/",
+		"domain": "blog.cloudflare.com",
+		"image": ""
+	},
+	{
+		"curated_id": "rII4ztFwHiBtfF7LxAL43zGSL0p3bBVejFIJo9buHXXLfZnhdY116ajtJQFK1V116KSjV4TPx123jaAGNXoZgrwHCoYA117117",
+		"item_date": "2016-09-23 00:00:00",
+		"title": "An overview of TLS 13 and QA",
+		"url": "https://blog.cloudflare.com/tls-1-3-overview-and-q-and-a/",
+		"domain": "blog.cloudflare.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ygriiYusH3en0vfdN0ChoK0CPinL123i116nKUhOQKZUOcGnRU1YYalx4bRzCHMwtFTZM2h1g0AOrIIYrGEVSye8gg117117",
+		"item_date": "2016-09-24 00:00:00",
+		"title": "How we brought HTTPS Everywhere to the cloud part 1",
+		"url": "https://blog.cloudflare.com/how-we-brought-https-everywhere-to-the-cloud-part-1/",
+		"domain": "blog.cloudflare.com",
+		"image": ""
+	},
+	{
+		"curated_id": "DLLBVzca42QyQ6PeIGEy0ngNAVFffngPd123FaKPIlLLCrXzfxeaarE1aHxHUH123AeW3jtxF6L2To828Whd7zHVtA117117",
+		"item_date": "2016-09-24 08:53:02",
+		"title": "The Cryptographic Key That Secures the Web Is Being Changed for the First Time",
+		"url": "http://motherboard.vice.com/read/the-encryption-key-that-secures-the-web-is-being-changed-for-the-first-time",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "116WZWTPqD19mzdd4gdiK638BgtQKCAfMvAQVRp6q5SJg116nijO116Lw123TMzzXZvZx6KlHu8wY4sai116w2ZzVCG8czww117117",
+		"item_date": "2016-09-22 00:00:00",
+		"title": "Fixing the mixed content problem with Automatic HTTPS Rewrites",
+		"url": "https://blog.cloudflare.com/fixing-the-mixed-content-problem-with-automatic-https-rewrites/",
+		"domain": "blog.cloudflare.com",
+		"image": ""
+	},
+	{
+		"curated_id": "eN03Zbsa5LgUOvOW3Zm116tlQqWzCk9pt116FKv0KLtiHEQvO1233MhYmgpEsZvox1TjyjP0hcUFbBuBdWfKmn9xtyQw117117",
+		"item_date": "2016-09-20 00:00:00",
+		"title": "Cloudflare Launches a ThreePronged Attack to Encrypt the Entire Web",
+		"url": "https://www.wired.com/2016/09/cloudflare-launches-three-pronged-attack-encrypt-web/",
+		"domain": "www.wired.com",
+		"image": ""
+	},
+	{
+		"curated_id": "1S8YjLkgVrYbsHxmgpXG5mdWmyhQB2T9brVZLfBb4VMMikhkGTU1yUpX2oj8w116Mu123d5Z4ketDkL8XmMTp4sy4Q117117",
+		"item_date": "2016-09-21 00:00:00",
+		"title": "Additional AtRest and InTransit Encryption Options for Amazon EMR",
+		"url": "https://aws.amazon.com/blogs/aws/new-at-rest-and-in-transit-encryption-for-amazon-emr/",
+		"domain": "aws.amazon.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Lc9rxKMMgO123edpGsDJD6DpRJsdWL116nm4Ake3BC7Flau1JzsgE3jkcGHcJcaWJzPAJ2o8YY3PIhY29zDLrF6t6Q117117",
+		"item_date": "2016-09-21 09:15:15",
+		"title": "Introducing TLS 13",
+		"url": "https://blog.cloudflare.com/introducing-tls-1-3/",
+		"domain": "blog.cloudflare.com",
+		"image": ""
+	},
+	{
+		"curated_id": "FzmaUnN8AsQgjqfizNG864c412TeYqSnYtrbCbOH123B65fvDAuvWQecBQ123CA2123OYBx4hH91237JNbyLt116123shYVh6A117117",
+		"item_date": "2016-09-21 16:55:16",
+		"title": "Cloudflare looks to TLS 13 to secure internet",
+		"url": "http://www.scmagazineuk.com/cloudflare-looks-to-tls-13-to-secure-internet/article/523982/",
+		"domain": "www.scmagazineuk.com",
+		"image": ""
+	},
+	{
+		"curated_id": "okkU4Dua3hWooqsCs123D4w116Sx7p123M5kERRa116loYZEkNbnvrLtqaMoSBxkozbKNGXo39J0okVDpeeqkqoJ123g116nEA117117",
+		"item_date": "2016-09-21 00:00:00",
+		"title": "Opportunistic Encryption Bringing HTTP2 to the unencrypted web",
+		"url": "https://blog.cloudflare.com/opportunistic-encryption-bringing-http-2-to-the-unencrypted-web/",
+		"domain": "blog.cloudflare.com",
+		"image": ""
+	},
+	{
+		"curated_id": "w2JvDAk9L116deIcrOS21165cP27H116voUrsFy9JOWbQXScZHre0xShBRbqfdLdamv8TAiE9HDHtW84ulhS52RqDMnA117117",
+		"item_date": "2016-09-20 06:14:52",
+		"title": "Encryption Week",
+		"url": "https://blog.cloudflare.com/encryption-week/",
+		"domain": "blog.cloudflare.com",
+		"image": ""
+	},
+	{
+		"curated_id": "CF8FeYNPwI9G1WPgQgt1162s2TsfzAiekyudmMYN6hasPsXy3Le123KaroTcphiRKwCfhX1mBODy0vJtgzXJhH8EgA117117",
+		"item_date": "2016-09-14 00:00:00",
+		"title": "Policy Law and Technology in the Current Crypto Wars",
+		"url": "http://cyberlaw.stanford.edu/events/policy-law-and-technology-current-crypto-wars",
+		"domain": "cyberlaw.stanford.edu",
+		"image": ""
+	},
+	{
+		"curated_id": "zhsOUL1QuQHDAQguJyZtBs123SzK2o59Ur1hVJFfQBl76YYXaBM6xMH9NQZ7cLZ0N9l0VcD8123ejTK116X9SSZuLC1g117117",
+		"item_date": "2016-09-12 00:00:00",
+		"title": "Configure AWS Elastic Beanstalk Application to Use SSL",
+		"url": "https://dzone.com/articles/configure-aws-elastic-beanstalk-application-to-use",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "SFHjHA6atvtbX1jhIu4Rt2RlcH123rGGRkiOkLxcsKlESKaFvz7QnQFaT5EdICyMTIcqRtZrN0iYv7aKlK3J9u0g117117",
+		"item_date": "2016-09-13 00:00:00",
+		"title": "Senators want to revive dead antiencryption bill leak shows",
+		"url": "http://www.itsecurityguru.org/2016/09/13/senators-want-to-revive-dead-anti-encryption-bill-leak-shows/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "9yLADMLq8KsiciQayN3AwqGiOVjwVxbfD1234PYzlbMSLPLicfo6o3cjash6XuRi14jDBAXpxrlenbWmmKBv8ijA117117",
+		"item_date": "2016-09-07 00:00:00",
+		"title": "Lets Encrypt Those CNAMES Shall We",
+		"url": "https://www.digitalgov.gov/2016/09/07/lets-encrypt-those-cnames-shall-we/",
+		"domain": "www.digitalgov.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "imo78oG1rrK116CSVtt9zmJOATGJAwbiw123XpmdbN1gC35F2bfDwoAHqYiiMRHvHFxcrmtN0116GHS9MB116123BkvMpwLw117117",
+		"item_date": "2016-08-31 00:00:00",
+		"title": "Establish a Secure SSL Connection to PostgreSQL DB Server",
+		"url": "https://dzone.com/articles/establish-a-secure-ssl-connection-to-postgresql-db",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "S999ahXnEACEuRFEvnDHYV8TR0UAWQrb4itQY20cLJiVz116zABRCem7hePxIZRwwxeOm6OGex2t5Jfyo28Dhx1A117117",
+		"item_date": "2016-08-31 00:00:00",
+		"title": "More Than 40 Of Attacks Abuse SSL Encryption",
+		"url": "http://www.darkreading.com/vulnerabilities---threats/more-than-40--of-attacks-abuse-ssl-encryption/d/d-id/1326789",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "uGDZ10C1emazMFN7xxdu4JNmKtPCprbY5yXBEeyY74BRJpWEL8XQqHsRM123EcQAWYuwRopDxuLPS7KAg8JQG8116w117117",
+		"item_date": "2016-08-26 00:00:00",
+		"title": "Europe Begins Its Own Encryption TugofWar",
+		"url": "https://continuum.cisco.com/2016/08/26/europe-begins-its-own-encryption-tug-of-war/",
+		"domain": "continuum.cisco.com",
+		"image": ""
+	},
+	{
+		"curated_id": "JUmUJWGnyfcU6yEmvOnyQkg0tq5OeF834ExhHxwWti8XCV8GIPwqHEg6NAjqnsO85yoyw123d9T123HqTMWrQppm0A117117",
+		"item_date": "2016-08-26 00:00:00",
+		"title": "Collision Attacks Against 64Bit Block Ciphers",
+		"url": "https://www.schneier.com/blog/archives/2016/08/collision_attac.html",
+		"domain": "www.schneier.com",
+		"image": ""
+	},
+	{
+		"curated_id": "WVTkRuIv02nT8wCtFgz116uW46wTUzUuFHta4vYAAPbw123116HZDsPF3BSkSkAxn9ynU116N123OYAbsF5pLfa123kkgK695A117117",
+		"item_date": "2016-08-24 00:00:00",
+		"title": "Taking stock of the new FrenchGerman encryption proposal",
+		"url": "http://www.politico.com/tipsheets/morning-cybersecurity/2016/08/taking-stock-of-the-new-french-german-encryption-proposal-216051",
+		"domain": "www.politico.com",
+		"image": ""
+	},
+	{
+		"curated_id": "9VCayLII4YpY4KANNTAcozdbg2P49EakXWvJa84D6ZQkALPhFvYlgt17Ubz116uyHL9Xp81hzIzvcxLn6TcgWwcQ117117",
+		"item_date": "2016-08-25 00:00:00",
+		"title": "French German ministers demand new encryption backdoor law",
+		"url": "http://www.itsecurityguru.org/2016/08/25/french-german-ministers-demand-new-encryption-backdoor-law/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "9qhTJBFb5HkXSqAfDgt8AZCwlQK21PtSg1E8OnuyLjp1239nXpSCl116tbbiaK9UOi3K4Ug4n0OntmwQLxbCT0UqPw117117",
+		"item_date": "2016-08-23 00:00:00",
+		"title": "The Best Encryption Software of 2016",
+		"url": "http://www.pcmag.com/article/347066/the-best-encryption-software-of-2016",
+		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
+		"curated_id": "L7WCcwG0MmEMq4IVS283mH4qcX1166Qm8EpYa6YQcg9KpLtn4x56M745bd9lZSKXNBfI6VTe4Mj1Qe2kG116hwJ29A117117",
+		"item_date": "2016-08-17 00:00:00",
+		"title": "BringYourOwnEncryption on AWS",
+		"url": "https://dzone.com/articles/bring-your-own-encryption-on-aws",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "coxqMGSo116dUDLa2iQrCYR9FiI116Vv6nUSpN7lkjTAvW73HHqUHBFFPGVrHC2FzXsHtEi123NyDj9RAMJjINJIRPrw117117",
+		"item_date": "2016-08-16 00:00:00",
+		"title": "SignalFire New Firmware Adds AES128 Encryption to its Wireless Remote Monitoring Product Line",
+		"url": "http://www.remotemagazine.com/main/markets/security-channels/signalfire-new-firmware-adds-aes-128-encryption-to-its-wireless-remote-monitoring-product-line/",
+		"domain": "www.remotemagazine.com",
+		"image": ""
+	},
+	{
+		"curated_id": "5JXf7t2IK1XESsuAjPp0MftW2ClAE4Aq32s3iitlxkcZ0M80ZDZ0tTH9y53yHiTIe6Ws2YG9uSw4TMbDQ116DD9A117117",
+		"item_date": "2016-08-11 00:00:00",
+		"title": "France says fight against messaging encryption needs worldwide initiative",
+		"url": "http://www.reuters.com/article/us-france-internet-encryption-idUSKCN10M1KB",
+		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
+		"curated_id": "1162tDrwaTeAfOlBco116p1hT1c2oGyEporrPGDqu9gzDjRXz1UpSeZR123Nf0ml83iWoM1tbDz3cH7poFPJb91quC123g117117",
+		"item_date": "2016-08-11 00:00:00",
+		"title": "Encryption and the Golden Key",
+		"url": "https://www.lawfareblog.com/encryption-and-golden-key",
+		"domain": "www.lawfareblog.com",
+		"image": ""
+	},
+	{
 		"curated_id": "lEIGrVpau7Z7JQRhwCnFjGl6sBauZuLTHt6PVFMQEAx6vFa4E8Pnxo9pBXLScNW123iyJzhniZeT116FgAK123312zCw117117",
 		"item_date": "2016-08-10 00:00:00",
 		"title": "How the Government Is Waging Crypto War 20",
