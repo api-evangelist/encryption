@@ -1,5 +1,29 @@
 [
 	{
+		"curated_id": "5X1236ksbIfHgxx44hK7W4PggdWb9GFs6nfCzEJQp7hFxHpW1m7a28LdYEqE5PnYVifdBmOzD3jkI2y13ozP116YRg117117",
+		"item_date": "2016-09-26 00:00:00",
+		"title": "Cryptpad a freeopen endtoend encrypted zeroknowledge shared text editor",
+		"url": "http://boingboing.net/2016/09/26/cryptpad-a-freeopen-end-to.html",
+		"domain": "boingboing.net",
+		"image": ""
+	},
+	{
+		"curated_id": "AvpzKZR5LcHLjAXn217MUBUdu7Lt7BebCE9gu2Io3UtKQ6pydVuF27jYNC6LCVaYkpIgPgiREzAed1161tCq11Bw117117",
+		"item_date": "2016-09-29 00:00:00",
+		"title": "Introducing Dedicated SSL Certificates",
+		"url": "https://blog.cloudflare.com/dedicated-ssl-certificates/",
+		"domain": "blog.cloudflare.com",
+		"image": ""
+	},
+	{
+		"curated_id": "nBQnlAP07i1161162qesF1T5YrpNRc6Z0O199qGWWHXJ0DMIb116vcFLV4lMQE9NfweKyqntukQTCHnPWO123Dcp6oHxLA117117",
+		"item_date": "2016-09-29 00:00:00",
+		"title": "Stanford Researchers Seek Court Documents Ordering Companies to Help Government Defeat Encryption",
+		"url": "http://cyberlaw.stanford.edu/blog/2016/09/stanford-researchers-seek-court-documents-ordering-companies-help-government-defeat",
+		"domain": "cyberlaw.stanford.edu",
+		"image": ""
+	},
+	{
 		"curated_id": "GfSb993pyAjOpnhkOjPTjwGWMVZvRgLJZ8pmOuAIazx123ufS6EBETml8OOe5eico38Jfs6LyoO4JhFh34a8CFqg117117",
 		"item_date": "2016-09-21 09:15:15",
 		"title": "Is TLS Fast Yet",
