@@ -1,5 +1,45 @@
 [
 	{
+		"curated_id": "fTYFQVvfYgh116qRxD0gDBjtSY7LuA1JZG6Pb1Y8lQDC0NfU4BOENMVVwflUwjOGjWfHHjaMilDvvaOmrF4JelNA117117",
+		"item_date": "2016-10-03 09:47:33",
+		"title": "Tweet RT jeffbarr Amazon S3Encrypt  Encrypt ampamp Decrypt files in S3 with KMS Keys   httpstcogvLD9voI3l AWS httpstcoQvFaNzZFtc",
+		"url": "https://twitter.com/awscloud/statuses/782985449908281344",
+		"domain": "twitter.com",
+		"image": ""
+	},
+	{
+		"curated_id": "uX8Lj123xpArS33PMqdSj4idHgg3n8cK75gLsZW7sDuNvgQ5ZOlCD0I0ye0NnzURtgcX45PMgu1163anESHgAHhVMA117117",
+		"item_date": "2016-10-04 00:00:00",
+		"title": "Facebook Messenger now lets everyone encrypt their conversations but theres a catch",
+		"url": "http://thenextweb.com/facebook/2016/10/05/facebook-messenger-now-lets-everyone-encrypt-their-conversations-but-theres-a-catch/",
+		"domain": "thenextweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "snimGbTQ08TY8FQW3U9AydF0wl8Y4QPFuAReNnfOapceVEMvfUtsZ5j8Y0E116DdyO4WlBqwfihMDQIRpc4LHA123g117117",
+		"item_date": "2016-10-04 00:00:00",
+		"title": "How to encrypt your Facebook Messages",
+		"url": "https://techcrunch.com/gallery/how-to-encrypt-facebook-messenger/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "tTMZdni8HWdkSsYSwjh6XMXT0CKfBr5Vrm9GwRfl7l3K4EyY9iA8LAnHXp9xpne49J0TUR4XMcx6VBzPkXfu9w117117",
+		"item_date": "2016-10-04 00:00:00",
+		"title": "How Did the Feds Get Past Yahoos Encryption Yahoo",
+		"url": "https://www.wired.com/2016/10/yahoo-spy-scandal-shows-encryption-fails-without-backbone/",
+		"domain": "www.wired.com",
+		"image": ""
+	},
+	{
+		"curated_id": "pMO5XQ1j4LzRYng6FX83ZviRAIKml3ykpF5BxP570FXN2Q6jAMra4jzlqJJEoshYQXfNZbXJUPwnsc4gBcqDAA117117",
+		"item_date": "2016-10-04 00:00:00",
+		"title": "After Mozilla inquiry Apple untrusts Chinese certificate authority",
+		"url": "http://www.pcworld.com/article/3127627/security/after-mozilla-inquiry-apple-untrusts-chinese-certificate-authority.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
 		"curated_id": "nQ116hTKz0xiGP9FNY78Zl8nsCacxRNgBZB7UXHyf40s0GcTPteJ0bO116d4hRJ123jpWWlWrKzT6pOUCuNB00wjSHjg117117",
 		"item_date": "2016-10-04 13:08:31",
 		"title": "Facebook Messenger now lets you toggle endtoend encryption",
