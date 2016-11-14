@@ -1,5 +1,29 @@
 [
 	{
+		"curated_id": "Bwj116d2L4ILjhb9W7r2ZayxRA0IR0c6bPCL6C282f8cpGDz1235p7SGsPkwnnl5HuGB94kBLVAi7DAm4UXDI92cBw117117",
+		"item_date": "2016-11-10 00:00:00",
+		"title": "OpenSSL Releases Security Update",
+		"url": "https://www.us-cert.gov/ncas/current-activity/2016/11/10/OpenSSL-Releases-Security-Update",
+		"domain": "www.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "o6abPkpU9iUcXMdA7o3ziDKRrJv0O76tBneKVuLxsaa1uFMxevQ7W8RBl1p5weDIsgkpmVNcDIdKRJEjVDxzOA117117",
+		"item_date": "2016-11-10 00:00:00",
+		"title": "Surveillance encryption concerns in the wake of Donald Trumps victory",
+		"url": "http://www.siliconbeat.com/2016/11/10/surveillance-encryption-concerns-wake-donald-trumps-victory/",
+		"domain": "www.siliconbeat.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Os9tv5XEL0HPbOwBDxkDO1161muZAeNgQC116KKovaVsPY8gceHFk1J123r11tZ32YJGJskt7q7I6XlT1GSre2tNf116hw117117",
+		"item_date": "2016-11-07 06:33:51",
+		"title": "Security Encryption Hashing and PHP",
+		"url": "https://www.phproundtable.com/episode/security-encryption-hashing-and-php",
+		"domain": "www.phproundtable.com",
+		"image": ""
+	},
+	{
 		"curated_id": "5116dEv9PAWLFPieg6w6NTMhdCmxdZzUi04dcZJk6iCoIpCykS2yLQn5VWmS8qwYyLcp5HWMsFuEiGHDB4LrcphA117117",
 		"item_date": "2016-11-06 00:00:00",
 		"title": "Heres to more HTTPS on the web",
