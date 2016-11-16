@@ -522,7 +522,7 @@
 	{
 		"curated_id": "ZWT4biXElUU6uysRt6w7Pk3C3ob7WtdiPzl8EbR4s0wW8U2yDBwfEOwbGGgn3ncNTnzzZ4gT8MH3KIxB2yXFhg117117",
 		"item_date": "2016-07-19 00:00:00",
-		"title": "LetsEncrypt TLS for NGINX",
+		"title": "",
 		"url": "https://dzone.com/articles/letsencrypt-tls-for-nginx-nginx",
 		"domain": "dzone.com",
 		"image": ""
@@ -578,7 +578,7 @@
 	{
 		"curated_id": "FNmNp2sykt1d2Mj0Z6bEGFedW9BwTeSrzzq4PhitNU8QhcbZ2QDwGTegFrgpkFYPBliw6E3y2ySBKYspfANBxw117117",
 		"item_date": "2016-07-14 00:00:00",
-		"title": "LetsEncrypt TLS for NGINX",
+		"title": "",
 		"url": "https://www.nginx.com/blog/lets-encrypt-tls-nginx/",
 		"domain": "www.nginx.com",
 		"image": ""
@@ -1626,7 +1626,7 @@
 	{
 		"curated_id": "1U116UScM2f6123i4eUO116VQTprT10X95YgwjultwljolbMzfePUe268Chb7bDX8uDDdthaCYW9z0zzAClvYiQ2ImDw117117",
 		"item_date": "2015-10-16 13:18:03",
-		"title": "An API For Encrypted Storage Of All Your Accounts Data Files And Setting ",
+		"title": "",
 		"url": "http://apievangelist.com/2015/10/16/an-api-for-encrypted-storage-of-all-your-accounts-data-files-and-setting/",
 		"domain": "apievangelist.com",
 		"image": ""
@@ -1982,61 +1982,5 @@
 		"url": "https://gigaom.com/2015/01/23/defending-encryption-doesnt-mean-opposing-targeted-surveillance/",
 		"domain": "gigaom.com",
 		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/gigaom-com20150123defending-encryption-doesnt-mean-opposing-targeted-surveillance.png"
-	},
-	{
-		"curated_id": "R67lnRsch12317C1yenAAHCPNgnepzsfoiaKm3u123uZG8lvy8Ecay2Yk08m7E116cGDwCpg116ju7bQtXQ7st116yAoO4Xg117117",
-		"item_date": "2014-09-30 00:00:00",
-		"title": "Eric Holder New Encryption Systems Thwarting Child Porn Kidnapping Investigations",
-		"url": "http://www.huffingtonpost.com/2014/09/30/eric-holder-iphone-encryption_n_5908122.html",
-		"domain": "www.huffingtonpost.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-huffingtonpost-com20140930eric-holder-iphone-encryption_n_5908122-html.png"
-	},
-	{
-		"curated_id": "c6hMI1Z123J8qXr4ddAgJfOJnH399QsCGwfoIy9ei565OTzz116mU123aVrKC00gNDs3FNaFjiXDjjswMNJ6uCDtnbHg117117",
-		"item_date": "2014-06-12 00:00:00",
-		"title": "Use Your own Encryption Keys with S3s ServerSide Encryption",
-		"url": "https://aws.amazon.com/blogs/aws/s3-encryption-with-your-keys/",
-		"domain": "aws.amazon.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/aws-amazon-comblogsawss3-encryption-with-your-keys.png"
-	},
-	{
-		"curated_id": "z8CRu7bqgCQ0jnN6x3kOLHPM7W2NCixopW116oBrLMRqkjEOhqZ116T1RpQPnoZetPYVDMXthxmjCWHYs5kxlVY5ig117117",
-		"item_date": "2014-01-29 21:50:13",
-		"title": "Encrypting our Congress API and protecting your location  Sunlight Foundation Blog",
-		"url": "http://sunlightfoundation.com/blog/2014/01/28/encrypting-our-congress-api-and-protecting-your-location/",
-		"domain": "sunlightfoundation.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/sunlightfoundation-comblog20140128encrypting-our-congress-api-and-protecting-your-location.png"
-	},
-	{
-		"curated_id": "N4PCkFIJhdKc1wh6Tp87SUZm6JEId116SVyLp541gpWUbaVRL1235SDLCGeHyPvYMZJKh0E123snzz2DRL1OdnzW123rsQ117117",
-		"item_date": "2013-06-20 00:00:00",
-		"title": "Onehub API Serious Security For File Sharing",
-		"url": "http://www.programmableweb.com/2013/06/20/onehub-api-serious-security-for-file-sharing/",
-		"domain": "www.programmableweb.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/blog-programmableweb-com20130620onehub-api-serious-security-for-file-sharing.png"
-	},
-	{
-		"curated_id": "WSr93Bmx02eB551168e4PYZDn123JgQiDB8iNC116QNobIPU4UPGOolh5MIJJIx6s1ABWuxWH1167fHj6116Yxc06lsBkSKw117117",
-		"item_date": "2013-04-17 00:00:00",
-		"title": "Encryption Project Uses Embedly Extract to Preprocess Articles",
-		"url": "https://medium.com/m/global-identity",
-		"domain": "medium.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/7647_blog_embed_ly.png"
-	},
-	{
-		"curated_id": "ipA2joRsI8we2C4lsmxo6123CXvaObeUbJM1zGHZF30W7dw4uCBDWzCcwWFixNTpcw6mJdhdoz123123mE27raPvNZiA117117",
-		"item_date": "2013-04-17 00:00:00",
-		"title": "Amazon RDS for Oracle Now Supports Transparent Data Encryption and Native Network Encryption",
-		"url": "https://aws.amazon.com/about-aws/whats-new/2013/04/18/amazon-rds-oracle-encryption/",
-		"domain": "aws.amazon.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/7643_aws_amazon_com.png"
-	},
-	{
-		"curated_id": "qGqqnrz0PUYbB116im3tzT54RxfX1fccusL123xh6WNOz2p0iT2QmxsJ88PGxEjwmImxSHBs5G116Df123gP9LYa2QLvdA117117",
-		"item_date": "2012-04-24 09:52:04",
-		"title": "Official Google Enterprise Blog Introducing Google Drive the newest member of Google Apps",
-		"url": "http://googleforwork.blogspot.com/2012/04/introducing-google-drive-newest-member.html",
-		"domain": "googleforwork.blogspot.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png"
 	}
 ]
