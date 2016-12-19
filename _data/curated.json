@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "UDQ7ZQ123IA1164GreiiwIN6qAF7Dp4c7YK0hwbMDbtzcZ6pUpJqdQtnwAcjdfMbRlx96bAjO5MqopCU123yNOd2oviA117117",
+		"item_date": "2016-12-16 00:00:00",
+		"title": "Giving Up on PGP",
+		"url": "https://www.schneier.com/blog/archives/2016/12/giving_up_on_pg.html",
+		"domain": "www.schneier.com",
+		"image": ""
+	},
+	{
 		"curated_id": "Bwj116d2L4ILjhb9W7r2ZayxRA0IR0c6bPCL6C282f8cpGDz1235p7SGsPkwnnl5HuGB94kBLVAi7DAm4UXDI92cBw117117",
 		"item_date": "2016-11-10 00:00:00",
 		"title": "OpenSSL Releases Security Update",
