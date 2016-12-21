@@ -1,10 +1,42 @@
 [
 	{
+		"curated_id": "t2PqShmpbVcFBHiWi8AXwSd1zz5DWywfdeZeTBdX32mz9vsqnnfhL9k4hFav116weKbzxIq1BkSF8JNXz3S5AbGw117117",
+		"item_date": "2016-12-13 00:00:00",
+		"title": "AirMap DigiCert to issue digital certificates for drones",
+		"url": "http://www.pcworld.com/article/3149780/security/airmap-digicert-to-issue-digital-certificates-for-drones.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "2LuDUd5m0e07qxKAqa0rZK1pvu7mHhU2aNXrGtGnf33rWoNibP4qjrFruwSNAq5voSnnhCQWPZBLVgny9pEMaQ117117",
+		"item_date": "2016-12-13 00:00:00",
+		"title": "Facebook helps companies detect rogue SSL certificates for domains",
+		"url": "http://www.pcworld.com/article/3149740/security/facebook-helps-companies-detect-rogue-ssl-certificates-for-domains.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "yS3HGjAKwoDrWn2w141D4tq26BldgaaTbTaDwNDUNiFyoLEo1IluqwC2Wxz1vMPJP2scnZbsSi123C9iWFpFShMw117117",
+		"item_date": "2016-12-15 00:00:00",
+		"title": "The Weak Case Against Strong Encryption",
+		"url": "https://dzone.com/articles/the-weak-case-against-strong-encryption",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "UDQ7ZQ123IA1164GreiiwIN6qAF7Dp4c7YK0hwbMDbtzcZ6pUpJqdQtnwAcjdfMbRlx96bAjO5MqopCU123yNOd2oviA117117",
 		"item_date": "2016-12-16 00:00:00",
 		"title": "Giving Up on PGP",
 		"url": "https://www.schneier.com/blog/archives/2016/12/giving_up_on_pg.html",
 		"domain": "www.schneier.com",
+		"image": ""
+	},
+	{
+		"curated_id": "R8sgJi93tRoXt5116NfFfN9G506ZUvC6khPhkitsoZ6cWULj5zc15ZMmGtODl4KCeRbzaMV5c116z6RhgEilkbdr2Q117117",
+		"item_date": "2016-12-13 00:00:00",
+		"title": "EFF to Tech Leaders Stand With Users and Tell Trump We Need Strong Encryption Internet Freedom",
+		"url": "https://www.eff.org/deeplinks/2016/12/eff-tech-leaders-stand-users-and-tell-trump-we-need-strong-encryption-internet",
+		"domain": "www.eff.org",
 		"image": ""
 	},
 	{
