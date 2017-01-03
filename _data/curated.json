@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "nJrVa8DuAZkX6123B8EEip1RSUic123yvKPzOPFe3nt8LUe8a4nDcN0epP2al123NGtlgpIqwwAhh8Zj8123eX2Mr7Ic2w117117",
+		"item_date": "2017-01-02 00:00:00",
+		"title": "Automating SSL encryption for your servers with LetsEncrypt and Ansible",
+		"url": "https://www.codeproject.com/Tips/1163629/Automating-SSL-encryption-for-your-servers-with-Le",
+		"domain": "www.codeproject.com",
+		"image": ""
+	},
+	{
 		"curated_id": "t2PqShmpbVcFBHiWi8AXwSd1zz5DWywfdeZeTBdX32mz9vsqnnfhL9k4hFav116weKbzxIq1BkSF8JNXz3S5AbGw117117",
 		"item_date": "2016-12-13 00:00:00",
 		"title": "AirMap DigiCert to issue digital certificates for drones",
