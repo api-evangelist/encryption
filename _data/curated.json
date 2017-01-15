@@ -1,5 +1,53 @@
 [
 	{
+		"curated_id": "DZ0h9uuv9A3exJPEWCH6c1232ptPpK1TCO3RJUkCPJDZQZlHldu1nU96nFHAy8y3pX116ah123EDa123BnSr7kb116wSVCUQ117117",
+		"item_date": "2017-01-12 11:03:00",
+		"title": "GitHub  googlekeytransparency A transparent and secure way to look up public keys",
+		"url": "https://github.com/google/key-transparency/",
+		"domain": "github.com",
+		"image": ""
+	},
+	{
+		"curated_id": "pY3FPaOYmJ7TNIuoL0SbFjvlEK5GBG2zOF5w1166JuieVjlMBpOLS123YLK0go8A3gE1S123vdpghI2116DMls6erRqMCw117117",
+		"item_date": "2017-01-13 00:00:00",
+		"title": "A Brief Summary of Encryption Method Used in Widespread Ransomware",
+		"url": "http://resources.infosecinstitute.com/a-brief-summary-of-encryption-method-used-in-widespread-ransomware/",
+		"domain": "resources.infosecinstitute.com",
+		"image": ""
+	},
+	{
+		"curated_id": "mlWycOCuqqFcHu7FzoMbAGuiIeKF7Fq9XGKkhL8FE4OSwvFse6ZKt3mtUJstE83X0NcEj7uz2zbTQoyPVdZPIQ117117",
+		"item_date": "2017-01-11 00:00:00",
+		"title": "Cloud Key Management Service",
+		"url": "https://cloud.google.com/kms/",
+		"domain": "cloud.google.com",
+		"image": ""
+	},
+	{
+		"curated_id": "C2X412303pTb6zKVXg0wnE123P1tB116HDZ7jyncrya7CzDR6W6YmNZ0ZmPXCw1232116S8116cR5v8osgWpaSHQDBu1hPIv4A117117",
+		"item_date": "2017-01-11 00:00:00",
+		"title": "Managing encryption keys in the cloud introducing Google Cloud Key Management Service",
+		"url": "http://cloudplatform.googleblog.com/2017/01/managing-encryption-keys-in-the-cloud-introducing-Google-Cloud-Key-Management-Service.html",
+		"domain": "cloudplatform.googleblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "5WP1y3eDkzgoZ9hqYwYrhC4S6116N3pLHWAwDjud7yDbDzAQHyJdZ3L9hs0xoPsoylS2COEHjedrnG3C0pygiHnw117117",
+		"item_date": "2017-01-11 00:00:00",
+		"title": "Buggy Domain Validation Forces GoDaddy to Revoke Certs",
+		"url": "https://threatpost.com/buggy-domain-validation-forces-godaddy-to-revoke-certs/123038/",
+		"domain": "threatpost.com",
+		"image": ""
+	},
+	{
+		"curated_id": "qfQRse0fl7C116SnmdxYr123RDs8YT8ZE4bUIvd0gyYMvWaJ75PjKT2mJUkJdmK8Xb3PtA7XrvGjVWYzinRwL0LWXw117117",
+		"item_date": "2017-01-11 00:00:00",
+		"title": "Apple partners with Tresorit to offer endtoend encryption for CareKit",
+		"url": "http://www.zdnet.com/article/apple-partners-with-tresorit-to-offer-end-to-end-encryption-for-carekit/",
+		"domain": "www.zdnet.com",
+		"image": ""
+	},
+	{
 		"curated_id": "Lx79Zhe9j149FAFUvP123c3gwjLp6pUMvbJ13nfkRQz3G116vG8pBdLUu4NndFgNhNCMj8xeFZGCIkUrtzLVRSQ7IQ117117",
 		"item_date": "2017-01-02 00:00:00",
 		"title": "The State of Crypto Law 2016 in Review",
