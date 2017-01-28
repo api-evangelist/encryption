@@ -1,5 +1,21 @@
 [
 	{
+		"curated_id": "ezaYwu1xyDndC4oNBY3em8OSOMIKXE8Hh4x11166LpCs2X42uT3vRAw123ElFo5fHHne116kjG123116DbPXBE1qwaEC61UA117117",
+		"item_date": "2017-01-16 00:00:00",
+		"title": "Google Introduces Cloudbased Encryption Key Management Service",
+		"url": "https://www.infoq.com/news/2017/01/google-cloud-key-management",
+		"domain": "www.infoq.com",
+		"image": ""
+	},
+	{
+		"curated_id": "0WKsL5nFhFd8dQXwjoZee4zqJXHBw3YA123baFkqXthLX1161WgjLoF3K5FbU3GhZPULNktYno64dTd6odSKcvO116123w117117",
+		"item_date": "2017-01-17 00:00:00",
+		"title": "Advances In SSL 5 Strategies For Secure HighPerformance Load Balancers",
+		"url": "http://www.darkreading.com/endpoint/advances-in-ssl-5-strategies-for-secure-high-performance-load-balancers/a/d-id/1327899",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
 		"curated_id": "FfkjSSn2chNpyDBJ7wPD2cuiJTBdmHVU6UJ8IDUd3VAIIvVidHCK6FN116116Tbg59nKRYhzd1BFLRqjW8vM4v92AA117117",
 		"item_date": "2017-01-19 00:00:00",
 		"title": "All new executive branch gov domains will ditch HTTP enforce HTTPS",
@@ -29,6 +45,14 @@
 		"title": "New US Executive Branch Websites to Force HTTPS",
 		"url": "http://www.pcmag.com/news/351168/new-us-executive-branch-websites-to-force-https",
 		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
+		"curated_id": "37VXDlowTiDaSLyUYRDXUDvD3csMXjQS8rsipgXIeJhHZ067116Wp0ot6GrJ0bYKePBQpfZ040SgR2oN8nSbnKlA117117",
+		"item_date": "2017-01-18 00:00:00",
+		"title": "An Examination of the Caesar Methodology Ciphers Vectors and Block Chaining",
+		"url": "http://resources.infosecinstitute.com/an-examination-of-the-caesar-methodology-ciphers-vectors-and-block-chaining/",
+		"domain": "resources.infosecinstitute.com",
 		"image": ""
 	},
 	{
