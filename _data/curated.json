@@ -16,6 +16,30 @@
 		"image": ""
 	},
 	{
+		"curated_id": "PjnEwj1232spwyIP58s1X2mnev5q4Ynh6rAiRjq116F799avZ7TnixG6Qw1236H123YcpGtE5kIDVStGqapphAFEfylW5Q117117",
+		"item_date": "2017-01-30 00:00:00",
+		"title": "Half the Web Is Now Encrypted That Makes Everyone Safer",
+		"url": "https://www.wired.com/2017/01/half-web-now-encrypted-makes-everyone-safer/",
+		"domain": "www.wired.com",
+		"image": ""
+	},
+	{
+		"curated_id": "zV0Y123Jd3oX4oKjpWmFvIcCQKFmFVAjJbT752C9XWXN9116CJcT11609yLUIHn5iETf8265qSIDJjA2szchIDxTYJ5Q117117",
+		"item_date": "2017-02-01 00:00:00",
+		"title": "TLS 13 explained by the Cloudflare Crypto Team at 33c3",
+		"url": "https://blog.cloudflare.com/tls-1-3-explained-by-the-cloudflare-crypto-team-at-33c3/",
+		"domain": "blog.cloudflare.com",
+		"image": ""
+	},
+	{
+		"curated_id": "qDUg4FR5g2sF3RT0Uq5jRTIhqRLgUSQj1167o2bJ1OJhlga5IfkG6ei18UHY5hlFnkYAuQ9llAlPk116mjxfLI3EAg117117",
+		"item_date": "2017-01-31 00:00:00",
+		"title": "A Review of Asymmetric Cryptography",
+		"url": "http://resources.infosecinstitute.com/review-asymmetric-cryptography/",
+		"domain": "resources.infosecinstitute.com",
+		"image": ""
+	},
+	{
 		"curated_id": "ezaYwu1xyDndC4oNBY3em8OSOMIKXE8Hh4x11166LpCs2X42uT3vRAw123ElFo5fHHne116kjG123116DbPXBE1qwaEC61UA117117",
 		"item_date": "2017-01-16 00:00:00",
 		"title": "Google Introduces Cloudbased Encryption Key Management Service",
