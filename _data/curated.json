@@ -1,5 +1,37 @@
 [
 	{
+		"curated_id": "ALadFdt2MEUicz91116WxXvk116IqHfmoY9116gV4HbvCrRR11620ODhLIl00iDjxruiQnZtQ123BSgwOOU7zjdslu4kjMvQ117117",
+		"item_date": "2017-02-07 00:00:00",
+		"title": "Setting up GitLab Pages with CloudFlare Certificates",
+		"url": "https://about.gitlab.com/2017/02/07/setting-up-gitlab-pages-with-cloudflare-certificates/",
+		"domain": "about.gitlab.com",
+		"image": ""
+	},
+	{
+		"curated_id": "m6rbECRtvlWfzsl45cvVMCcOY5y116GTXB0PF5t7Fa8QVK4kACKAfgthloptKxolRLuP7y57g27IkW4QamyNZD9w117117",
+		"item_date": "2017-02-08 00:00:00",
+		"title": "Encryption of data 039manageable039 for law enforcement think tank says",
+		"url": "http://thehill.com/policy/cybersecurity/318487-encryption-of-data-manageable-for-law-enforcement-think-tank-saysn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "5ak1vgNRsKPqZ4AQdUfFGomhJynoPCpD116aKKGdlMvbfbzaKniJiVNi56UD61UP28G1QtFxZ5rrI64i1V5XALsw117117",
+		"item_date": "2017-02-08 00:00:00",
+		"title": "Tokenization vs Encryption Understanding the Difference",
+		"url": "https://dzone.com/articles/tokenization-vs-encryption-understanding-the-diffe",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "c1166ulkmbgP1rAoz3oNUBxuiyhXxc6i1c2sWI9uinXr9ecCvCydgDx1y051116FyoY7Wu8B0145vSIGKImUVX123V123g117117",
+		"item_date": "2017-02-08 00:00:00",
+		"title": "FBI official No immediate changes to encryption policy under Trump",
+		"url": "http://thehill.com/policy/technology/318572-fbi-official-no-immediate-changes-to-encryption-policy-under-trumpn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
 		"curated_id": "MhCXD5XJ6lZa0mJmdFb7YIkbkGksBNfyb8GPX0yruzAcbyTJyOAc9lcCoZcLsJdPtlkJ48rhChAAbbireh5QCw117117",
 		"item_date": "2017-02-03 00:00:00",
 		"title": "Encryption Reaches Huge Milestone Majority of Traffic Uses HTTPS",
