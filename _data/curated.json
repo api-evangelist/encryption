@@ -1,5 +1,69 @@
 [
 	{
+		"curated_id": "MGLmLnydfYR623Jz8FBRdbR6Zzpj5MeDLAEiGJKq123FZSIzVjQdFGYi2Z9crF7thKGeQJ97V82PCWxbIPTwaKeQ117117",
+		"item_date": "2017-02-24 00:00:00",
+		"title": "E2EMail research project has left the nest",
+		"url": "http://feedproxy.google.com/~r/GoogleOnlineSecurityBlog/~3/ntPPqpmMYV0/e2email-research-project-has-left-nest_24.html",
+		"domain": "feedproxy.google.com",
+		"image": ""
+	},
+	{
+		"curated_id": "CgxtkcsWJyKDS1l6df1166ehMXDtu3imMvHdaNA2ImIlhj6IWsyqlyFRrtvQ123eAlWz3S2Vub3ywac8qBvjfz0a5g117117",
+		"item_date": "2017-02-24 00:00:00",
+		"title": "SHA1 Has Been Compromised In Practice",
+		"url": "https://auth0.com/blog/sha-1-collision-attack/",
+		"domain": "auth0.com",
+		"image": ""
+	},
+	{
+		"curated_id": "j5YLvlOWwC123116pFp116v2YsBLilmX116W9jh3Ksns2dIQHDyvaMMYljDoJwRsbzuiVXfW88dkhVVWAV116WQzwjq9m8vw117117",
+		"item_date": "2017-02-23 00:00:00",
+		"title": "Google Researchers Shatter SHA1 Hash",
+		"url": "http://www.darkreading.com/attacks-breaches/google-researchers-shatter-sha-1-hash-/d/d-id/1328253?_mc=RSS_DR_EDT",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "kgeavW123rSXsHTNIx1163NUuh116n116S27HGzgmq6UIsvdWHrZjN9TAL3jkzYJwB0NZzBml7yrNxRSzoYgNzh3PFwyTQ117117",
+		"item_date": "2017-02-23 00:00:00",
+		"title": "Google Dutch institute crack key internet security standard",
+		"url": "http://www.reuters.com/article/us-cyber-technology-idUSKBN1621R8",
+		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
+		"curated_id": "o6vGo2116BsWNvyFDpmq0KSEzVX9zt123ORtpnq9LgYCjB9apTjwNH1DvPstKVhPXToValw6ugYLLugT3MGQ0NzxgQ117117",
+		"item_date": "2017-02-23 00:00:00",
+		"title": "Stop using SHA1 encryption Its now completely unsafe Google proves",
+		"url": "http://www.pcworld.com/article/3173791/security/stop-using-sha1-it-s-now-completely-unsafe.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "O4NSi116cXr9r6w5f116zfx116SW116z8NvD9LPhj116pz123czcMLH123uIUj6123yN47GGpNnjv4STAuABK6gT7D5IcyqwHVmoUQ117117",
+		"item_date": "2017-02-23 00:00:00",
+		"title": "Security researchers announce first practical SHA1 collision attack",
+		"url": "http://feedproxy.google.com/~r/Techcrunch/~3/bU_dwDwWcNY/",
+		"domain": "feedproxy.google.com",
+		"image": ""
+	},
+	{
+		"curated_id": "hZ8Q4aossWyPFpBXuo67FETqCg116ym2d4CYzNd93116RSfcDp05ysevCt1X9exB9rYhAov6FtKBxSiUFruy9ydGMA117117",
+		"item_date": "2017-02-23 00:00:00",
+		"title": "Using SSL for InTransit Data Encryption to Improve MySQL Security",
+		"url": "https://dzone.com/articles/using-ssl-for-in-transit-data-encryption-to-improv",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ZPCK1psdrQOLSSfW05w1d6x116GEl8JF123I2ME7p6cRqeaj3Mubrdz6JlXV116l8gihc2nisfLnxmjGoQqWhYC116TVhA117117",
+		"item_date": "2017-02-24 00:00:00",
+		"title": "Announcing the first SHA1 collision",
+		"url": "http://feedproxy.google.com/~r/GoogleOnlineSecurityBlog/~3/x34uNz0bnPc/announcing-first-sha1-collision.html",
+		"domain": "feedproxy.google.com",
+		"image": ""
+	},
+	{
 		"curated_id": "JMSmMudEG116Z116jawCCKLDUWIX0IHBuw3I1j11636dZdvQ5SAg0eOt4yq1p68h60HzXII8PximRCqwsufL116BmwQ116Tg117117",
 		"item_date": "2017-02-17 00:00:00",
 		"title": "Riseup Will Encrypt All Emails to Prevent FBI Searches",
