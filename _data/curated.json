@@ -1,10 +1,42 @@
 [
 	{
+		"curated_id": "6123jA116o1166OlHv92SNUu116dfXnC0P66zEtFqPOmY192rJdE2Yvgm1y116zfcbDdAepVtoS3qXbkNpf116jFz15Pv7QbHQ117117",
+		"item_date": "2017-02-23 17:36:42",
+		"title": "Tweet No 1Password data was put at risk through the bug reported earlier today httpstcoS7G62Qw85Q",
+		"url": "https://twitter.com/Cloudflare/statuses/834940080397529088",
+		"domain": "twitter.com",
+		"image": ""
+	},
+	{
+		"curated_id": "J116mWbmewOCGdVNE254AYKif123dSsLwEylbLQvjDjTekCHZhR95EIohYYqfTkp0T6iWawCpUrxhOVubdhvyVrZ8Q117117",
+		"item_date": "2017-02-24 05:00:08",
+		"title": "Tweet New on the AWSIdentity blog s2n is now handling 100 percent of SSL traffic for Amazon S3 httpstcof52Zjzbvm3 httpstcoUuVOLH2zD6",
+		"url": "https://twitter.com/awscloud/statuses/835112074845929473",
+		"domain": "twitter.com",
+		"image": ""
+	},
+	{
+		"curated_id": "v0clM116T2OgZcimgoQwAoIl9Mfj123sd5Y6Jii4L1nyeJcSGa7xCBndLwtsZXX02q116lZFN0Spcto1164MVQEcNUWrkQ117117",
+		"item_date": "2017-02-20 00:00:00",
+		"title": "SSL Proxy Splunk  NGINX",
+		"url": "http://blogs.splunk.com/2017/02/20/ssl-proxy-splunk-nginx/",
+		"domain": "blogs.splunk.com",
+		"image": ""
+	},
+	{
+		"curated_id": "rp6cYJ9Uj7aQNu1BFNMxMgkDX9cP2feI8EmdxWdbT354ee8cgcejrwPFezevFuYbxBIs2ZN4lVTHwrbV123jtLQw117117",
+		"item_date": "2017-02-20 00:00:00",
+		"title": "An Overview of the Public Key Infrastructure Parameters and Standards",
+		"url": "http://resources.infosecinstitute.com/overview-public-key-infrastructure-parameters-standards/",
+		"domain": "resources.infosecinstitute.com",
+		"image": ""
+	},
+	{
 		"curated_id": "MGLmLnydfYR623Jz8FBRdbR6Zzpj5MeDLAEiGJKq123FZSIzVjQdFGYi2Z9crF7thKGeQJ97V82PCWxbIPTwaKeQ117117",
 		"item_date": "2017-02-24 00:00:00",
 		"title": "E2EMail research project has left the nest",
-		"url": "http://feedproxy.google.com/~r/GoogleOnlineSecurityBlog/~3/ntPPqpmMYV0/e2email-research-project-has-left-nest_24.html",
-		"domain": "feedproxy.google.com",
+		"url": "https://security.googleblog.com/2017/02/e2email-research-project-has-left-nest_24.html",
+		"domain": "security.googleblog.com",
 		"image": ""
 	},
 	{
@@ -19,7 +51,7 @@
 		"curated_id": "j5YLvlOWwC123116pFp116v2YsBLilmX116W9jh3Ksns2dIQHDyvaMMYljDoJwRsbzuiVXfW88dkhVVWAV116WQzwjq9m8vw117117",
 		"item_date": "2017-02-23 00:00:00",
 		"title": "Google Researchers Shatter SHA1 Hash",
-		"url": "http://www.darkreading.com/attacks-breaches/google-researchers-shatter-sha-1-hash-/d/d-id/1328253?_mc=RSS_DR_EDT",
+		"url": "http://www.darkreading.com/attacks-breaches/google-researchers-shatter-sha-1-hash-/d/d-id/1328253",
 		"domain": "www.darkreading.com",
 		"image": ""
 	},
@@ -43,8 +75,8 @@
 		"curated_id": "O4NSi116cXr9r6w5f116zfx116SW116z8NvD9LPhj116pz123czcMLH123uIUj6123yN47GGpNnjv4STAuABK6gT7D5IcyqwHVmoUQ117117",
 		"item_date": "2017-02-23 00:00:00",
 		"title": "Security researchers announce first practical SHA1 collision attack",
-		"url": "http://feedproxy.google.com/~r/Techcrunch/~3/bU_dwDwWcNY/",
-		"domain": "feedproxy.google.com",
+		"url": "https://techcrunch.com/2017/02/23/security-researchers-announce-first-practical-sha-1-collision-attack/",
+		"domain": "techcrunch.com",
 		"image": ""
 	},
 	{
@@ -59,8 +91,24 @@
 		"curated_id": "ZPCK1psdrQOLSSfW05w1d6x116GEl8JF123I2ME7p6cRqeaj3Mubrdz6JlXV116l8gihc2nisfLnxmjGoQqWhYC116TVhA117117",
 		"item_date": "2017-02-24 00:00:00",
 		"title": "Announcing the first SHA1 collision",
-		"url": "http://feedproxy.google.com/~r/GoogleOnlineSecurityBlog/~3/x34uNz0bnPc/announcing-first-sha1-collision.html",
-		"domain": "feedproxy.google.com",
+		"url": "https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html",
+		"domain": "security.googleblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "HNFUTUcS123mWzozSmVv7GEKNrxtMrhZlYtzPxZhiaUE0qsemqGhVgH3CRJMQuN2hDGAVpojuAVZ3U1123JQIUQ3jQ117117",
+		"item_date": "2017-02-22 00:00:00",
+		"title": "EFF Half of web traffic is now encrypted",
+		"url": "https://techcrunch.com/2017/02/22/eff-half-the-web-is-now-encrypted/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "eZOOTUYh3IP6uiYukJXHcGxzYxcDIpx6C3H5UCjOQ116if1sz4XnE40nDsolHrlzghku1b6vgVmJtZtFe2PdDiOQ117117",
+		"item_date": "2017-02-22 00:00:00",
+		"title": "Steptoe Cyberlaw Podcast A Tale of RSA",
+		"url": "https://www.lawfareblog.com/steptoe-cyberlaw-podcast-tale-rsa",
+		"domain": "www.lawfareblog.com",
 		"image": ""
 	},
 	{
