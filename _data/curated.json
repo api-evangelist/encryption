@@ -1,5 +1,45 @@
 [
 	{
+		"curated_id": "gboVdx8oFSABvi123NMtC6qIq98ImOI56NHxBjpJomN56IOSTXshP7R123123KKhm30bI4LgAANANhRGvaU3bdGj0kMg117117",
+		"item_date": "2017-03-09 11:28:29",
+		"title": "API Gateway now integrates with Amazon Certificate Manager",
+		"url": "https://aws.amazon.com/about-aws/whats-new/2017/03/amazon-api-gateway-integrates-with-aws-certificate-manager-acm/",
+		"domain": "aws.amazon.com",
+		"image": ""
+	},
+	{
+		"curated_id": "g2L3918l566Fle3g0TQgwAFQb3u4ddXo8xPKPwqnfjrsNsicQ3zmCom54SE1nNL6mwuGacD116EkQe98B71KgNiA117117",
+		"item_date": "2017-03-07 00:00:00",
+		"title": "Googles SHA1 Countdown Clock Could Undermine Enterprise Security",
+		"url": "http://www.darkreading.com/googles-sha-1-countdown-clock-could-undermine-enterprise-security/a/d-id/1328337",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "YMUoSytWRCIFUKY8DQSiMJf15GWFo1sF1HPTZ03MhgIDPnLrVBKet7O4wIAs8DFqhDaTW74z76825K3qOnNZBA117117",
+		"item_date": "2017-03-08 00:00:00",
+		"title": "Researchers find major flaws in encrypted chat app popular in WH",
+		"url": "http://thehill.com/policy/cybersecurity/322963-wh-staffer-favorite-encrypted-chat-app-had-easy-to-target-security-flawsn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "mpEKEla7UOYcQQo116Dh1kEynAP7GEsfOP8kZpZIfDk5Y2w123u3a8Gd5484eYDGVNub49sjHuXMG9TmxJOKE5hYXQ117117",
+		"item_date": "2017-03-10 00:00:00",
+		"title": "Continuously Encrypt Amazon Redshift Loads with S3 KMS and Lambda",
+		"url": "https://dzone.com/articles/continuously-encrypt-amazon-redshift-loads-with-s3",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "bawITVN1iLPyqke2BqOlJ31Rd123wNX2Efg2185n4vAqxRmNZYSK4123NFNowT5soX6rDy9gVZQh5123jWhHTvLNH3Nw117117",
+		"item_date": "2017-03-07 00:00:00",
+		"title": "No you shouldnt delete Signal or other encrypted apps",
+		"url": "https://techcrunch.com/2017/03/07/is-signal-app-safe-wikileaks/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
 		"curated_id": "ZvU72xSVO59QlCRHx6LJcRR9Y123h12311683wN56apgqtEFUQGYvGNRMWUXgTVqIW5EWctYnGOWxA2s116LTikNQZE6dw117117",
 		"item_date": "2017-02-27 00:00:00",
 		"title": "Google shifts on email encryption tool leaving its fate unclear",
