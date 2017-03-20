@@ -1,5 +1,37 @@
 [
 	{
+		"curated_id": "D8R4O01MKx1sNLRqp42mLqQ2rOhYy9G3LC116NpN5q123qPRiHKdxVQnH7RIQhRq0grm359RHCh5wCx1e618aZcreQ117117",
+		"item_date": "2017-03-13 00:00:00",
+		"title": "Critical Vulnerability Uncovered in JSON Encryption",
+		"url": "http://blogs.adobe.com/security/2017/03/critical-vulnerability-uncovered-in-json-encryption.html",
+		"domain": "blogs.adobe.com",
+		"image": ""
+	},
+	{
+		"curated_id": "bwx0YS5l51236W2sVRhjiiptP1uumFO65WfDReAs7VirvJyAwXgY9a1m123MXzihR2DMY123MhmM0YrvrGYS64vY2uHg117117",
+		"item_date": "2017-03-15 00:00:00",
+		"title": "Google Cloud adds new customersupplied encryption key partners",
+		"url": "http://www.zdnet.com/article/google-cloud-adds-new-customer-supplied-encryption-key-partners/",
+		"domain": "www.zdnet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "phRn3r2dnM1kB5uEqIY40tq87tVTwHHWkZMwa9S2Y9123aDrIiLK92ioKAFLd4ZRsuBD1C116KByc6PISJly379HzA117117",
+		"item_date": "2017-03-17 09:56:54",
+		"title": "HTTPS Interception Weakens TLS Security",
+		"url": "https://www.us-cert.gov/ncas/alerts/TA17-075A",
+		"domain": "www.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "D2xIuM2SO3OxJgDcrB116ELTvZbyKlbPwo2dKLTROe5Y5NoV0szv7gDe66IDUMnbyhVpXOf8PQgmlZNfM1qchnqw117117",
+		"item_date": "2017-03-13 00:00:00",
+		"title": "Eclipse Plugins via HTTPS and Lets Encrypt",
+		"url": "https://dzone.com/articles/eclipse-plug-ins-via-https-amp-lets-encrypt",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "gboVdx8oFSABvi123NMtC6qIq98ImOI56NHxBjpJomN56IOSTXshP7R123123KKhm30bI4LgAANANhRGvaU3bdGj0kMg117117",
 		"item_date": "2017-03-09 11:28:29",
 		"title": "API Gateway now integrates with Amazon Certificate Manager",
