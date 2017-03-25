@@ -1,5 +1,45 @@
 [
 	{
+		"curated_id": "Mv9dstKGEpx840GCDtkuC123LOFE4tZ67yTtWjfqKgTnkqltIlLAq8akYqoeWv7apQa5BBMBgCtB7123USABYrTBeA117117",
+		"item_date": "2017-03-24 00:00:00",
+		"title": "Google Slams Symantec for Failures in SSLTLS Certificate Process",
+		"url": "http://www.darkreading.com/vulnerabilities---threats/google-slams-symantec-for-failures-in-ssl-tls-certificate-process/d/d-id/1328483",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "B7KWNd4cYGmSz8laWv3I2hBJR123a1auEZfUr0llgtQt1mDWpSTaCc2S0NXPoDjKYg1hNY8ZElt6qLmchN87mlAw117117",
+		"item_date": "2017-03-23 00:00:00",
+		"title": "FBI director floats international framework on access to encrypted data",
+		"url": "http://www.pcworld.com/article/3184338/security/fbi-director-floats-international-framework-on-access-to-encrypted-data.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "NFuEkamYjXcS1eXzyaI6txoGSVfjCxQZJ7Dn123YCpQVt9ytWE2fogsOUMt6nRZQYOnnuCn1icGcAixlKluc3wMw117117",
+		"item_date": "2017-03-21 00:00:00",
+		"title": "Announcing Free and Automated SSL Certs For All Paid Dynos",
+		"url": "https://blog.heroku.com/announcing-automated-certificate-management",
+		"domain": "blog.heroku.com",
+		"image": ""
+	},
+	{
+		"curated_id": "T4B8avfYcWNI7CiK8yCzMuEkivREia2c9CAu0lRUhXZT3ntBwCsBMqpEcaC0XDDDAMM7iRT116J91235u3zCgVt2zA117117",
+		"item_date": "2017-03-21 00:00:00",
+		"title": "GitHub Uses Broken Cryptography But It Has a Plan",
+		"url": "https://motherboard.vice.com/en_us/article/github-uses-broken-encryption-but-it-has-a-plan",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "PDo6WxOMuK6XQPn7pAL9Gqlwn7GGeu67ErrN0NcnfM1163l3lbEFArUGnyUR6QOOMZT3dEfJWHHe5UyFTVKLJbgg117117",
+		"item_date": "2017-03-21 00:00:00",
+		"title": "The Encryption Debate in Europe",
+		"url": "https://www.lawfareblog.com/encryption-debate-europe-0",
+		"domain": "www.lawfareblog.com",
+		"image": ""
+	},
+	{
 		"curated_id": "D8R4O01MKx1sNLRqp42mLqQ2rOhYy9G3LC116NpN5q123qPRiHKdxVQnH7RIQhRq0grm359RHCh5wCx1e618aZcreQ117117",
 		"item_date": "2017-03-13 00:00:00",
 		"title": "Critical Vulnerability Uncovered in JSON Encryption",
