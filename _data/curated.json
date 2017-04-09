@@ -1,5 +1,37 @@
 [
 	{
+		"curated_id": "Bv27s6dX68Ba1167bdLbec1Ilpf9234IkKLRU8kRM9t116i4DeEfeqNB4c8mTYFVDtcjjp2NRXwiP8uvoZ1XR2NXuQ117117",
+		"item_date": "2017-04-06 00:00:00",
+		"title": "23 of Security Pros are Blind to Encrypted Traffic Threats",
+		"url": "http://www.itsecurityguru.org/2017/04/06/23-security-pros-blind-encrypted-traffic-threats/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "Fg0i6sUD6yl116iNRl6jqiTdispIN5qTstU51u3XOE547123f9123t123123zpuwR51wAf9xE63zadPQgw2WRLc9RwGTslLw117117",
+		"item_date": "2017-04-06 00:00:00",
+		"title": "AWS Lambda Encrypted Environment Variables",
+		"url": "https://dzone.com/articles/aws-lambda-encrypted-environment-variables",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "a116123VsB71ks8VaMMfAt70E0p1123b2EZ33VazVEe3O7xnHHAEikGTvpKX7QiXU2FwSslJHtJ6aB123BaQ5Q5krK1232PA117117",
+		"item_date": "2017-04-05 00:00:00",
+		"title": "Activists Need to Watch Out for Fake Encryption Keys",
+		"url": "https://motherboard.vice.com/en_us/article/activists-need-to-watch-out-for-fake-encryption-keys",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "CjxBTxI35slqnPAPQ123G3f5NrX6HD6W3D7nusR123jWPzUqf17A9MzRuHD123hP344KHEMyr6x0Z123fgsxIxMcnAtp3Q117117",
+		"item_date": "2017-04-04 00:00:00",
+		"title": "Encryption Policy and Freedom of the Press",
+		"url": "https://www.schneier.com/blog/archives/2017/04/encryption_poli.html",
+		"domain": "www.schneier.com",
+		"image": ""
+	},
+	{
 		"curated_id": "Mv9dstKGEpx840GCDtkuC123LOFE4tZ67yTtWjfqKgTnkqltIlLAq8akYqoeWv7apQa5BBMBgCtB7123USABYrTBeA117117",
 		"item_date": "2017-03-24 00:00:00",
 		"title": "Google Slams Symantec for Failures in SSLTLS Certificate Process",
