@@ -1,10 +1,58 @@
 [
 	{
+		"curated_id": "leWEQLaOz4qAnd48VQ4GO66fldUm116t0rt2jmQ123ITk6JmJFMpZx1FRBCO5QqiGhbk95Ouns1wMe6yPx116h9UWyeQ117117",
+		"item_date": "2017-04-14 00:00:00",
+		"title": "Launch Amazon Athena adds support for Querying Encrypted Data",
+		"url": "https://aws.amazon.com/blogs/aws/launch-amazon-athena-adds-support-for-querying-encrypted-data/",
+		"domain": "aws.amazon.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ac6uYbtbRj1IP116MxnSzUfR7aDB1aXud116lEgNsle42rlhMKcSjiCbFkL8GlR9FzGZWEygPYVn9rUdbqIER7glTw117117",
+		"item_date": "2017-04-14 00:00:00",
+		"title": "The Long Slog To Getting Encryption Right",
+		"url": "http://www.darkreading.com/attacks-breaches/the-long-slog-to-getting-encryption-right/d/d-id/1328629?_mc=RSS_DR_EDT",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "UJyquym116uT4pgFebYnXvtvenm2zLZv4UT5xpzdFJTpMMyW8qplJ8ErDdiU4Jf4lVwK2sUjnE123Vjg3ksDg7guFA117117",
+		"item_date": "2017-04-12 00:00:00",
+		"title": "DotGov Domain Registration Program to Provide HTTPS Preloading in May",
+		"url": "https://www.digitalgov.gov/2017/04/12/dotgov-domain-registration-program-to-provide-https-preloading-in-may/",
+		"domain": "www.digitalgov.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "CxqGRVjlCLmu91168utDs2W6f6HezzA2xqyfgPPYJyWM5l8sK1P116N6q0z2116H12gVaDRhMrv1UW1YgpZrEJUwh0NA117117",
+		"item_date": "2017-04-13 00:00:00",
+		"title": "Hewlett Packard Enterprise touts encryption tool for federal clients",
+		"url": "http://thehill.com/policy/cybersecurity/328636-hewlett-packard-touts-encryption-tool-for-federal-clientsn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
 		"curated_id": "1Yh9CLe3z1YJiqCzJ123J1wpG8yC6p116u9PY9XPGFMBRQaPvLxu4Tv4QPsrvvanbAIVusJiggK0DMpFmZYqbQWtBg117117",
 		"item_date": "2017-04-13 00:00:00",
 		"title": "Amazon Adds Cross Region and Encrypted Replication Support for Aurora",
-		"url": "http://www.infoq.com/news/2017/04/Amazon-Aurora-Update?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+		"url": "https://www.infoq.com/news/2017/04/Amazon-Aurora-Update",
 		"domain": "www.infoq.com",
+		"image": ""
+	},
+	{
+		"curated_id": "JoQ7vo4vEc1VTY0nlMhSFTqmJ123jo97hb6ngyzGxCYPlVNXXYrF1235zJWqFeZtvuIJRuJAUiD1uErxwvhfXW7gYw117117",
+		"item_date": "2017-04-10 00:00:00",
+		"title": "BetterTLS  A Name Constraints test suite for HTTPS clients",
+		"url": "http://techblog.netflix.com/2017/04/bettertls-name-constraints-test-suite.html",
+		"domain": "techblog.netflix.com",
+		"image": ""
+	},
+	{
+		"curated_id": "NRfC8l4cFOo57S6ffiIqdX116ymTWnq6kqzm3brg0CHaqWtgfzQXChe0AJkdMFRYvXjXzorgGTSOVr8DY1kqYtGw117117",
+		"item_date": "2017-04-11 00:00:00",
+		"title": "Encryption In Automation",
+		"url": "http://blog.opto22.com/optoblog/encryption-in-automation",
+		"domain": "blog.opto22.com",
 		"image": ""
 	},
 	{
