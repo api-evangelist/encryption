@@ -1,5 +1,29 @@
 [
 	{
+		"curated_id": "AeS0GLiV6d7ZEnK8a6Ud3JJBfQGfKwrl4heurz9kTSkzXOJe9SIIQ64eOfHR2wiZEfsysVNAbgJsfyW7ODyLEg117117",
+		"item_date": "2017-04-26 00:00:00",
+		"title": "W3C Launches FrontEnd Developer Certificate",
+		"url": "https://www.programmableweb.com/news/w3c-launches-front-end-developer-certificate/brief/2017/04/26",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "N1IuadNnuERtvhefRcdz7a83LVASGqqAaqofp123zWv9o5av2akgNofVHjyz3s1EGlcQs6XUCNgW5nVeyuPJ5L123Q117117",
+		"item_date": "2017-04-26 00:00:00",
+		"title": "mbedTLS SSL Certificate Verification With Mosquitto lwIP and MQTT",
+		"url": "https://dzone.com/articles/mbedtls-ssl-certificate-verification-with-mosquitto-lwip-and-mqtt",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "A0zWhk0ZOgBPfKO123XPLkldEsNzp6vkeNR7A3IyFge55QKWTQ7I5LQbyeOTk5ycNsFSJRm74pNutQR7c4S1dKdg117117",
+		"item_date": "2017-04-27 08:11:01",
+		"title": "How to establish strong microservice security using SSL TLS and API gateways",
+		"url": "http://www.techrepublic.com/article/how-to-establish-strong-microservice-security-using-ssl-tls-and-api-gateways/",
+		"domain": "www.techrepublic.com",
+		"image": ""
+	},
+	{
 		"curated_id": "leWEQLaOz4qAnd48VQ4GO66fldUm116t0rt2jmQ123ITk6JmJFMpZx1FRBCO5QqiGhbk95Ouns1wMe6yPx116h9UWyeQ117117",
 		"item_date": "2017-04-14 00:00:00",
 		"title": "Amazon Athena adds support for Querying Encrypted Data",
