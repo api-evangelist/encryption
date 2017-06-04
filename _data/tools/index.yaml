@@ -1,0 +1,65 @@
+- slug: openssl
+  name: openssl
+  description: Akamai fork of openssl master.
+  url: 'https://github.com/akamai/openssl'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Encryption
+- slug: certificate-transparency
+  name: Certificate Transparency
+  description: Auditing for TLS certificates.
+  url: 'https://github.com/google/certificate-transparency'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Encryption,Transparency'
+- slug: certificatetransparency
+  name: certificate-transparency
+  description: Auditing for TLS certificates.
+  url: 'https://github.com/google/certificate-transparency'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Encryption
+- slug: certificatetransparencyrfcs
+  name: Google Certificate Transparency
+  description: >-
+    Google's Certificate Transparency project fixes several structural flaws in
+    the SSL certificate system, which is the main cryptographic system that
+    underlies all HTTPS connections. These flaws weaken the reliability and
+    effectiveness of encrypted Internet connections and can compromise critical
+    TLS/SSL mechanisms, including domain validation, end-to-end encryption, and
+    the chains of trust set up by certificate authorities. If left unchecked,
+    these flaws can facilitate a wide range of security attacks, such as website
+    spoofing, server impersonation, and man-in-the-middle attacks.
+  url: 'https://www.certificate-transparency.org/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Encryption
+- slug: httpseverywhere
+  name: https-everywhere
+  description: >-
+    The official Github mirror of the HTTPS Everywhere repository at
+    https://gitweb.torproject.org/https
+  url: 'https://github.com/EFForg/https-everywhere'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Encryption
