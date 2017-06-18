@@ -1,49 +1,4 @@
 ---
-- curated_id: 788703a4a07e39f5a87d8fa9820e6f66
-  item_date: "2012-04-24 09:52:04"
-  title: 'Official Google Enterprise Blog: Introducing Google Drive, the newest member
-    of Google Apps'
-  url: http://googleforwork.blogspot.com/2012/04/introducing-google-drive-newest-member.html
-  domain: googleforwork.blogspot.com
-  image: ""
-- curated_id: b8b92a548e5ad13b2a2ff9ab974b2bd6
-  item_date: "2013-04-17 00:00:00"
-  title: Amazon RDS for Oracle Now Supports Transparent Data Encryption and Native
-    Network Encryption
-  url: https://aws.amazon.com/about-aws/whats-new/2013/04/18/amazon-rds-oracle-encryption/
-  domain: aws.amazon.com
-  image: ""
-- curated_id: a00c793e8810c04d01781edeb54c1c5a
-  item_date: "2013-04-17 00:00:00"
-  title: Encryption Project Uses Embedly Extract to Preprocess Articles
-  url: https://medium.com/m/global-identity
-  domain: medium.com
-  image: ""
-- curated_id: 6af39e20c0192bafe4d1a1bfbc12bb00
-  item_date: "2013-06-20 00:00:00"
-  title: 'Onehub API: Serious Security For File Sharing'
-  url: http://www.programmableweb.com/2013/06/20/onehub-api-serious-security-for-file-sharing/
-  domain: www.programmableweb.com
-  image: ""
-- curated_id: bcd8891148210ecd252168d530a1f15c
-  item_date: "2014-01-29 21:50:13"
-  title: Encrypting our Congress API and protecting your location - Sunlight Foundation
-    Blog
-  url: http://sunlightfoundation.com/blog/2014/01/28/encrypting-our-congress-api-and-protecting-your-location/
-  domain: sunlightfoundation.com
-  image: ""
-- curated_id: 8115adc75c0a33c94bbc5022faf24b1d
-  item_date: "2014-06-12 00:00:00"
-  title: Use Your own Encryption Keys with S3s Server-Side Encryption
-  url: https://aws.amazon.com/blogs/aws/s3-encryption-with-your-keys/
-  domain: aws.amazon.com
-  image: ""
-- curated_id: 826ab4b982662755ff9b3657dd06917f
-  item_date: "2014-09-30 00:00:00"
-  title: 'Eric Holder: New Encryption Systems Thwarting Child Porn, Kidnapping Investigations'
-  url: http://www.huffingtonpost.com/2014/09/30/eric-holder-iphone-encryption_n_5908122.html
-  domain: www.huffingtonpost.com
-  image: ""
 - curated_id: 69756fa8e4e72511ffc197f0e5d5c146
   item_date: "2015-01-23 00:00:00"
   title: Defending encryption doesn?t mean opposing targeted surveillance
@@ -116,17 +71,17 @@
   url: https://www.box.com/blog/encryption-keys-brief-and-exciting-history/
   domain: www.box.com
   image: ""
+- curated_id: 905775dc54634a9980be007ce60808b4
+  item_date: "2015-05-25 11:02:52"
+  title: 'Philip Zimmermann: king of encryption reveals his fears for privacy'
+  url: http://www.theguardian.com/technology/2015/may/25/philip-zimmermann-king-encryption-reveals-fears-privacy
+  domain: www.theguardian.com
+  image: ""
 - curated_id: 8a2401f94188feb266a87165a1d391e5
   item_date: "2015-05-25 11:02:52"
   title: 'Philip Zimmermann: king of encryption reveals his fears for privacy | Technology
     | The Guardian'
   url: https://www.theguardian.com/technology/2015/may/25/philip-zimmermann-king-encryption-reveals-fears-privacy
-  domain: www.theguardian.com
-  image: ""
-- curated_id: 905775dc54634a9980be007ce60808b4
-  item_date: "2015-05-25 11:02:52"
-  title: 'Philip Zimmermann: king of encryption reveals his fears for privacy'
-  url: http://www.theguardian.com/technology/2015/may/25/philip-zimmermann-king-encryption-reveals-fears-privacy
   domain: www.theguardian.com
   image: ""
 - curated_id: 6eaa780974b6b4920a806d8ce2d426f3
@@ -192,6 +147,12 @@
   url: https://18f.gsa.gov/2015/06/08/the-us-government-is-moving-to-https-everywhere/
   domain: 18f.gsa.gov
   image: ""
+- curated_id: 2fe3dcbfa8b3427eff44d59b19918cb4
+  item_date: "2015-06-09 00:00:00"
+  title: How to implement SSL/TLS in Varnish Plus?
+  url: https://www.varnish-software.com/blog/how-implement-ssltls-varnish-plus
+  domain: www.varnish-software.com
+  image: ""
 - curated_id: aa5480a7516f18f2acc4d8c092ee0398
   item_date: "2015-06-09 00:00:00"
   title: 'Register for and Attend This June 16 Webinar--Deep Dive: Protecting Your
@@ -211,12 +172,6 @@
   url: http://www.huffingtonpost.com/2015/06/09/obama-encryption_n_7542070.html
   domain: www.huffingtonpost.com
   image: ""
-- curated_id: 2fe3dcbfa8b3427eff44d59b19918cb4
-  item_date: "2015-06-09 00:00:00"
-  title: How to implement SSL/TLS in Varnish Plus?
-  url: https://www.varnish-software.com/blog/how-implement-ssltls-varnish-plus
-  domain: www.varnish-software.com
-  image: ""
 - curated_id: d1de3b51de8e57934ec0e960aa55887e
   item_date: "2015-06-10 00:00:00"
   title: Obama?s received yet another open letter calling for him to defend encryption
@@ -229,17 +184,17 @@
   url: https://blog.wikimedia.org/2015/06/12/securing-wikimedia-sites-with-https/
   domain: blog.wikimedia.org
   image: ""
-- curated_id: 5dd64d726a0350a01540f9005940b3c3
-  item_date: "2015-06-15 00:00:00"
-  title: Microsoft will soon use HTTPS to encrypt Bing search traffic by default
-  url: http://venturebeat.com/2015/06/15/microsoft-will-soon-use-https-to-encrypt-bing-search-traffic-by-default/
-  domain: venturebeat.com
-  image: ""
 - curated_id: e4c1932271eacf714c3ea5c0734a435a
   item_date: "2015-06-15 00:00:00"
   title: Bing will soon encrypt your search queries by default
   url: http://thenextweb.com/microsoft/2015/06/15/bing-will-soon-encrypt-your-search-queries-by-default/
   domain: thenextweb.com
+  image: ""
+- curated_id: 5dd64d726a0350a01540f9005940b3c3
+  item_date: "2015-06-15 00:00:00"
+  title: Microsoft will soon use HTTPS to encrypt Bing search traffic by default
+  url: http://venturebeat.com/2015/06/15/microsoft-will-soon-use-https-to-encrypt-bing-search-traffic-by-default/
+  domain: venturebeat.com
   image: ""
 - curated_id: 830639bed1a771d120fbde53a00fd633
   item_date: "2015-06-16 00:00:00"
@@ -247,17 +202,17 @@
   url: https://www.infoq.com/news/2015/06/SQL-Server-Always-Encrypted
   domain: www.infoq.com
   image: ""
-- curated_id: b75cae4bbe1355c4984286d5fa149984
-  item_date: "2015-06-17 00:00:00"
-  title: Preventing hack using encryption ?not feasible? says US government official
-  url: http://thenextweb.com/insider/2015/06/17/preventing-hack-using-encryption-not-feasible-says-us-government-official/
-  domain: thenextweb.com
-  image: ""
 - curated_id: b27279daa11ee68bf584455277d50673
   item_date: "2015-06-17 00:00:00"
   title: Reddit is moving to total encryption
   url: http://www.theverge.com/2015/6/17/8800043/reddit-ssl-encryption-privacy-secure-connection
   domain: www.theverge.com
+  image: ""
+- curated_id: b75cae4bbe1355c4984286d5fa149984
+  item_date: "2015-06-17 00:00:00"
+  title: Preventing hack using encryption ?not feasible? says US government official
+  url: http://thenextweb.com/insider/2015/06/17/preventing-hack-using-encryption-not-feasible-says-us-government-official/
+  domain: thenextweb.com
   image: ""
 - curated_id: fef08b442de05b0fcb6023400679df6b
   item_date: "2015-06-18 00:00:00"
@@ -283,17 +238,17 @@
   url: http://www.nytimes.com/2015/07/08/technology/code-specialists-oppose-us-and-british-government-access-to-encrypted-communication.html
   domain: www.nytimes.com
   image: ""
-- curated_id: d378c42fddfe990d8b399ec08620fef3
-  item_date: "2015-07-09 00:00:00"
-  title: FBI chief claims encrypted communications danger to country
-  url: http://disruptiveviews.com/fbi-chief-claims-encrypted-communications-danger-to-country/
-  domain: disruptiveviews.com
-  image: ""
 - curated_id: fec95f70f20790c564bc9e17682ee10f
   item_date: "2015-07-09 00:00:00"
   title: The Risks of Mandating Backdoors in Encryption Products
   url: https://www.schneier.com/blog/archives/2015/07/the_risks_of_ma.html
   domain: www.schneier.com
+  image: ""
+- curated_id: d378c42fddfe990d8b399ec08620fef3
+  item_date: "2015-07-09 00:00:00"
+  title: FBI chief claims encrypted communications danger to country
+  url: http://disruptiveviews.com/fbi-chief-claims-encrypted-communications-danger-to-country/
+  domain: disruptiveviews.com
   image: ""
 - curated_id: 06a001759233cf1ef6d1d536fcd01218
   item_date: "2015-08-11 00:00:00"
@@ -446,17 +401,17 @@
   url: http://thenextweb.com/apps/2016/01/21/bittorrent-sync-adds-folder-encryption-and-other-features-for-power-users/
   domain: thenextweb.com
   image: ""
-- curated_id: 850f613759686e9a92517c91e892f347
-  item_date: "2016-01-21 00:00:00"
-  title: Does the NSA?s pro-encryption stance mean it?s already broken common protocols?
-  url: http://thenextweb.com/opinion/2016/01/22/does-the-nsas-pro-encryption-stance-mean-its-already-broken-common-protocols/
-  domain: thenextweb.com
-  image: ""
 - curated_id: b62cd8abfdd07efc03bf2970b4176fdc
   item_date: "2016-01-21 00:00:00"
   title: 'Now Available: AWS Certificate Manager'
   url: https://blogs.aws.amazon.com/security/post/Tx24WML741X5POQ/Now-Available-AWS-Certificate-Manager
   domain: blogs.aws.amazon.com
+  image: ""
+- curated_id: 850f613759686e9a92517c91e892f347
+  item_date: "2016-01-21 00:00:00"
+  title: Does the NSA?s pro-encryption stance mean it?s already broken common protocols?
+  url: http://thenextweb.com/opinion/2016/01/22/does-the-nsas-pro-encryption-stance-mean-its-already-broken-common-protocols/
+  domain: thenextweb.com
   image: ""
 - curated_id: 1b706c692482f70435c4ac446d76c1de
   item_date: "2016-01-21 00:00:00"
@@ -464,18 +419,18 @@
   url: https://aws.amazon.com/blogs/aws/new-aws-certificate-manager-deploy-ssltls-based-apps-on-aws/
   domain: aws.amazon.com
   image: ""
+- curated_id: a77308cb313335c1eaa9d137a6654835
+  item_date: "2016-01-22 00:00:00"
+  title: UK Government Promoting Backdoor-Enabled Voice Encryption Protocol
+  url: https://www.schneier.com/blog/archives/2016/01/uk_government_p.html
+  domain: www.schneier.com
+  image: ""
 - curated_id: 9a30dc04d5d0e5a7b17672263b447eab
   item_date: "2016-01-22 00:00:00"
   title: District attorney offices are bringing the encryption war directly to the
     states
   url: http://www.theverge.com/2016/1/22/10815054/california-jim-cooper-encryption-district-attorney
   domain: www.theverge.com
-  image: ""
-- curated_id: a77308cb313335c1eaa9d137a6654835
-  item_date: "2016-01-22 00:00:00"
-  title: UK Government Promoting Backdoor-Enabled Voice Encryption Protocol
-  url: https://www.schneier.com/blog/archives/2016/01/uk_government_p.html
-  domain: www.schneier.com
   image: ""
 - curated_id: 58c7ba6000c035daf7fe0c30d922c95f
   item_date: "2016-01-28 00:00:00"
@@ -503,17 +458,17 @@
   url: https://www.shopify.com/blog/73511365-all-shopify-stores-now-use-ssl-encryption-everywhere
   domain: www.shopify.com
   image: ""
-- curated_id: 966a30c361754f65eec40d1249544ff2
-  item_date: "2016-02-04 00:00:00"
-  title: Introducing Box KeySafe
-  url: https://www.box.com/blog/box-keysafe/
-  domain: www.box.com
-  image: ""
 - curated_id: 0b4cce5e9be4dab24f20018be4c2a912
   item_date: "2016-02-04 00:00:00"
   title: Box launches KeySafe service for secure storage of encryption keys
   url: http://venturebeat.com/2016/02/04/box-launches-keysafe-service-for-secure-storage-of-encryption-keys/
   domain: venturebeat.com
+  image: ""
+- curated_id: 966a30c361754f65eec40d1249544ff2
+  item_date: "2016-02-04 00:00:00"
+  title: Introducing Box KeySafe
+  url: https://www.box.com/blog/box-keysafe/
+  domain: www.box.com
   image: ""
 - curated_id: 34baf03ccd38e9817e5e057d80ab85a0
   item_date: "2016-02-10 00:00:00"
@@ -564,12 +519,6 @@
   url: http://www.motherjones.com/politics/2016/02/apple-tim-cook-fbi-hack-san-bernardino
   domain: www.motherjones.com
   image: ""
-- curated_id: f55f5a70a61a2a2c25d2ca18af7182fb
-  item_date: "2016-02-17 00:00:00"
-  title: End To End Encryption
-  url: http://avc.com/2016/02/end-to-end-encryption/
-  domain: avc.com
-  image: ""
 - curated_id: 08937a28438e1542e5ec0a0216b44590
   item_date: "2016-02-17 00:00:00"
   title: Judge Orders Apple to Help FBI Crack San Bernardino iPhone
@@ -588,6 +537,12 @@
   url: https://www.nginx.com/blog/free-certificates-lets-encrypt-and-nginx/
   domain: www.nginx.com
   image: ""
+- curated_id: f55f5a70a61a2a2c25d2ca18af7182fb
+  item_date: "2016-02-17 00:00:00"
+  title: End To End Encryption
+  url: http://avc.com/2016/02/end-to-end-encryption/
+  domain: avc.com
+  image: ""
 - curated_id: 4635244443ec1a3c623a26c3080bc912
   item_date: "2016-02-17 00:00:00"
   title: The FBI is striking at the heart of Apple?s security system
@@ -600,11 +555,11 @@
   url: https://www.apple.com/customer-letter/
   domain: www.apple.com
   image: ""
-- curated_id: 9fa24429792889eb9151fcb218037c26
+- curated_id: 6993a7be426f6747e61a01a0a743b9b7
   item_date: "2016-02-18 00:00:00"
-  title: Facebook and Twitter join Apple?s side in encryption battle
-  url: http://www.theverge.com/2016/2/18/11056074/apple-iphone-encryption-fbi-facebook-twitter-support
-  domain: www.theverge.com
+  title: How Tim Cook Became a Bulwark for Digital Privacy
+  url: http://www.nytimes.com/2016/02/19/technology/how-tim-cook-became-a-bulwark-for-digital-privacy.html
+  domain: www.nytimes.com
   image: ""
 - curated_id: 948b43574b520ce2b851ce12cb96aff2
   item_date: "2016-02-18 00:00:00"
@@ -612,17 +567,17 @@
   url: https://dzone.com/articles/on-apple-and-encryption-ted-newards-blog
   domain: dzone.com
   image: ""
-- curated_id: 6993a7be426f6747e61a01a0a743b9b7
-  item_date: "2016-02-18 00:00:00"
-  title: How Tim Cook Became a Bulwark for Digital Privacy
-  url: http://www.nytimes.com/2016/02/19/technology/how-tim-cook-became-a-bulwark-for-digital-privacy.html
-  domain: www.nytimes.com
-  image: ""
 - curated_id: 97c6f2a93690233c3aa6f9ed2ccc1942
   item_date: "2016-02-18 00:00:00"
   title: Reform Government Surveillance Statement Regarding Encryption and Security
   url: http://reformgs.tumblr.com/post/139513553507/reform-government-surveillance-statement
   domain: reformgs.tumblr.com
+  image: ""
+- curated_id: 9fa24429792889eb9151fcb218037c26
+  item_date: "2016-02-18 00:00:00"
+  title: Facebook and Twitter join Apple?s side in encryption battle
+  url: http://www.theverge.com/2016/2/18/11056074/apple-iphone-encryption-fbi-facebook-twitter-support
+  domain: www.theverge.com
   image: ""
 - curated_id: b4c26c667637e7ec5789b588c8a63245
   item_date: "2016-02-18 08:59:09"
@@ -660,17 +615,17 @@
   url: https://www.box.com/blog/debate-heart-digital-age/
   domain: www.box.com
   image: ""
-- curated_id: e56bd717c683d0e6729ab2d6fffa764d
-  item_date: "2016-02-22 00:00:00"
-  title: Decentralized Public Key Infrastructure
-  url: http://www.windley.com//archives/2016/02/decentralized_public_key_infrastructure.shtml
-  domain: www.windley.com
-  image: ""
 - curated_id: 9a05d1d592b4f4cd21fa86457ee1dc5d
   item_date: "2016-02-22 00:00:00"
   title: Decrypting an iPhone for the FBI
   url: https://www.schneier.com/blog/archives/2016/02/decrypting_an_i.html
   domain: www.schneier.com
+  image: ""
+- curated_id: e56bd717c683d0e6729ab2d6fffa764d
+  item_date: "2016-02-22 00:00:00"
+  title: Decentralized Public Key Infrastructure
+  url: http://www.windley.com//archives/2016/02/decentralized_public_key_infrastructure.shtml
+  domain: www.windley.com
   image: ""
 - curated_id: a612b6ec0da854c4a33f4a7bad959617
   item_date: "2016-02-23 00:00:00"
@@ -716,17 +671,17 @@
   url: http://disruptiveviews.com/judge-backs-apple-in-encryption-fight-with-government/
   domain: disruptiveviews.com
   image: ""
-- curated_id: 72e3f97ccf32d24132ea0e6d9fb57692
-  item_date: "2016-03-02 00:00:00"
-  title: Major SSL Vulnerability Affects OpenSSL and HTTPS server traffic
-  url: http://www.infoq.com/news/2016/03/two-new-openssl-flaws
-  domain: www.infoq.com
-  image: ""
 - curated_id: 2116d4cc563147295b542f2879077b79
   item_date: "2016-03-02 00:00:00"
   title: 'U.S. Secretary of Defense on Apple encryption: ?I?m not a believer in backdoors?'
   url: http://venturebeat.com/2016/03/02/u-s-secretary-of-defense-on-apple-encryption-im-not-a-believer-in-backdoors/
   domain: venturebeat.com
+  image: ""
+- curated_id: 72e3f97ccf32d24132ea0e6d9fb57692
+  item_date: "2016-03-02 00:00:00"
+  title: Major SSL Vulnerability Affects OpenSSL and HTTPS server traffic
+  url: http://www.infoq.com/news/2016/03/two-new-openssl-flaws
+  domain: www.infoq.com
   image: ""
 - curated_id: e6eeed269b3627342c34d213f5302c72
   item_date: "2016-03-06 00:00:00"
@@ -788,18 +743,18 @@
   url: https://dzone.com/articles/securing-mongodb-part-3-database-auditing-and-encr
   domain: dzone.com
   image: ""
+- curated_id: 7cd26b0edeae1c5c4ae2f0fad806a6ab
+  item_date: "2016-03-22 00:00:00"
+  title: Apple and FBI Court Appearance Postponed
+  url: http://www.infoq.com/news/2016/03/apple-fbi-postponed
+  domain: www.infoq.com
+  image: ""
 - curated_id: e518d1329d8499130fabf81a302d92da
   item_date: "2016-03-22 00:00:00"
   title: How to Use the New AWS Encryption SDK to Simplify Data Encryption and Improve
     Application Availability
   url: https://blogs.aws.amazon.com/security/post/TxGBG3U5VUS2HY/How-to-Use-the-New-AWS-Encryption-SDK-to-Simplify-Data-Encryption-and-Improve-Ap
   domain: blogs.aws.amazon.com
-  image: ""
-- curated_id: 7cd26b0edeae1c5c4ae2f0fad806a6ab
-  item_date: "2016-03-22 00:00:00"
-  title: Apple and FBI Court Appearance Postponed
-  url: http://www.infoq.com/news/2016/03/apple-fbi-postponed
-  domain: www.infoq.com
   image: ""
 - curated_id: 72687b78503c76385756696af8edc668
   item_date: "2016-03-22 00:00:00"
@@ -826,30 +781,23 @@
   url: http://thenextweb.com/us/2016/03/23/apple-reportedly-working-israeli-mobile-forensics-company-crack-san-bernardino-iphone/
   domain: thenextweb.com
   image: ""
-- curated_id: 59f8d7f8866774fcaea446a2f9686f4d
-  item_date: "2016-03-24 00:00:00"
-  title: Cryptography Is Harder Than It Looks
-  url: https://www.schneier.com/blog/archives/2016/03/cryptography_is.html
-  domain: www.schneier.com
-  image: ""
 - curated_id: 489f8880bc727d5a6ddd5892d08aa1cf
   item_date: "2016-03-24 00:00:00"
   title: More Encryption, More Notifications, More Email Security
   url: https://security.googleblog.com/2016/03/more-encryption-more-notifications-more.html
   domain: security.googleblog.com
   image: ""
+- curated_id: 59f8d7f8866774fcaea446a2f9686f4d
+  item_date: "2016-03-24 00:00:00"
+  title: Cryptography Is Harder Than It Looks
+  url: https://www.schneier.com/blog/archives/2016/03/cryptography_is.html
+  domain: www.schneier.com
+  image: ""
 - curated_id: d59ffc5274e7fe232411ffad6b42eed1
   item_date: "2016-03-28 00:00:00"
   title: The Year 40-bit Encryption Was Cracked
   url: http://dyn.com/blog/the-year-40-bit-encryption-was-cracked/
   domain: dyn.com
-  image: ""
-- curated_id: 2891a81299fdcc9d865351234592de95
-  item_date: "2016-03-30 00:00:00"
-  title: 'ACLU Map Documents the 63 Known Cases in Which Government Has Tried to Use
-    All Writs Act to Overcome Encryption:'
-  url: https://www.aclu.org/blog/speak-freely/map-shows-how-apple-fbi-fight-was-about-much-more-one-phone
-  domain: www.aclu.org
   image: ""
 - curated_id: 5b37a851aa53e67b0f9c08bbca9a6117
   item_date: "2016-03-30 00:00:00"
@@ -862,6 +810,13 @@
   title: 'FBI vs Apple: A Postmortem'
   url: https://hackaday.com/2016/03/30/fbi-vs-apple-a-postmortem/
   domain: hackaday.com
+  image: ""
+- curated_id: 2891a81299fdcc9d865351234592de95
+  item_date: "2016-03-30 00:00:00"
+  title: 'ACLU Map Documents the 63 Known Cases in Which Government Has Tried to Use
+    All Writs Act to Overcome Encryption:'
+  url: https://www.aclu.org/blog/speak-freely/map-shows-how-apple-fbi-fight-was-about-much-more-one-phone
+  domain: www.aclu.org
   image: ""
 - curated_id: 48f5b4970664adceb1beed2d2024ce66
   item_date: "2016-03-31 08:40:39"
@@ -889,17 +844,17 @@
   url: http://thenextweb.com/apps/2016/04/05/whatsapp-now-supports-end-end-encryption-picture-voice-text-messages/
   domain: thenextweb.com
   image: ""
-- curated_id: 19279dfb12207082274cc15d87700558
-  item_date: "2016-04-06 00:00:00"
-  title: WhatsApp Re-Ignites the Encryption Debate With Its Software Update
-  url: http://www.huffingtonpost.com/anurag-harsh/whatsapp-reignites-the-en_b_9626298.html
-  domain: www.huffingtonpost.com
-  image: ""
 - curated_id: cf38df81e4cf55b9327f4d2399d98f4d
   item_date: "2016-04-06 00:00:00"
   title: WhatsApp bolsters encryption ? now end-to-end
   url: http://disruptiveviews.com/whatsapp-bolsters-encryption-now-end-end/
   domain: disruptiveviews.com
+  image: ""
+- curated_id: 19279dfb12207082274cc15d87700558
+  item_date: "2016-04-06 00:00:00"
+  title: WhatsApp Re-Ignites the Encryption Debate With Its Software Update
+  url: http://www.huffingtonpost.com/anurag-harsh/whatsapp-reignites-the-en_b_9626298.html
+  domain: www.huffingtonpost.com
   image: ""
 - curated_id: 16ac97d27739cd3a58d8b5586e98a9bf
   item_date: "2016-04-07 00:00:00"
@@ -919,17 +874,17 @@
   url: http://techcrunch.com/2016/04/08/wordpress-com-turns-on-https-encryption-for-all-websites/
   domain: techcrunch.com
   image: ""
-- curated_id: 6f91b2ced875f308cb0fbfe6a465d4ab
-  item_date: "2016-04-13 00:00:00"
-  title: Binding SSL certificates to Warewolf Server for HTTPS communication
-  url: https://warewolf.io/ESB-blog/binding-ssl-certificates-to-warewolf-server-for-https-communication/
-  domain: warewolf.io
-  image: ""
 - curated_id: 988e418c525e993e51db0b5a637b22e1
   item_date: "2016-04-13 00:00:00"
   title: 'Covering Your Assets: Data Encryption in API Management'
   url: http://www.apiman.io/blog/security/gateway/2016/04/13/data-encryption.html
   domain: www.apiman.io
+  image: ""
+- curated_id: 6f91b2ced875f308cb0fbfe6a465d4ab
+  item_date: "2016-04-13 00:00:00"
+  title: Binding SSL certificates to Warewolf Server for HTTPS communication
+  url: https://warewolf.io/ESB-blog/binding-ssl-certificates-to-warewolf-server-for-https-communication/
+  domain: warewolf.io
   image: ""
 - curated_id: fff712ab69edd341856e111057ab6fd0
   item_date: "2016-04-13 00:00:00"
@@ -1021,29 +976,29 @@
   url: https://dzone.com/articles/setting-up-https-for-your-rest-api-withnbspboxfuse
   domain: dzone.com
   image: ""
-- curated_id: 8432ee115a46c25d3e7d6b85640dab04
-  item_date: "2016-05-18 00:00:00"
-  title: Announcing Heroku Free SSL Beta and Flexible Dyno Hours
-  url: https://blog.heroku.com/announcing_heroku_free_ssl_beta_and_flexible_dyno_hours
-  domain: blog.heroku.com
-  image: ""
 - curated_id: cbb46cc0870f3e68a47e3c7e16916074
   item_date: "2016-05-18 00:00:00"
   title: Googles Allo runs on the same encryption tech that powers WhatsApp
   url: http://www.theverge.com/2016/5/18/11705744/google-allo-encryption-signal-open-whisper-systems-whatsapp
   domain: www.theverge.com
   image: ""
-- curated_id: 18d423dd3b239c470e67103ade047589
-  item_date: "2016-05-23 00:00:00"
-  title: How to Use the REST API to Encrypt S3 Objects by Using AWS KMS
-  url: https://blogs.aws.amazon.com/security/post/Tx1XVNEO1G6VT04/How-to-Use-the-REST-API-to-Encrypt-S3-Objects-by-Using-AWS-KMS
-  domain: blogs.aws.amazon.com
+- curated_id: 8432ee115a46c25d3e7d6b85640dab04
+  item_date: "2016-05-18 00:00:00"
+  title: Announcing Heroku Free SSL Beta and Flexible Dyno Hours
+  url: https://blog.heroku.com/announcing_heroku_free_ssl_beta_and_flexible_dyno_hours
+  domain: blog.heroku.com
   image: ""
 - curated_id: 4c08ef0a9ef33250857ac6456b425164
   item_date: "2016-05-23 00:00:00"
   title: Google?s Encryption Choices With Allo
   url: https://www.buzzfeed.com/hamzashaban/why-googles-encryption-choices-matter
   domain: www.buzzfeed.com
+  image: ""
+- curated_id: 18d423dd3b239c470e67103ade047589
+  item_date: "2016-05-23 00:00:00"
+  title: How to Use the REST API to Encrypt S3 Objects by Using AWS KMS
+  url: https://blogs.aws.amazon.com/security/post/Tx1XVNEO1G6VT04/How-to-Use-the-REST-API-to-Encrypt-S3-Objects-by-Using-AWS-KMS
+  domain: blogs.aws.amazon.com
   image: ""
 - curated_id: e715c010d0d0815c213d950357647d67
   item_date: "2016-06-06 00:00:00"
@@ -1105,16 +1060,16 @@
   url: https://www.nginx.com/blog/lets-encrypt-tls-nginx/
   domain: www.nginx.com
   image: ""
-- curated_id: 2c14f70811f67e15cc80a2e29f0e74fb
-  item_date: "2016-07-15 00:00:00"
-  title: Encrypted comms company Silent Circle closes $50M Series C
-  url: https://techcrunch.com/2016/07/15/encrypted-comms-company-silent-circle-closes-50m-series-c/
-  domain: techcrunch.com
-  image: ""
 - curated_id: f42612178eb08346c735f2f16560fa40
   item_date: "2016-07-15 00:00:00"
   title: UK surveillance bill includes powers to limit end-to-end encryption
   url: https://techcrunch.com/2016/07/15/uk-surveillance-bill-includes-powers-to-limit-end-to-end-encryption/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 2c14f70811f67e15cc80a2e29f0e74fb
+  item_date: "2016-07-15 00:00:00"
+  title: Encrypted comms company Silent Circle closes $50M Series C
+  url: https://techcrunch.com/2016/07/15/encrypted-comms-company-silent-circle-closes-50m-series-c/
   domain: techcrunch.com
   image: ""
 - curated_id: 9766c2666c9c5481d6c9656b6355d2e0
@@ -1136,18 +1091,18 @@
     http://thehill.com/policy/cybersecurity/287964-week-ahead-encryption-fight-poised-to-heat-up
   domain: thehill.com
   image: ""
-- curated_id: 36fce1b904cbb59b70d80e42c09ab5fd
-  item_date: "2016-07-19 00:00:00"
-  title: ""
-  url: https://dzone.com/articles/letsencrypt-tls-for-nginx-nginx
-  domain: dzone.com
-  image: ""
 - curated_id: 2bea01ff0ccdd66db5d059aa7a5cc9c6
   item_date: "2016-07-19 00:00:00"
   title: 'Beyond the Crypto Wars: Access Now releases outcomes report from Crypto
     Summit 2.0'
   url: https://www.accessnow.org/beyond-crypto-wars-access-now-releases-outcomes-report-crypto-summit-2-0/
   domain: www.accessnow.org
+  image: ""
+- curated_id: 36fce1b904cbb59b70d80e42c09ab5fd
+  item_date: "2016-07-19 00:00:00"
+  title: ""
+  url: https://dzone.com/articles/letsencrypt-tls-for-nginx-nginx
+  domain: dzone.com
   image: ""
 - curated_id: 2806fcc4aeffbb2641f6f4ec2e69b0fa
   item_date: "2016-07-19 00:00:00"
@@ -1174,18 +1129,18 @@
   url: https://security.googleblog.com/2016/07/bringing-hsts-to-wwwgooglecom.html
   domain: security.googleblog.com
   image: ""
+- curated_id: 6b2d237a4817be358705fc489f21c457
+  item_date: "2016-08-01 00:00:00"
+  title: Intel Crosswalk bug invalidates SSL protection
+  url: http://www.itsecurityguru.org/2016/08/01/intel-crosswalk-bug-invalidates-ssl-protection/
+  domain: www.itsecurityguru.org
+  image: ""
 - curated_id: d4d180c782f7f4c68f8dbaf34611f813
   item_date: "2016-08-01 00:00:00"
   title: 'How Google protects your data: Customer-Supplied Encryption Keys for Compute
     Engine goes GA!'
   url: https://cloudplatform.googleblog.com/2016/08/how-Google-protects-your-data-Customer-Supplied-Encryption-Keys-for-Compute-Engine-goes-GA.html
   domain: cloudplatform.googleblog.com
-  image: ""
-- curated_id: 6b2d237a4817be358705fc489f21c457
-  item_date: "2016-08-01 00:00:00"
-  title: Intel Crosswalk bug invalidates SSL protection
-  url: http://www.itsecurityguru.org/2016/08/01/intel-crosswalk-bug-invalidates-ssl-protection/
-  domain: www.itsecurityguru.org
   image: ""
 - curated_id: 1894361da1a636056ad2178f51bc25ad
   item_date: "2016-08-03 00:00:00"
@@ -1254,17 +1209,17 @@
   url: https://continuum.cisco.com/2016/08/26/europe-begins-its-own-encryption-tug-of-war/
   domain: continuum.cisco.com
   image: ""
-- curated_id: 0a1a6a906b623ee7a7af5fdca40ade4c
-  item_date: "2016-08-31 00:00:00"
-  title: Establish a Secure SSL Connection to PostgreSQL DB Server
-  url: https://dzone.com/articles/establish-a-secure-ssl-connection-to-postgresql-db
-  domain: dzone.com
-  image: ""
 - curated_id: 70a561789ac49f5042581b61fdeb6550
   item_date: "2016-08-31 00:00:00"
   title: More Than 40% Of Attacks Abuse SSL Encryption
   url: http://www.darkreading.com/vulnerabilities---threats/more-than-40--of-attacks-abuse-ssl-encryption/d/d-id/1326789
   domain: www.darkreading.com
+  image: ""
+- curated_id: 0a1a6a906b623ee7a7af5fdca40ade4c
+  item_date: "2016-08-31 00:00:00"
+  title: Establish a Secure SSL Connection to PostgreSQL DB Server
+  url: https://dzone.com/articles/establish-a-secure-ssl-connection-to-postgresql-db
+  domain: dzone.com
   image: ""
 - curated_id: 464c5ffd14de84f16af3577039c4a14f
   item_date: "2016-09-07 00:00:00"
@@ -1328,17 +1283,17 @@
   url: https://blog.cloudflare.com/opportunistic-encryption-bringing-http-2-to-the-unencrypted-web/
   domain: blog.cloudflare.com
   image: ""
-- curated_id: 63cc26b43f767da22d7416d03a85e756
-  item_date: "2016-09-21 09:15:15"
-  title: Is TLS Fast Yet?
-  url: https://istlsfastyet.com/
-  domain: istlsfastyet.com
-  image: ""
 - curated_id: bff68c19a4ef4c5b3cf7ecb1e18a3b3b
   item_date: "2016-09-21 09:15:15"
   title: Introducing TLS 1.3
   url: https://blog.cloudflare.com/introducing-tls-1-3/
   domain: blog.cloudflare.com
+  image: ""
+- curated_id: 63cc26b43f767da22d7416d03a85e756
+  item_date: "2016-09-21 09:15:15"
+  title: Is TLS Fast Yet?
+  url: https://istlsfastyet.com/
+  domain: istlsfastyet.com
   image: ""
 - curated_id: e377836bb1db41824dfda0d08f3a0dec
   item_date: "2016-09-21 16:55:16"
@@ -1417,12 +1372,6 @@
   url: http://thenextweb.com/facebook/2016/10/05/facebook-messenger-now-lets-everyone-encrypt-their-conversations-but-theres-a-catch/
   domain: thenextweb.com
   image: ""
-- curated_id: 654a0797e4d1f957ec1cff4da615e5df
-  item_date: "2016-10-04 00:00:00"
-  title: How to encrypt your Facebook Messages
-  url: https://techcrunch.com/gallery/how-to-encrypt-facebook-messenger/
-  domain: techcrunch.com
-  image: ""
 - curated_id: ddcc7a5474a1b8e0988c446c72a55e7f
   item_date: "2016-10-04 00:00:00"
   title: New Documents Reveal Government Effort to Impose Secrecy on Encryption Company
@@ -1435,23 +1384,29 @@
   url: https://www.wired.com/2016/10/yahoo-spy-scandal-shows-encryption-fails-without-backbone/
   domain: www.wired.com
   image: ""
+- curated_id: 654a0797e4d1f957ec1cff4da615e5df
+  item_date: "2016-10-04 00:00:00"
+  title: How to encrypt your Facebook Messages
+  url: https://techcrunch.com/gallery/how-to-encrypt-facebook-messenger/
+  domain: techcrunch.com
+  image: ""
 - curated_id: 49bb59c1dcfb5c682fb0e91f23d70486
   item_date: "2016-10-04 13:08:31"
   title: Facebook Messenger now lets you toggle end-to-end encryption
   url: https://www.engadget.com/amp/2016/10/04/facebook-messenger-now-lets-you-toggle-end-to-end-encryption/
   domain: www.engadget.com
   image: ""
-- curated_id: 9b79ddf268285f20a6e8abfe51a2322d
-  item_date: "2016-10-06 00:00:00"
-  title: Updated Puppet GPG signing key
-  url: https://puppet.com/blog/updated-puppet-gpg-signing-key
-  domain: puppet.com
-  image: ""
 - curated_id: 5fdee83eb0a2a901342cdfd3c9aaea44
   item_date: "2016-10-06 00:00:00"
   title: Encrypted Secret Conversations Roll Out on Facebook Messenger
   url: http://www.pcmag.com/news/348475/encrypted-secret-conversations-roll-out-on-facebook-messen
   domain: www.pcmag.com
+  image: ""
+- curated_id: 9b79ddf268285f20a6e8abfe51a2322d
+  item_date: "2016-10-06 00:00:00"
+  title: Updated Puppet GPG signing key
+  url: https://puppet.com/blog/updated-puppet-gpg-signing-key
+  domain: puppet.com
   image: ""
 - curated_id: b9b46c427f0369a43a4e58f245da0ba1
   item_date: "2016-10-07 00:00:00"
@@ -1508,17 +1463,17 @@
   url: http://www.codeproject.com/Articles/1142885/Always-Encrypted-feature-in-SQL-Server
   domain: www.codeproject.com
   image: ""
-- curated_id: 2cebbb725b0f0124d69ca22efafdb15b
-  item_date: "2016-10-21 00:00:00"
-  title: Introducing Internationalized Domain Name (IDN) Support
-  url: https://letsencrypt.org//2016/10/21/introducing-idn-support.html
-  domain: letsencrypt.org
-  image: ""
 - curated_id: 37fa3cb60944b802fab5c08ec9fa344d
   item_date: "2016-10-21 00:00:00"
   title: Report Slams Snapchat, Skype Over Encryption
   url: http://www.pcmag.com/news/348935/report-slams-snapchat-skype-over-encryption
   domain: www.pcmag.com
+  image: ""
+- curated_id: 2cebbb725b0f0124d69ca22efafdb15b
+  item_date: "2016-10-21 00:00:00"
+  title: Introducing Internationalized Domain Name (IDN) Support
+  url: https://letsencrypt.org//2016/10/21/introducing-idn-support.html
+  domain: letsencrypt.org
   image: ""
 - curated_id: 39db49a32d6d6728db1ee73a89fa0f62
   item_date: "2016-11-06 00:00:00"
@@ -1532,16 +1487,554 @@
   url: https://www.phproundtable.com/episode/security-encryption-hashing-and-php
   domain: www.phproundtable.com
   image: ""
+- curated_id: 6816a2f1e641ae6917634a46b7a0da97
+  item_date: "2016-11-10 00:00:00"
+  title: OpenSSL Releases Security Update
+  url: https://www.us-cert.gov/ncas/current-activity/2016/11/10/OpenSSL-Releases-Security-Update
+  domain: www.us-cert.gov
+  image: ""
 - curated_id: 4583bd007fce18ae95fce78115c59339
   item_date: "2016-11-10 00:00:00"
   title: Surveillance, encryption concerns in the wake of Donald Trump?s victory
   url: http://www.siliconbeat.com/2016/11/10/surveillance-encryption-concerns-wake-donald-trumps-victory/
   domain: www.siliconbeat.com
   image: ""
-- curated_id: 6816a2f1e641ae6917634a46b7a0da97
-  item_date: "2016-11-10 00:00:00"
-  title: OpenSSL Releases Security Update
-  url: https://www.us-cert.gov/ncas/current-activity/2016/11/10/OpenSSL-Releases-Security-Update
+- curated_id: b06c6361c476029d27ed01f04709442e
+  item_date: "2016-12-13 00:00:00"
+  title: 'EFF to Tech Leaders: Stand With Users and Tell Trump We Need Strong Encryption,
+    Internet Freedom '
+  url: https://www.eff.org/deeplinks/2016/12/eff-tech-leaders-stand-users-and-tell-trump-we-need-strong-encryption-internet
+  domain: www.eff.org
+  image: ""
+- curated_id: f3860b59a07e014898831f5139513ed9
+  item_date: "2016-12-13 00:00:00"
+  title: Facebook helps companies detect rogue SSL certificates for domains
+  url: http://www.pcworld.com/article/3149740/security/facebook-helps-companies-detect-rogue-ssl-certificates-for-domains.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
+- curated_id: 5f0930bd7bbcc797387c103d08a89f75
+  item_date: "2016-12-13 00:00:00"
+  title: AirMap, DigiCert to issue digital certificates for drones
+  url: http://www.pcworld.com/article/3149780/security/airmap-digicert-to-issue-digital-certificates-for-drones.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
+- curated_id: 358c50c9922d54c529b27539eeec5219
+  item_date: "2016-12-15 00:00:00"
+  title: The Weak Case Against Strong Encryption
+  url: https://dzone.com/articles/the-weak-case-against-strong-encryption
+  domain: dzone.com
+  image: ""
+- curated_id: ca857f63202feec284e976a827bc864c
+  item_date: "2016-12-16 00:00:00"
+  title: Giving Up on PGP
+  url: https://www.schneier.com/blog/archives/2016/12/giving_up_on_pg.html
+  domain: www.schneier.com
+  image: ""
+- curated_id: 405d24f0ce7ba4a4c34951bc07c90f34
+  item_date: "2017-01-02 00:00:00"
+  title: 'The State of Crypto Law: 2016 in Review'
+  url: https://www.eff.org/deeplinks/2016/12/crypto-state-law-end-2016
+  domain: www.eff.org
+  image: ""
+- curated_id: 6cd4c6ca8273eaee5c749aa8c3b39633
+  item_date: "2017-01-02 00:00:00"
+  title: Automating SSL encryption for your servers with LetsEncrypt and Ansible
+  url: https://www.codeproject.com/Tips/1163629/Automating-SSL-encryption-for-your-servers-with-Le
+  domain: www.codeproject.com
+  image: ""
+- curated_id: 9b496053c46db008e247f9cbc42e7124
+  item_date: "2017-01-11 00:00:00"
+  title: Apple partners with Tresorit to offer end-to-end encryption for CareKit
+  url: http://www.zdnet.com/article/apple-partners-with-tresorit-to-offer-end-to-end-encryption-for-carekit/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: 8dd44466f623458566d9f15537523d0c
+  item_date: "2017-01-11 00:00:00"
+  title: Buggy Domain Validation Forces GoDaddy to Revoke Certs
+  url: https://threatpost.com/buggy-domain-validation-forces-godaddy-to-revoke-certs/123038/
+  domain: threatpost.com
+  image: ""
+- curated_id: 82d02494a33808e49c8bd05e252d9488
+  item_date: "2017-01-11 00:00:00"
+  title: Cloud Key Management Service
+  url: https://cloud.google.com/kms/
+  domain: cloud.google.com
+  image: ""
+- curated_id: 85d73e5ac85c4c1875a6a3bc91198112
+  item_date: "2017-01-11 00:00:00"
+  title: 'Managing encryption keys in the cloud: introducing Google Cloud Key Management
+    Service'
+  url: http://cloudplatform.googleblog.com/2017/01/managing-encryption-keys-in-the-cloud-introducing-Google-Cloud-Key-Management-Service.html
+  domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: 43143e93320cbedd2f8938e73ffb41e0
+  item_date: "2017-01-12 11:03:00"
+  title: 'GitHub - google/key-transparency: A transparent and secure way to look up
+    public keys.'
+  url: https://github.com/google/key-transparency/
+  domain: github.com
+  image: ""
+- curated_id: cd0e43b8d1d539c5d226d56449edbfe8
+  item_date: "2017-01-13 00:00:00"
+  title: A Brief Summary of Encryption Method Used in Widespread Ransomware
+  url: http://resources.infosecinstitute.com/a-brief-summary-of-encryption-method-used-in-widespread-ransomware/
+  domain: resources.infosecinstitute.com
+  image: ""
+- curated_id: 6ca7457af336d9bfbc0a5247b40b762f
+  item_date: "2017-01-16 00:00:00"
+  title: Google Introduces Cloud-based Encryption Key Management Service
+  url: https://www.infoq.com/news/2017/01/google-cloud-key-management
+  domain: www.infoq.com
+  image: ""
+- curated_id: e9b13327b5118bfa174a30d1917966be
+  item_date: "2017-01-17 00:00:00"
+  title: 'Advances In SSL: 5 Strategies For Secure, High-Performance Load Balancers'
+  url: http://www.darkreading.com/endpoint/advances-in-ssl-5-strategies-for-secure-high-performance-load-balancers/a/d-id/1327899
+  domain: www.darkreading.com
+  image: ""
+- curated_id: 0ccd887278ea8353595e06916458cb4b
+  item_date: "2017-01-18 00:00:00"
+  title: An Examination of the Caesar Methodology, Ciphers, Vectors, and Block Chaining
+  url: http://resources.infosecinstitute.com/an-examination-of-the-caesar-methodology-ciphers-vectors-and-block-chaining/
+  domain: resources.infosecinstitute.com
+  image: ""
+- curated_id: efc4a14b6648b9b67002bee5bd489b4e
+  item_date: "2017-01-19 00:00:00"
+  title: All new executive branch .gov domains will ditch HTTP, enforce HTTPS
+  url: https://techcrunch.com/2017/01/19/all-new-executive-branch-gov-domains-will-ditch-http-enforce-https/
+  domain: techcrunch.com
+  image: ""
+- curated_id: a0c9ba69d04ff4eebe4d57d76a9a48bd
+  item_date: "2017-01-20 00:00:00"
+  title: New US Executive Branch Websites to Force HTTPS
+  url: http://www.pcmag.com/news/351168/new-us-executive-branch-websites-to-force-https
+  domain: www.pcmag.com
+  image: ""
+- curated_id: c115903860d4f838039aa1afc7d1394b
+  item_date: "2017-01-20 00:00:00"
+  title: Handling HTTPS Requests With Akka-HTTPS Server
+  url: https://dzone.com/articles/handling-https-requests-with-akka-https-server
+  domain: dzone.com
+  image: ""
+- curated_id: feeaeeab5c207e59463f298b259dc6e4
+  item_date: "2017-01-30 00:00:00"
+  title: Half the Web Is Now Encrypted. That Makes Everyone Safer
+  url: https://www.wired.com/2017/01/half-web-now-encrypted-makes-everyone-safer/
+  domain: www.wired.com
+  image: ""
+- curated_id: 4a60db1477ba58b9bce9881a8af0d45f
+  item_date: "2017-01-31 00:00:00"
+  title: A Review of Asymmetric Cryptography
+  url: http://resources.infosecinstitute.com/review-asymmetric-cryptography/
+  domain: resources.infosecinstitute.com
+  image: ""
+- curated_id: 1ad6cd0af69247c063f56a1b994c3f24
+  item_date: "2017-02-01 00:00:00"
+  title: TLS 1.3 explained by the Cloudflare Crypto Team at 33c3
+  url: https://blog.cloudflare.com/tls-1-3-explained-by-the-cloudflare-crypto-team-at-33c3/
+  domain: blog.cloudflare.com
+  image: ""
+- curated_id: 6bda5400b6ea491b7ee4fde1097263e0
+  item_date: "2017-02-03 00:00:00"
+  title: Encryption Reaches Huge Milestone, Majority of Traffic Uses HTTPS
+  url: https://continuum.cisco.com/2017/02/03/encryption-reaches-huge-milestone-majority-of-traffic-uses-https/
+  domain: continuum.cisco.com
+  image: ""
+- curated_id: 41bc8076b9674297c31c249332ec3058
+  item_date: "2017-02-03 00:00:00"
+  title: The Mathematical Algorithms of Asymmetric Cryptography and an Introduction
+    to Public Key Infrastructure
+  url: http://resources.infosecinstitute.com/mathematical-algorithms-asymmetric-cryptography-introduction-public-key-infrastructure/
+  domain: resources.infosecinstitute.com
+  image: ""
+- curated_id: 48ad2a4566f2614f6db1890379af4d61
+  item_date: "2017-02-07 00:00:00"
+  title: Setting up GitLab Pages with CloudFlare Certificates
+  url: https://about.gitlab.com/2017/02/07/setting-up-gitlab-pages-with-cloudflare-certificates/
+  domain: about.gitlab.com
+  image: ""
+- curated_id: d41761a08e5bb91579cc7bf9a8e358a0
+  item_date: "2017-02-08 00:00:00"
+  title: 'Encryption of data #039;manageable#039; for law enforcement, think tank
+    says'
+  url: |
+    http://thehill.com/policy/cybersecurity/318487-encryption-of-data-manageable-for-law-enforcement-think-tank-says
+  domain: thehill.com
+  image: ""
+- curated_id: 29ef5783ca767433d4d52c9fc4762ba2
+  item_date: "2017-02-08 00:00:00"
+  title: 'FBI official: No immediate changes to encryption policy under Trump  '
+  url: |
+    http://thehill.com/policy/technology/318572-fbi-official-no-immediate-changes-to-encryption-policy-under-trump
+  domain: thehill.com
+  image: ""
+- curated_id: 3e59d9a92708699e36c116479034dbe0
+  item_date: "2017-02-08 00:00:00"
+  title: 'Tokenization vs. Encryption: Understanding the Difference'
+  url: https://dzone.com/articles/tokenization-vs-encryption-understanding-the-diffe
+  domain: dzone.com
+  image: ""
+- curated_id: a020b6b63013af1441d6bd0af9b20004
+  item_date: "2017-02-14 00:00:00"
+  title: You can now use Signal for encrypted video calls
+  url: https://techcrunch.com/2017/02/14/you-can-now-use-signal-for-encrypted-video-calls/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 6fbf844fa6ae71fa2437412ec90aae7e
+  item_date: "2017-02-15 00:00:00"
+  title: GOP reps demand investigation of EPA employees using encrypted chat
+  url: |
+    http://thehill.com/policy/cybersecurity/319711-gop-reps-ding-epa-employees-use-of-encrypted-chat
+  domain: thehill.com
+  image: ""
+- curated_id: 8a55a2f332cee26437b90ce2dbe150bf
+  item_date: "2017-02-15 00:00:00"
+  title: Wickr Releases Crypto Protocol on GitHub
+  url: http://www.pcmag.com/news/351756/wickr-releases-crypto-protocol-on-github
+  domain: www.pcmag.com
+  image: ""
+- curated_id: 1445567f2d244bb2de7dce1d0b492567
+  item_date: "2017-02-15 00:00:00"
+  title: "Encryption Apps Help White House Staffers Leak\u2014and Maybe Break the
+    Law"
+  url: https://www.wired.com/2017/02/white-house-encryption-confide-app/
+  domain: www.wired.com
+  image: ""
+- curated_id: 1e7c1fb4bedb48cc557849487c303139
+  item_date: "2017-02-17 00:00:00"
+  title: Riseup Will Encrypt All Emails to Prevent FBI Searches
+  url: https://motherboard.vice.com/en_us/article/riseup-will-encrypt-all-emails-to-prevent-fbi-searches
+  domain: motherboard.vice.com
+  image: ""
+- curated_id: 9c3c5a6419171ca53d6e721ee3f1baf7
+  item_date: "2017-02-20 00:00:00"
+  title: An Overview of the Public Key Infrastructure Parameters and Standards
+  url: http://resources.infosecinstitute.com/overview-public-key-infrastructure-parameters-standards/
+  domain: resources.infosecinstitute.com
+  image: ""
+- curated_id: 5378cbf3c26dd811b03049f30dfcd6e3
+  item_date: "2017-02-20 00:00:00"
+  title: 'SSL Proxy: Splunk  NGINX'
+  url: http://blogs.splunk.com/2017/02/20/ssl-proxy-splunk-nginx/
+  domain: blogs.splunk.com
+  image: ""
+- curated_id: 11d31e465a804ab8e8baafdbba7431e8
+  item_date: "2017-02-22 00:00:00"
+  title: 'EFF: Half of web traffic is now encrypted'
+  url: https://techcrunch.com/2017/02/22/eff-half-the-web-is-now-encrypted/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 2d576bbe50c5e74855a793e585d27805
+  item_date: "2017-02-22 00:00:00"
+  title: 'Steptoe Cyberlaw Podcast: A Tale of RSA'
+  url: https://www.lawfareblog.com/steptoe-cyberlaw-podcast-tale-rsa
+  domain: www.lawfareblog.com
+  image: ""
+- curated_id: 3a7c0c06b026ca84e4d8d4956aa46b52
+  item_date: "2017-02-23 00:00:00"
+  title: Google, Dutch institute crack key internet security standard
+  url: http://www.reuters.com/article/us-cyber-technology-idUSKBN1621R8
+  domain: www.reuters.com
+  image: ""
+- curated_id: 074f9b665d0a1ae8364b3da78f013762
+  item_date: "2017-02-23 00:00:00"
+  title: 'Google Researchers Shatter SHA-1 Hash '
+  url: http://www.darkreading.com/attacks-breaches/google-researchers-shatter-sha-1-hash-/d/d-id/1328253
+  domain: www.darkreading.com
+  image: ""
+- curated_id: a078d15f111c27044a124bf52d2878e0
+  item_date: "2017-02-23 00:00:00"
+  title: "Security researchers announce \u201Cfirst practical\u201D SHA-1 collision
+    attack"
+  url: https://techcrunch.com/2017/02/23/security-researchers-announce-first-practical-sha-1-collision-attack/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 358312937c2fbb49ccca42f6d7769180
+  item_date: "2017-02-23 00:00:00"
+  title: Using SSL for In-Transit Data Encryption to Improve MySQL Security
+  url: https://dzone.com/articles/using-ssl-for-in-transit-data-encryption-to-improv
+  domain: dzone.com
+  image: ""
+- curated_id: 05e2fdc082d027481befd26631b80cd3
+  item_date: "2017-02-23 00:00:00"
+  title: "Stop using SHA1 encryption: It\u2019s now completely unsafe, Google proves"
+  url: http://www.pcworld.com/article/3173791/security/stop-using-sha1-it-s-now-completely-unsafe.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
+- curated_id: 650c0bac62d515cc8f8201fd64d9062f
+  item_date: "2017-02-23 17:36:42"
+  title: 'Tweet: No 1Password data was put at risk through the bug reported earlier
+    today. https://t.co/S7G62Qw85Q'
+  url: https://twitter.com/Cloudflare/statuses/834940080397529088
+  domain: twitter.com
+  image: ""
+- curated_id: 8a18ed4980d94ff88092a9ac0f96b7c5
+  item_date: "2017-02-24 00:00:00"
+  title: Announcing the first SHA1 collision
+  url: https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html
+  domain: security.googleblog.com
+  image: ""
+- curated_id: d479593f9b93a9bac2608dabb7bfe525
+  item_date: "2017-02-24 00:00:00"
+  title: E2EMail research project has left the nest
+  url: https://security.googleblog.com/2017/02/e2email-research-project-has-left-nest_24.html
+  domain: security.googleblog.com
+  image: ""
+- curated_id: 724b46a34190abc4f97ac7752452fb16
+  item_date: "2017-02-24 00:00:00"
+  title: SHA-1 Has Been Compromised In Practice
+  url: https://auth0.com/blog/sha-1-collision-attack/
+  domain: auth0.com
+  image: ""
+- curated_id: 8e82741bcfb68c9ad844e5e6a2ed0798
+  item_date: "2017-02-24 05:00:08"
+  title: 'Tweet: New on the @AWSIdentity blog: s2n is now handling 100 percent of
+    SSL traffic for Amazon S3! https://t.co/f52Zjzbvm3 https://t.co/UuVOLH2zD6'
+  url: https://twitter.com/awscloud/statuses/835112074845929473
+  domain: twitter.com
+  image: ""
+- curated_id: 6f40e25bb4cfb48fb7b914d060b6dca4
+  item_date: "2017-02-27 00:00:00"
+  title: Google shifts on email encryption tool, leaving its fate unclear
+  url: http://www.pcworld.com/article/3175048/privacy/google-shifts-on-email-encryption-tool-leaving-its-fate-unclear.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
+- curated_id: 54f71ee65f9ff54dbf691227910f1dc9
+  item_date: "2017-03-02 00:00:00"
+  title: 'Partnering on open source: Google and HashiCorp engineers on managing GCP
+    infrastructure'
+  url: https://cloudplatform.googleblog.com/2017/03/partnering-on-open-source-Google-and-HashiCorp-engineers-on-managing-GCP-infrastructure.html
+  domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: 49f16a88903ecbcaa31f91ee675f76ce
+  item_date: "2017-03-07 00:00:00"
+  title: Googles SHA-1 Countdown Clock Could Undermine Enterprise Security
+  url: http://www.darkreading.com/googles-sha-1-countdown-clock-could-undermine-enterprise-security/a/d-id/1328337
+  domain: www.darkreading.com
+  image: ""
+- curated_id: 41104ee60f63a4069275f3b1777f935e
+  item_date: "2017-03-07 00:00:00"
+  title: "No, you shouldn\u2019t delete Signal or other encrypted apps"
+  url: https://techcrunch.com/2017/03/07/is-signal-app-safe-wikileaks/
+  domain: techcrunch.com
+  image: ""
+- curated_id: d0db80ed96034e835834457e7b98e469
+  item_date: "2017-03-08 00:00:00"
+  title: Researchers find major flaws in encrypted chat app popular in WH
+  url: |
+    http://thehill.com/policy/cybersecurity/322963-wh-staffer-favorite-encrypted-chat-app-had-easy-to-target-security-flaws
+  domain: thehill.com
+  image: ""
+- curated_id: 8393b5e5a0d8eed84ddf870055f25602
+  item_date: "2017-03-09 11:28:29"
+  title: API Gateway now integrates with Amazon Certificate Manager!
+  url: https://aws.amazon.com/about-aws/whats-new/2017/03/amazon-api-gateway-integrates-with-aws-certificate-manager-acm/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 389adb258d79337bac1ef811c96eec12
+  item_date: "2017-03-10 00:00:00"
+  title: Continuously Encrypt Amazon Redshift Loads with S3, KMS, and Lambda
+  url: https://dzone.com/articles/continuously-encrypt-amazon-redshift-loads-with-s3
+  domain: dzone.com
+  image: ""
+- curated_id: 6894bf72baba3b9c3ae784a152aafced
+  item_date: "2017-03-13 00:00:00"
+  title: Critical Vulnerability Uncovered in JSON Encryption
+  url: http://blogs.adobe.com/security/2017/03/critical-vulnerability-uncovered-in-json-encryption.html
+  domain: blogs.adobe.com
+  image: ""
+- curated_id: 3c084a50a7c99d8b59285b0f6e802338
+  item_date: "2017-03-13 00:00:00"
+  title: Eclipse Plugins via HTTPS and Lets Encrypt
+  url: https://dzone.com/articles/eclipse-plug-ins-via-https-amp-lets-encrypt
+  domain: dzone.com
+  image: ""
+- curated_id: b6428e9dd43fce8ebd5e8a41be09d5fc
+  item_date: "2017-03-15 00:00:00"
+  title: Google Cloud adds new customer-supplied encryption key partners
+  url: http://www.zdnet.com/article/google-cloud-adds-new-customer-supplied-encryption-key-partners/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: 7e8094494747725a0c08253bfab5a87d
+  item_date: "2017-03-17 09:56:54"
+  title: HTTPS Interception Weakens TLS Security
+  url: https://www.us-cert.gov/ncas/alerts/TA17-075A
   domain: www.us-cert.gov
+  image: ""
+- curated_id: 31c52190add124a0a987caafb91be9a1
+  item_date: "2017-03-21 00:00:00"
+  title: Announcing Free and Automated SSL Certs For All Paid Dynos
+  url: https://blog.heroku.com/announcing-automated-certificate-management
+  domain: blog.heroku.com
+  image: ""
+- curated_id: 2259749c089d35e94ebebdd790a71d75
+  item_date: "2017-03-21 00:00:00"
+  title: GitHub Uses Broken Cryptography, But It Has a Plan
+  url: https://motherboard.vice.com/en_us/article/github-uses-broken-encryption-but-it-has-a-plan
+  domain: motherboard.vice.com
+  image: ""
+- curated_id: 90d1cb8c32da08f395e9037ad1826e67
+  item_date: "2017-03-21 00:00:00"
+  title: The Encryption Debate in Europe
+  url: https://www.lawfareblog.com/encryption-debate-europe-0
+  domain: www.lawfareblog.com
+  image: ""
+- curated_id: 2512f2e20622696a975040226869d998
+  item_date: "2017-03-23 00:00:00"
+  title: FBI director floats international framework on access to encrypted data
+  url: http://www.pcworld.com/article/3184338/security/fbi-director-floats-international-framework-on-access-to-encrypted-data.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
+- curated_id: 04897fe25ca92094bbef16831879203c
+  item_date: "2017-03-24 00:00:00"
+  title: Google Slams Symantec for Failures in SSL/TLS Certificate Process
+  url: http://www.darkreading.com/vulnerabilities---threats/google-slams-symantec-for-failures-in-ssl-tls-certificate-process/d/d-id/1328483
+  domain: www.darkreading.com
+  image: ""
+- curated_id: 495b4eb9c780e0c6200b38079311d16e
+  item_date: "2017-04-04 00:00:00"
+  title: Encryption Policy and Freedom of the Press
+  url: https://www.schneier.com/blog/archives/2017/04/encryption_poli.html
+  domain: www.schneier.com
+  image: ""
+- curated_id: 780a125892024be28bde82247b765b0c
+  item_date: "2017-04-05 00:00:00"
+  title: Activists Need to Watch Out for Fake Encryption Keys
+  url: https://motherboard.vice.com/en_us/article/activists-need-to-watch-out-for-fake-encryption-keys
+  domain: motherboard.vice.com
+  image: ""
+- curated_id: f68dff307732ce55a6554dd1bc4b8efd
+  item_date: "2017-04-06 00:00:00"
+  title: 23% of Security Pros are Blind to Encrypted Traffic Threats
+  url: http://www.itsecurityguru.org/2017/04/06/23-security-pros-blind-encrypted-traffic-threats/
+  domain: www.itsecurityguru.org
+  image: ""
+- curated_id: cf1808f04652eb29fd4c3be8e60927cc
+  item_date: "2017-04-06 00:00:00"
+  title: 'AWS Lambda: Encrypted Environment Variables'
+  url: https://dzone.com/articles/aws-lambda-encrypted-environment-variables
+  domain: dzone.com
+  image: ""
+- curated_id: 0d5a8307e8088ee8717c55df98b852dd
+  item_date: "2017-04-10 00:00:00"
+  title: BetterTLS - A Name Constraints test suite for HTTPS clients
+  url: http://techblog.netflix.com/2017/04/bettertls-name-constraints-test-suite.html
+  domain: techblog.netflix.com
+  image: ""
+- curated_id: 96ed974e4c6969728bbf7374805e7ea4
+  item_date: "2017-04-11 00:00:00"
+  title: Encryption In Automation
+  url: http://blog.opto22.com/optoblog/encryption-in-automation
+  domain: blog.opto22.com
+  image: ""
+- curated_id: 85816878ed0fe914c67b6c959f369189
+  item_date: "2017-04-12 00:00:00"
+  title: DotGov Domain Registration Program to Provide HTTPS Preloading in May
+  url: https://www.digitalgov.gov/2017/04/12/dotgov-domain-registration-program-to-provide-https-preloading-in-may/
+  domain: www.digitalgov.gov
+  image: ""
+- curated_id: cfa06be4dbfcca457f281b6cdd82c876
+  item_date: "2017-04-13 00:00:00"
+  title: Amazon Adds Cross Region and Encrypted Replication Support for Aurora
+  url: https://www.infoq.com/news/2017/04/Amazon-Aurora-Update
+  domain: www.infoq.com
+  image: ""
+- curated_id: 8d9d6eb8bd9a34a8c40b871d66519d4e
+  item_date: "2017-04-13 00:00:00"
+  title: Hewlett Packard Enterprise touts encryption tool for federal clients
+  url: |
+    http://thehill.com/policy/cybersecurity/328636-hewlett-packard-touts-encryption-tool-for-federal-clients
+  domain: thehill.com
+  image: ""
+- curated_id: ce4576fbda4792205a7b16f1f52b3436
+  item_date: "2017-04-14 00:00:00"
+  title: Amazon Athena adds support for Querying Encrypted Data
+  url: https://aws.amazon.com/blogs/aws/launch-amazon-athena-adds-support-for-querying-encrypted-data/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: cee2b5e5e212540a8b45e2cdfd2cf742
+  item_date: "2017-04-14 00:00:00"
+  title: The Long Slog To Getting Encryption Right
+  url: http://www.darkreading.com/attacks-breaches/the-long-slog-to-getting-encryption-right/d/d-id/1328629
+  domain: www.darkreading.com
+  image: ""
+- curated_id: 653f8d49323212d872eacfb35750eead
+  item_date: "2017-04-26 00:00:00"
+  title: mbedTLS SSL Certificate Verification With Mosquitto, lwIP, and MQTT
+  url: https://dzone.com/articles/mbedtls-ssl-certificate-verification-with-mosquitto-lwip-and-mqtt
+  domain: dzone.com
+  image: ""
+- curated_id: 81fb2f920e80548e35953a3a51a0ce94
+  item_date: "2017-04-26 00:00:00"
+  title: 'W3C Launches Front-End Developer Certificate '
+  url: https://www.programmableweb.com/news/w3c-launches-front-end-developer-certificate/brief/2017/04/26
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 84083707f252623bbcb2dbf885f4eebb
+  item_date: "2017-04-27 08:11:01"
+  title: How to establish strong microservice security using SSL, TLS and API gateways
+  url: http://www.techrepublic.com/article/how-to-establish-strong-microservice-security-using-ssl-tls-and-api-gateways/
+  domain: www.techrepublic.com
+  image: ""
+- curated_id: 422ea815d3892d3da928d0e5645b7692
+  item_date: "2017-05-01 00:00:00"
+  title: Introducing TLS with Client Authentication
+  url: https://blog.cloudflare.com/introducing-tls-client-auth/
+  domain: blog.cloudflare.com
+  image: ""
+- curated_id: 230f053c786362d09c5b0fac90491675
+  item_date: "2017-05-01 08:51:25"
+  title: Server-Side Encryption for Amazon Simple Queue Service (SQS)
+  url: https://aws.amazon.com/blogs/aws/new-server-side-encryption-for-amazon-simple-queue-service-sqs/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 0b0951e1a5605a423411e32343d87d6a
+  item_date: "2017-05-01 09:01:53"
+  title: 'Tweet: Now in the Cloudflare TLS stack: Client Authentication. https://t.co/pCxQNSZ29B
+    https://t.co/ksZ4s2B670'
+  url: https://twitter.com/Cloudflare/statuses/859075412206465024
+  domain: twitter.com
+  image: ""
+- curated_id: c06126a0f52c69d7c2ac04bd765f7d0d
+  item_date: "2017-05-02 00:00:00"
+  title: 'TLS/SSL Explained: TLS/SSL Certificates, Part 3'
+  url: https://dzone.com/articles/tlsssl-certificates-part-4
+  domain: dzone.com
+  image: ""
+- curated_id: a981819e148c7fadef7f6b1aff124e94
+  item_date: "2017-05-03 00:00:00"
+  title: Establishing a TLS Connection, Part 4
+  url: https://dzone.com/articles/establishing-a-tls-connection-part-4
+  domain: dzone.com
+  image: ""
+- curated_id: 89a9f60ae1f72dc2f37f31e6c7322895
+  item_date: "2017-05-04 00:00:00"
+  title: Create a Self-Signed SSL Certificate Using OpenSSL
+  url: https://dzone.com/articles/create-a-self-signed-ssl-certificate-using-openssl
+  domain: dzone.com
+  image: ""
+- curated_id: 8080ca92fe79d090e4ff5762627b82c2
+  item_date: "2017-05-05 00:00:00"
+  title: UK seeks end to end-to-end encryption
+  url: http://www.pcworld.com/article/3194910/encryption/uk-seeks-end-to-end-to-end-encryption.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
+- curated_id: 5ae9f6950fe340d2b4b204ca69e6da71
+  item_date: "2017-05-05 00:00:00"
+  title: UK surveillance law still fuzzy on decryption rules for comms providers
+  url: https://techcrunch.com/2017/05/05/uk-surveillance-law-still-fuzzy-on-decryption-rules-for-comms-providers/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 3c20e94c7369db518a574ac669f518a1
+  item_date: "2017-05-10 00:00:00"
+  title: SSA.GOV To Require Stronger Authentication
+  url: https://krebsonsecurity.com/2017/05/ssa-gov-to-require-stronger-authentication/
+  domain: krebsonsecurity.com
+  image: ""
+- curated_id: 6e28ad23fb85ff8fc167d8dcd6670233
+  item_date: "2017-05-12 00:00:00"
+  title: Dissecting TLS Using Wireshark
+  url: http://blog.catchpoint.com/2017/05/12/dissecting-tls-using-wireshark/
+  domain: blog.catchpoint.com
   image: ""
 ...
