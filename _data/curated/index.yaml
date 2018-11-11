@@ -60,17 +60,17 @@
   url: http://www.mashery.com/blog/apis-are-changing-game-data-delivery
   domain: www.mashery.com
   image: ""
-- curated_id: e9ebc496165058eaa156361fbc7caf08
-  item_date: "2013-04-25 00:00:00"
-  title: Sports  APIs ? A Perfect Fit
-  url: http://www.mashery.com/blog/sports-apis-%e2%80%93-perfect-fit
-  domain: www.mashery.com
-  image: ""
 - curated_id: 289221dd5d565554241cfaa21d523337
   item_date: "2013-04-25 00:00:00"
   title: Designing APIs for Humans
   url: http://john-sheehan.com/blog/designing-apis-for-humans
   domain: john-sheehan.com
+  image: ""
+- curated_id: e9ebc496165058eaa156361fbc7caf08
+  item_date: "2013-04-25 00:00:00"
+  title: Sports  APIs ? A Perfect Fit
+  url: http://www.mashery.com/blog/sports-apis-%e2%80%93-perfect-fit
+  domain: www.mashery.com
   image: ""
 - curated_id: 5a32cf53a9ea13fe53368a84fb3896dc
   item_date: "2013-04-26 00:00:00"
@@ -174,16 +174,16 @@
   url: http://www.mashery.com/blog/why-you-should-treat-your-api-product
   domain: www.mashery.com
   image: ""
-- curated_id: 37215327ea7c81205e6f11086f15da5a
-  item_date: "2013-06-05 00:00:00"
-  title: API Management ? The New Black?
-  url: http://www.mashery.com/blog/api-management-new-black
-  domain: www.mashery.com
-  image: ""
 - curated_id: 52dd2033e4aeca046471c3f7d2170a1a
   item_date: "2013-06-05 00:00:00"
   title: 'APIs vs. The Myth of the Omnichannel Retailer  '
   url: http://www.mashery.com/blog/apis-vs-myth-omnichannel-retailer
+  domain: www.mashery.com
+  image: ""
+- curated_id: 37215327ea7c81205e6f11086f15da5a
+  item_date: "2013-06-05 00:00:00"
+  title: API Management ? The New Black?
+  url: http://www.mashery.com/blog/api-management-new-black
   domain: www.mashery.com
   image: ""
 - curated_id: 7e311ee3053f190ae70e5623d906ab63
@@ -204,29 +204,29 @@
   url: http://www.designinghypermediaapis.com/
   domain: www.designinghypermediaapis.com
   image: ""
-- curated_id: 4e0f423e88f0480e605ef828d3334404
-  item_date: "2013-06-17 00:00:00"
-  title: 'RESTful APIs: White House Sets The Standard(s)'
-  url: http://www.programmableweb.com/news/restful-apis-white-house-sets-standards/2013/06/17
-  domain: www.programmableweb.com
-  image: ""
 - curated_id: 4684b22e52d05acd7c5b5b81d5ae3b0c
   item_date: "2013-06-17 00:00:00"
   title: 'API Design: Honing in on HATEOAS'
   url: http://apigee.com/about/blog/developer/api-design-honing-hateoas
   domain: apigee.com
   image: ""
-- curated_id: 7d6aae70c8bbdb726c78e4fa13017f9e
-  item_date: "2013-06-19 00:00:00"
-  title: Data-Driven Aesthetics
-  url: http://www.nytimes.com/glogin/URI=http://bits.blogs.nytimes.com/2013/06/19/data-driven-aesthetics/&amp;OQ=_rQ3D0&amp;OP=54867341Q2FfQ3B9Q51fbhXf555fzXJefG7d.
-  domain: www.nytimes.com
+- curated_id: 4e0f423e88f0480e605ef828d3334404
+  item_date: "2013-06-17 00:00:00"
+  title: 'RESTful APIs: White House Sets The Standard(s)'
+  url: http://www.programmableweb.com/news/restful-apis-white-house-sets-standards/2013/06/17
+  domain: www.programmableweb.com
   image: ""
 - curated_id: f84efa3faafb3c499ef588dfbe3f4886
   item_date: "2013-06-19 00:00:00"
   title: When Good API Design is a Waste of Time
   url: http://www.apiacademy.co/blogs/when-good-api-design-is-a-waste-of-time/
   domain: www.apiacademy.co
+  image: ""
+- curated_id: 7d6aae70c8bbdb726c78e4fa13017f9e
+  item_date: "2013-06-19 00:00:00"
+  title: Data-Driven Aesthetics
+  url: http://www.nytimes.com/glogin/URI=http://bits.blogs.nytimes.com/2013/06/19/data-driven-aesthetics/&amp;OQ=_rQ3D0&amp;OP=54867341Q2FfQ3B9Q51fbhXf555fzXJefG7d.
+  domain: www.nytimes.com
   image: ""
 - curated_id: 7df783f9d31f00753c2b5b97376c4e45
   item_date: "2013-06-20 00:00:00"
@@ -270,17 +270,17 @@
   url: https://www.3scale.net/2013/07/api-crafting-secrets-into-flightstats-apis/
   domain: www.3scale.net
   image: ""
-- curated_id: 4bab1969403f9a4252dfb4eaeadb1a70
-  item_date: "2013-07-03 00:00:00"
-  title: 'API Design: Harnessing HATEOAS, Part 2'
-  url: https://blog.apigee.com/detail/api_design_harnessing_hateoas_part_2
-  domain: blog.apigee.com
-  image: ""
 - curated_id: 2c0189ef6c30e8c4df68649b0f7e065a
   item_date: "2013-07-03 00:00:00"
   title: Signs youre veering from good API design
   url: http://blog.apiaxle.com/post/signs-youre-veering-from-good-api-design/
   domain: blog.apiaxle.com
+  image: ""
+- curated_id: 4bab1969403f9a4252dfb4eaeadb1a70
+  item_date: "2013-07-03 00:00:00"
+  title: 'API Design: Harnessing HATEOAS, Part 2'
+  url: https://blog.apigee.com/detail/api_design_harnessing_hateoas_part_2
+  domain: blog.apigee.com
   image: ""
 - curated_id: 201c016c59919bcda0cb928cb64dfecf
   item_date: "2013-07-04 00:00:00"
@@ -324,17 +324,17 @@
   url: http://www.mashery.com/blog/future-tv-and-apis
   domain: www.mashery.com
   image: ""
-- curated_id: e95a34a87e95bfdab6b0b829eff0a206
-  item_date: "2013-08-06 00:00:00"
-  title: HOW USA TODAYS API POWERS PARTNERSHIPS
-  url: http://www.mashery.com/blog/how-usa-todays-api-powers-partnerships
-  domain: www.mashery.com
-  image: ""
 - curated_id: 1b7ea2d3b299e9b1a7e87fb83f3b3108
   item_date: "2013-08-06 00:00:00"
   title: The Importance of Impermanence in API Design
   url: http://www.programmableweb.com/news/importance-impermanence-api-design/2013/08/06
   domain: www.programmableweb.com
+  image: ""
+- curated_id: e95a34a87e95bfdab6b0b829eff0a206
+  item_date: "2013-08-06 00:00:00"
+  title: HOW USA TODAYS API POWERS PARTNERSHIPS
+  url: http://www.mashery.com/blog/how-usa-todays-api-powers-partnerships
+  domain: www.mashery.com
   image: ""
 - curated_id: 469b18b3569635cfbf6d725bb6c6da5b
   item_date: "2013-08-08 00:00:00"
@@ -348,6 +348,18 @@
   url: https://dzone.com/articles/secrets-awesome-javascript-api
   domain: dzone.com
   image: ""
+- curated_id: 3b2b75b8e4651a1f5ff4c19cfa89adfc
+  item_date: "2013-08-20 00:00:00"
+  title: 'Api Design, Part 4: Future-proof And Secure Your Apis...'
+  url: https://www.forrester.com/report/API+Design+Part+4+FutureProof+And+Secure+Your+APIs+To+Fit+Your+Usage+Scenarios/-/E-RES102024
+  domain: www.forrester.com
+  image: ""
+- curated_id: 6350da14586b319eb98c4a37dff14636
+  item_date: "2013-08-20 00:00:00"
+  title: 'Api Design, Part 1: Rest Is The Leading But Not Only...'
+  url: https://www.forrester.com/report/API+Design+Part+1+REST+Is+The+Leading+But+Not+Only+Option+For+Your+APIs/-/E-RES102021
+  domain: www.forrester.com
+  image: ""
 - curated_id: 7785d938c648fb3319535d2273439564
   item_date: "2013-08-20 00:00:00"
   title: 'Api Design, Part 2: Design Messaging Styles By Balancing...'
@@ -358,18 +370,6 @@
   item_date: "2013-08-20 00:00:00"
   title: 'Api Design, Part 3: Make Transactions And Error Handling...'
   url: https://www.forrester.com/report/API+Design+Part+3+Make+Transactions+And+Error+Handling+Clear+In+Your+API+Designs/-/E-RES102023
-  domain: www.forrester.com
-  image: ""
-- curated_id: 6350da14586b319eb98c4a37dff14636
-  item_date: "2013-08-20 00:00:00"
-  title: 'Api Design, Part 1: Rest Is The Leading But Not Only...'
-  url: https://www.forrester.com/report/API+Design+Part+1+REST+Is+The+Leading+But+Not+Only+Option+For+Your+APIs/-/E-RES102021
-  domain: www.forrester.com
-  image: ""
-- curated_id: 3b2b75b8e4651a1f5ff4c19cfa89adfc
-  item_date: "2013-08-20 00:00:00"
-  title: 'Api Design, Part 4: Future-proof And Secure Your Apis...'
-  url: https://www.forrester.com/report/API+Design+Part+4+FutureProof+And+Secure+Your+APIs+To+Fit+Your+Usage+Scenarios/-/E-RES102024
   domain: www.forrester.com
   image: ""
 - curated_id: 75e378f435ff8be00494caeb7c1a867b
@@ -565,17 +565,17 @@
   url: https://18fblog.tumblr.com/post/91868213233/hot-off-the-press-18fs-api-standards#_=_
   domain: 18fblog.tumblr.com
   image: ""
-- curated_id: d0a5488ff945ef7e4b610182363f2576
-  item_date: "2014-07-16 00:00:00"
-  title: 'The Real World Cup Winner: APIs'
-  url: http://blogs.mulesoft.com/biz/api-enable-world-cup-2014/
-  domain: blogs.mulesoft.com
-  image: ""
 - curated_id: b35ca6ab6a4b739481554bdb3058feba
   item_date: "2014-07-16 00:00:00"
   title: 'Hot off the Press: 18F?s API Standards'
   url: http://www.digitalgov.gov/2014/07/16/hot-off-the-press-18fs-api-standards/
   domain: www.digitalgov.gov
+  image: ""
+- curated_id: d0a5488ff945ef7e4b610182363f2576
+  item_date: "2014-07-16 00:00:00"
+  title: 'The Real World Cup Winner: APIs'
+  url: http://blogs.mulesoft.com/biz/api-enable-world-cup-2014/
+  domain: blogs.mulesoft.com
   image: ""
 - curated_id: 4479b9fe854a19ff7229c47017279553
   item_date: "2014-07-18 00:00:00"
@@ -613,18 +613,18 @@
   url: https://www.sitepoint.com/best-practices-rest-api-scratch-introduction/
   domain: www.sitepoint.com
   image: ""
+- curated_id: 8f20b2c8123ae0f36b7f3af33b4fac00
+  item_date: "2014-07-30 00:00:00"
+  title: Introducing the Anypoint Platform for APIs
+  url: http://blogs.mulesoft.com/dev/release-anypoint-platform-api-2014-07/
+  domain: blogs.mulesoft.com
+  image: ""
 - curated_id: 2144cf7b6ae1e4945985a2841c5ed29d
   item_date: "2014-07-30 00:00:00"
   title: Reaffirming Intel Services? Connection with Developers and Open Source at
     OSCON
   url: http://www.mashery.com/blog/reaffirming-intel-services-connection-developers-and-open-source-oscon
   domain: www.mashery.com
-  image: ""
-- curated_id: 8f20b2c8123ae0f36b7f3af33b4fac00
-  item_date: "2014-07-30 00:00:00"
-  title: Introducing the Anypoint Platform for APIs
-  url: http://blogs.mulesoft.com/dev/release-anypoint-platform-api-2014-07/
-  domain: blogs.mulesoft.com
   image: ""
 - curated_id: 2be2689fece7524fe66f560e70b94512
   item_date: "2014-07-31 00:00:00"
@@ -674,17 +674,17 @@
   url: http://blogs.mulesoft.com/dev/integrating-mule-esb-net-based-rules-engines/
   domain: blogs.mulesoft.com
   image: ""
-- curated_id: f91d38bc30b0531338aee79fed15d1f5
-  item_date: "2014-08-20 00:00:00"
-  title: MuleSoft Summit Heads to Chicago  New York
-  url: http://blogs.mulesoft.com/biz/events/mulesoft-summit-chicago-new-york/
-  domain: blogs.mulesoft.com
-  image: ""
 - curated_id: 37a3c06d72eb59f098c847b5dc305918
   item_date: "2014-08-20 00:00:00"
   title: A drive by review of the Uber API
   url: http://www.bizcoder.com:80/a-drive-by-review-of-the-uber-api
   domain: www.bizcoder.com
+  image: ""
+- curated_id: f91d38bc30b0531338aee79fed15d1f5
+  item_date: "2014-08-20 00:00:00"
+  title: MuleSoft Summit Heads to Chicago  New York
+  url: http://blogs.mulesoft.com/biz/events/mulesoft-summit-chicago-new-york/
+  domain: blogs.mulesoft.com
   image: ""
 - curated_id: b39d33b47c455eb0e55ecf81c25c4f2c
   item_date: "2014-08-21 00:00:00"
@@ -698,11 +698,11 @@
   url: http://bizcoder.com/a-drive-by-review-of-the-uber-api
   domain: bizcoder.com
   image: ""
-- curated_id: 4a977ed1be744a47760380295c4f5849
+- curated_id: 28c9a84532f4ffaf3b76dbd9d55f5d3b
   item_date: "2014-09-25 00:00:00"
-  title: 'API Readiness: do you have what you need?'
-  url: http://blog.smartbear.com/readyapi/api-readiness-do-you-have-what-you-need/
-  domain: blog.smartbear.com
+  title: Designing APIs for the Web
+  url: http://tehparadox.com/forum/f58/designing-apis-web-8395324/
+  domain: tehparadox.com
   image: ""
 - curated_id: af215a5a5d4d60fc1548a7cb802929d7
   item_date: "2014-09-25 00:00:00"
@@ -710,11 +710,11 @@
   url: http://www.programmableweb.com/news/willowtree-apps-applies-service-virtualization-to-api-development/2014/09/25
   domain: www.programmableweb.com
   image: ""
-- curated_id: 28c9a84532f4ffaf3b76dbd9d55f5d3b
+- curated_id: 4a977ed1be744a47760380295c4f5849
   item_date: "2014-09-25 00:00:00"
-  title: Designing APIs for the Web
-  url: http://tehparadox.com/forum/f58/designing-apis-web-8395324/
-  domain: tehparadox.com
+  title: 'API Readiness: do you have what you need?'
+  url: http://blog.smartbear.com/readyapi/api-readiness-do-you-have-what-you-need/
+  domain: blog.smartbear.com
   image: ""
 - curated_id: 4f731b9dd81637dcbb3d82793620fc2d
   item_date: "2014-09-26 00:00:00"
@@ -728,17 +728,17 @@
   url: http://rest-apithy.blogspot.ca/2014/11/readfielding.html
   domain: rest-apithy.blogspot.ca
   image: ""
-- curated_id: 36d1437b3e560ba212503bb255ed6d58
-  item_date: "2014-12-03 00:00:00"
-  title: Constructing URLs the easy way
-  url: http://www.bizcoder.com:80/constructing-urls-the-easy-way
-  domain: www.bizcoder.com
-  image: ""
 - curated_id: b789fc199a97d2842d86fad02496d760
   item_date: "2014-12-03 00:00:00"
   title: Restlet Studio, the First Cross-Language IDE for APIs
   url: http://restlet.com/blog/2014/12/03/restlet-studio-the-first-cross-language-ide-for-apis/
   domain: restlet.com
+  image: ""
+- curated_id: 36d1437b3e560ba212503bb255ed6d58
+  item_date: "2014-12-03 00:00:00"
+  title: Constructing URLs the easy way
+  url: http://www.bizcoder.com:80/constructing-urls-the-easy-way
+  domain: www.bizcoder.com
   image: ""
 - curated_id: c65247a5e357ab02c4b1d1e433a510c5
   item_date: "2014-12-23 00:00:00"
@@ -746,12 +746,6 @@
   url: http://www.windley.com//archives/2014/12/the_core_of_your_api.shtml
   domain: www.windley.com
   image: ""
-- curated_id: EI7haK43eN4QuUEK123zUqB6IWfA8cSZW77eoQ5fBGNm7YWVOtlxGJEykAI123wrhvGlVGDviU6tCgjqjoDG3m116dDw117117
-  item_date: "2015-01-06 00:00:00"
-  title: Does One API Description Language Fit an Entire Enterprise
-  url: https://blog.soa.com/does-one-api-description-language-fit-an-entire-enterprise/
-  domain: blog.soa.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-soa-comdoes-one-api-description-language-fit-an-entire-enterprise.png
 - curated_id: 8ioDhMuEfXB1I41S3RoLFtHpvKnAwBYDO1pQYXmjBtdFH4mKRO123yrCCWR6123aW9i1116LoMOjnfV0a2PC6U123zbgsg117117
   item_date: "2015-01-06 00:00:00"
   title: Connecting Our History At The Digital Public Library of America Using APIs
@@ -759,6 +753,12 @@
   url: http://apievangelist.com/2015/01/07/connecting-our-history-at-the-digital-public-library-of-america-using-apis-and-jsonld/
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150107connecting-our-history-at-the-digital-public-library-of-america-using-apis-and-jsonld.png
+- curated_id: EI7haK43eN4QuUEK123zUqB6IWfA8cSZW77eoQ5fBGNm7YWVOtlxGJEykAI123wrhvGlVGDviU6tCgjqjoDG3m116dDw117117
+  item_date: "2015-01-06 00:00:00"
+  title: Does One API Description Language Fit an Entire Enterprise
+  url: https://blog.soa.com/does-one-api-description-language-fit-an-entire-enterprise/
+  domain: blog.soa.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-soa-comdoes-one-api-description-language-fit-an-entire-enterprise.png
 - curated_id: Mg806B8tgRQ9lJT7csi1SyudoAGPMEwQz2pDS2jJYK7J116hCWFjeHmXU1SUJlmN116cU6AAmQP4Wy0MzF2c5116OJGA117117
   item_date: "2015-01-06 19:30:12"
   title: Server Skeletons In Restlet Studio And APISpark
@@ -801,48 +801,48 @@
   url: https://blog.apiary.io/2015/02/17/Utilising-API-Blueprint-in-API-Clients
   domain: blog.apiary.io
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-apiary-io20150217utilising-api-blueprint-in-api-clients.png
-- curated_id: FN85XqYS9CtnEtF20HgFFQ7T8MF6hxyXOb1123cnACz88T2OOQwNxGdLoTHZIyd7NDqPNZoStbZj8jUY3YWzQJbg117117
-  item_date: "2015-02-18 00:00:00"
-  title: How API Description Languages Enable API IDEs
-  url: http://www.programmableweb.com/news/how-api-description-languages-enable-api-ides/sponsored-content/2015/02/18
-  domain: www.programmableweb.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewshow-api-description-languages-enable-api-idessponsored-content20150218.png
 - curated_id: LWomzMZEGI3hzCApQQv4T2nOPmXLi27OUhkIZlZ2KxcU1l7Ej8X5ddj123mWsrTYa2jcan5iTvelrSymuS8DDkOg117117
   item_date: "2015-02-18 00:00:00"
   title: Community Debates API Specification Alternatives
   url: https://www.infoq.com/news/2015/02/api-alternatives
   domain: www.infoq.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-infoq-comnews201502api-alternatives.png
-- curated_id: tYkcl8KiATEfaiY1UmrH5lxtVcQmat6oNAlRqvraOl4hGud72qibADUwKesZCBVX7HADCB8L0A6O5TiUoytF2w117117
-  item_date: "2015-02-19 00:00:00"
-  title: Using Templates for Documentation Driven API Design
-  url: http://nordicapis.com/using-templates-for-documentation-driven-api-design/
-  domain: nordicapis.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/nordicapis-comusing-templates-for-documentation-driven-api-design.png
+- curated_id: FN85XqYS9CtnEtF20HgFFQ7T8MF6hxyXOb1123cnACz88T2OOQwNxGdLoTHZIyd7NDqPNZoStbZj8jUY3YWzQJbg117117
+  item_date: "2015-02-18 00:00:00"
+  title: How API Description Languages Enable API IDEs
+  url: http://www.programmableweb.com/news/how-api-description-languages-enable-api-ides/sponsored-content/2015/02/18
+  domain: www.programmableweb.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewshow-api-description-languages-enable-api-idessponsored-content20150218.png
 - curated_id: qtwl0ZYkfp89ByU8HnhID52RMa116OH5kPtamSWrYg3CxWTJd4sJ6yN1164123iK0fv6nztI4r116crNC116QpJFBqAlUagw117117
   item_date: "2015-02-19 00:00:00"
   title: Collaborators New External API
   url: http://blog.smartbear.com/programming/collaborators-new-external-api/
   domain: blog.smartbear.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-smartbear-comprogrammingcollaborators-new-external-api.png
-- curated_id: QqzGfbBYOWSLnbhVr1233waluDL6Xr7cjQEBbS48JH4h8DoJ3ItBTQgdk7NTYAIWphcizVBI8rG2eKp4rPUKNnTA117117
-  item_date: "2015-02-20 00:00:00"
-  title: LucyBot Eliminates CrossLanguage Programming Necessity
-  url: http://www.programmableweb.com/news/lucybot-eliminates-cross-language-programming-necessity/brief/2015/02/20
-  domain: www.programmableweb.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewslucybot-eliminates-cross-language-programming-necessitybrief20150220.png
-- curated_id: dfpeX7taC2ZcEvHk8nOWTD7gcjfDUokg5p1tBJrVvtvA5Dy5cuxyXzD6aDowCGDTM336116G49ri7ZtOap0LE8RA117117
-  item_date: "2015-02-20 00:00:00"
-  title: MuleSoft Releases RAML NET Parser Visual Studio Extension
-  url: http://www.programmableweb.com/news/mulesoft-releases-raml-.net-parser-visual-studio-extension/2015/02/20
-  domain: www.programmableweb.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsmulesoft-releases-raml--net-parser-visual-studio-extension20150220.png
+- curated_id: tYkcl8KiATEfaiY1UmrH5lxtVcQmat6oNAlRqvraOl4hGud72qibADUwKesZCBVX7HADCB8L0A6O5TiUoytF2w117117
+  item_date: "2015-02-19 00:00:00"
+  title: Using Templates for Documentation Driven API Design
+  url: http://nordicapis.com/using-templates-for-documentation-driven-api-design/
+  domain: nordicapis.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/nordicapis-comusing-templates-for-documentation-driven-api-design.png
 - curated_id: STHZs1a123L9FCgfWP94I0Sc5SihdhKqiKdYRIR0PK4lESe9PXk51P18QI780lIAg454DCBfmE8UBsuB1qInUpEQ117117
   item_date: "2015-02-20 00:00:00"
   title: API Best Practices The Wrap Up
   url: http://blogs.mulesoft.com/dev/api-best-practices-wrap-up/
   domain: blogs.mulesoft.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blogs-mulesoft-orgapi-best-practices-wrap-up.png
+- curated_id: dfpeX7taC2ZcEvHk8nOWTD7gcjfDUokg5p1tBJrVvtvA5Dy5cuxyXzD6aDowCGDTM336116G49ri7ZtOap0LE8RA117117
+  item_date: "2015-02-20 00:00:00"
+  title: MuleSoft Releases RAML NET Parser Visual Studio Extension
+  url: http://www.programmableweb.com/news/mulesoft-releases-raml-.net-parser-visual-studio-extension/2015/02/20
+  domain: www.programmableweb.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsmulesoft-releases-raml--net-parser-visual-studio-extension20150220.png
+- curated_id: QqzGfbBYOWSLnbhVr1233waluDL6Xr7cjQEBbS48JH4h8DoJ3ItBTQgdk7NTYAIWphcizVBI8rG2eKp4rPUKNnTA117117
+  item_date: "2015-02-20 00:00:00"
+  title: LucyBot Eliminates CrossLanguage Programming Necessity
+  url: http://www.programmableweb.com/news/lucybot-eliminates-cross-language-programming-necessity/brief/2015/02/20
+  domain: www.programmableweb.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewslucybot-eliminates-cross-language-programming-necessitybrief20150220.png
 - curated_id: IIngeWuMGFGoJeAH2UXBSc2Gk6tk1hjLPM3H1nHX7uzGRz7kCQbVVspghX2XHAEjeDLnOvaOyVqzZgK0iq123ngA117117
   item_date: "2015-02-20 08:48:02"
   title: LucyBot  Get your APIs consumers moving faster
@@ -867,18 +867,18 @@
   url: http://apievangelist.com/2015/02/23/my-brain-dump-on-an-api-definition-fueled-life-cycle/
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150223my-brain-dump-on-an-api-definition-fueled-life-cycle.png
-- curated_id: n116g1239fmX8E123QXLOUbsnTfv5JSdGYHkYwt2VKOcW3Q1123oQnKVZ1ae8eYv4bU5wFJEss116UYsx5AA90Z72ODhyMEQ117117
-  item_date: "2015-02-24 00:00:00"
-  title: What Makes an Agile API
-  url: http://nordicapis.com/what-makes-an-agile-api/
-  domain: nordicapis.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/nordicapis-comwhat-makes-an-agile-api.png
 - curated_id: WXEPw9cCbvMXv1FtrHPV21YK123pg7IpvxwNVbn8PnA6C9MzT9Fb6tYlJbpXwj0hiGvVH6NR4GpVeqL0svws88eQ117117
   item_date: "2015-02-24 00:00:00"
   title: Metadesign The intersection of art design and computation
   url: http://radar.oreilly.com/2015/02/meta-design-the-intersection-of-art-design-and-computation.html
   domain: radar.oreilly.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/radar-oreilly-com201502meta-design-the-intersection-of-art-design-and-computation-html.png
+- curated_id: n116g1239fmX8E123QXLOUbsnTfv5JSdGYHkYwt2VKOcW3Q1123oQnKVZ1ae8eYv4bU5wFJEss116UYsx5AA90Z72ODhyMEQ117117
+  item_date: "2015-02-24 00:00:00"
+  title: What Makes an Agile API
+  url: http://nordicapis.com/what-makes-an-agile-api/
+  domain: nordicapis.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/nordicapis-comwhat-makes-an-agile-api.png
 - curated_id: b24dadbb6629be94d0db6f2e3bc975e5
   item_date: "2015-02-26 00:00:00"
   title: Let?s Declare GPG a Dead End for Encrypted Email
@@ -909,18 +909,18 @@
   url: http://apihandyman.io/hypermedia-api-maturity-model-part-i-hypermedia-ness/
   domain: apihandyman.io
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apihandyman-iohypermedia-api-maturity-model-part-i-hypermedia-ness.png
-- curated_id: r9DeihR4jE4glOUzaSnNTaX5oh123lZpzfrzkakfpmUMysbQUHZMzJTKwiAVV9RdIhNy7vpaqxOSApSsnl350cHg117117
-  item_date: "2015-03-02 00:00:00"
-  title: Common Cases When Using SOAP Makes Sense
-  url: http://nordicapis.com/common-cases-when-using-soap-makes-sense/
-  domain: nordicapis.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/nordicapis-comcommon-cases-when-using-soap-makes-sense.png
 - curated_id: YS6zKe0TwWqSzPI123HfarhQvjhvVGqwgliCpMuTM2GSFPEZqIwLVRgykSdArZPWMT9ptBU116yzs3J8V5ojR28IHA117117
   item_date: "2015-03-02 00:00:00"
   title: Dropbox starts using POST and why this is poor API design
   url: https://evertpot.com/dropbox-post-api/
   domain: evertpot.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/evertpot-comdropbox-post-api.png
+- curated_id: r9DeihR4jE4glOUzaSnNTaX5oh123lZpzfrzkakfpmUMysbQUHZMzJTKwiAVV9RdIhNy7vpaqxOSApSsnl350cHg117117
+  item_date: "2015-03-02 00:00:00"
+  title: Common Cases When Using SOAP Makes Sense
+  url: http://nordicapis.com/common-cases-when-using-soap-makes-sense/
+  domain: nordicapis.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/nordicapis-comcommon-cases-when-using-soap-makes-sense.png
 - curated_id: NqEOF35123CWDlvXN6SqCYmB60Cxn9VyXJ3lHlwRZEhfXg116f2ODCuP1k42qMOhoaubBdhd93T1Wvz9b116XeO5vtGw117117
   item_date: "2015-03-02 11:37:39"
   title: ApplicationLevel Profile Semantics ALPS
@@ -933,18 +933,18 @@
   url: http://radar.oreilly.com/2015/02/meta-design-the-intersection-of-art-design-and-computation.html
   domain: radar.oreilly.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/radar-oreilly-com201502meta-design-the-intersection-of-art-design-and-computation-html.png
-- curated_id: nPPSlUd3ATGDOhS45IbSlt1165BiAQ123OSoVTjdJR9NPlQSE8930I0DO9x123oMTA3fa4HMRIe2q5lfdSdm0EccqQfA117117
-  item_date: "2015-03-03 00:00:00"
-  title: My API Design Research
-  url: http://apievangelist.com/2015/03/04/my-api-design-research/
-  domain: apievangelist.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150304my-api-design-research.png
 - curated_id: p8tPzwzIDnd123tqNr8eWRjAV3GVqJaEIBsL8SeFZkHWrLO87MfjTdo3P2vRbEynyMZXKLSfgmZWsnRLytkwgNdA117117
   item_date: "2015-03-03 00:00:00"
   title: Dropbox Sparks Controversy With API Design Decision
   url: http://www.programmableweb.com/news/dropbox-sparks-controversy-api-design-decision/analysis/2015/03/03
   domain: www.programmableweb.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsdropbox-sparks-controversy-api-design-decisionanalysis20150303.png
+- curated_id: nPPSlUd3ATGDOhS45IbSlt1165BiAQ123OSoVTjdJR9NPlQSE8930I0DO9x123oMTA3fa4HMRIe2q5lfdSdm0EccqQfA117117
+  item_date: "2015-03-03 00:00:00"
+  title: My API Design Research
+  url: http://apievangelist.com/2015/03/04/my-api-design-research/
+  domain: apievangelist.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150304my-api-design-research.png
 - curated_id: Bcy116FXbG5lFaou123Bq5VZbnj70mgPMsNZpkHyJKePfrmiR116yIzCrcoMIdqzij42UnYGym312jRv7PNLW2P0vN6w117117
   item_date: "2015-03-03 10:39:40"
   title: Apigee Product Highlight Video SmartDocs
@@ -981,12 +981,6 @@
   url: https://betimdrenica.wordpress.com/2015/03/09/ideal-rest-api-design/
   domain: betimdrenica.wordpress.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/betimdrenica-wordpress-com20150309ideal-rest-api-design.png
-- curated_id: 6ae2435d1aabe762e09c6f3ed4f57b15
-  item_date: "2015-03-09 00:00:00"
-  title: Germany pushes for widespread end-to-end email encryption
-  url: https://gigaom.com/2015/03/09/germany-pushes-for-widespread-end-to-end-email-encryption/
-  domain: gigaom.com
-  image: ""
 - curated_id: gbfpHt0Jwf3HoWH356OoyJK6TNHO1236bulVYUI1X7fpmZ2tLVGLDEs18CyjQKjzjEixOmf9Y70V511681IKrUDOgg117117
   item_date: "2015-03-09 00:00:00"
   title: Targeting Some APIs In My Stack For House Cleaning And Maybe Some Design
@@ -994,6 +988,12 @@
   url: http://apievangelist.com/2015/03/10/targeting-some-apis-in-my-stack-for-house-cleaning-and-maybe-some-design-iterations/
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150310targeting-some-apis-in-my-stack-for-house-cleaning-and-maybe-some-design-iterations.png
+- curated_id: 6ae2435d1aabe762e09c6f3ed4f57b15
+  item_date: "2015-03-09 00:00:00"
+  title: Germany pushes for widespread end-to-end email encryption
+  url: https://gigaom.com/2015/03/09/germany-pushes-for-widespread-end-to-end-email-encryption/
+  domain: gigaom.com
+  image: ""
 - curated_id: KifJPHJjge116hzyNwyAPGw6RcPJ28rB1232hRPvkVRxsVRiP3aBPqPIi9rDLULK9BozVBsy0HhANdyhMtGjTvc03w117117
   item_date: "2015-03-10 00:00:00"
   title: Facebook Applies Versioning Strategy to Marketing API
@@ -1024,18 +1024,18 @@
   url: http://www.theverge.com/2015/3/15/8219529/yahoo-on-demand-passwords-and-end-to-end-email-sxsw-2015
   domain: www.theverge.com
   image: ""
-- curated_id: 8N0vORPBzAphlJwelOIm1vZ92lcGcSyizjQMWUYVuSJooR9KAelEcO6VfzvU2H7zYM0qOxbs916AceItWLCK116g117117
-  item_date: "2015-03-16 00:00:00"
-  title: Designing a Web API
-  url: http://restlet.com/blog/2015/03/16/designing-a-web-api/
-  domain: restlet.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/restlet-comblog20150316designing-a-web-api.png
 - curated_id: Av2FJeSKCad0VEgYgGkjP7i4DjkK1Vi5fLsEnE116x4Jxibz2rfvd4ejMC116RixcyQzOqGAgHnZnxo1zKaUrKn4116Q117117
   item_date: "2015-03-16 00:00:00"
   title: Why Your APIs Need Design Help
   url: http://www.digitalgov.gov/2015/03/16/why-your-apis-need-design-help/
   domain: www.digitalgov.gov
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-digitalgov-gov20150316why-your-apis-need-design-help.png
+- curated_id: 8N0vORPBzAphlJwelOIm1vZ92lcGcSyizjQMWUYVuSJooR9KAelEcO6VfzvU2H7zYM0qOxbs916AceItWLCK116g117117
+  item_date: "2015-03-16 00:00:00"
+  title: Designing a Web API
+  url: http://restlet.com/blog/2015/03/16/designing-a-web-api/
+  domain: restlet.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/restlet-comblog20150316designing-a-web-api.png
 - curated_id: oaScIuYJH95jMntmiUXlBzUhwBWPWLLdx7MEZk1wjiF89dehNdvKoLmD6RcQA9rcHJz116MXkvWkA116TIhjufe5fA117117
   item_date: "2015-03-17 00:00:00"
   title: 20 API Design Tips to Stop Annoying Developers
@@ -1242,6 +1242,12 @@
   url: http://restlet.com/blog/2015/05/20/restlet-and-smartbear-partner-to-deliver-restlet-studio-plugin-for-ready-api/
   domain: restlet.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/restlet-comblog20150520restlet-and-smartbear-partner-to-deliver-restlet-studio-plugin-for-ready-api.png
+- curated_id: Bs2hh71239NRJJ123123IBB9wcK7NZJZjhEIz1Hea67EEI0KB35123j28NaT08jBbSGxsarnQW116DhQ721164116Pm7tF2Ipn5Q117117
+  item_date: "2015-05-21 00:00:00"
+  title: 7 Important API Design Lessons
+  url: http://nordicapis.com/7-api-design-lessons-world-tour-roundup/
+  domain: nordicapis.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/nordicapis-com7-api-design-lessons-world-tour-roundup.png
 - curated_id: 0RlbclclakYqrpBkU1116CCDN6IbxoulxNCGvTLxNE8P1qJSRIwHMIPiIH0diua4OP116MJnWyKkQf6zf0116jZiWhYw117117
   item_date: "2015-05-21 00:00:00"
   title: Apigee API Studio Designing Testing and Sharing APIs
@@ -1254,23 +1260,11 @@
   url: http://www.pcadvisor.co.uk/news/software/apigee-adds-some-swagger-to-api-design-3612750/
   domain: www.pcadvisor.co.uk
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-pcadvisor-co-uknewssoftware3612750apigee-adds-some-swagger-to-api-design.png
-- curated_id: Bs2hh71239NRJJ123123IBB9wcK7NZJZjhEIz1Hea67EEI0KB35123j28NaT08jBbSGxsarnQW116DhQ721164116Pm7tF2Ipn5Q117117
-  item_date: "2015-05-21 00:00:00"
-  title: 7 Important API Design Lessons
-  url: http://nordicapis.com/7-api-design-lessons-world-tour-roundup/
-  domain: nordicapis.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/nordicapis-com7-api-design-lessons-world-tour-roundup.png
 - curated_id: 9daa56b1e3bacb856a1069ec1fdd0d71
   item_date: "2015-05-22 00:00:00"
   title: 'Encryption Keys: A Brief and Exciting History'
   url: https://www.box.com/blog/encryption-keys-brief-and-exciting-history/
   domain: www.box.com
-  image: ""
-- curated_id: 905775dc54634a9980be007ce60808b4
-  item_date: "2015-05-25 11:02:52"
-  title: 'Philip Zimmermann: king of encryption reveals his fears for privacy'
-  url: http://www.theguardian.com/technology/2015/may/25/philip-zimmermann-king-encryption-reveals-fears-privacy
-  domain: www.theguardian.com
   image: ""
 - curated_id: 8a2401f94188feb266a87165a1d391e5
   item_date: "2015-05-25 11:02:52"
@@ -1279,6 +1273,24 @@
   url: https://www.theguardian.com/technology/2015/may/25/philip-zimmermann-king-encryption-reveals-fears-privacy
   domain: www.theguardian.com
   image: ""
+- curated_id: 905775dc54634a9980be007ce60808b4
+  item_date: "2015-05-25 11:02:52"
+  title: 'Philip Zimmermann: king of encryption reveals his fears for privacy'
+  url: http://www.theguardian.com/technology/2015/may/25/philip-zimmermann-king-encryption-reveals-fears-privacy
+  domain: www.theguardian.com
+  image: ""
+- curated_id: yyyQ2sx4byR5DrIIg8JCp5MyS2QoGlHKlcHtj4SxukmFvt28umPU9Hi7123aXpTqQc4ev12zNus9ayFlqCNhgKbA117117
+  item_date: "2015-05-26 00:00:00"
+  title: Article From Doodles to Delivery  An API Design Process
+  url: http://www.infoq.com/articles/doodles-to-delivery
+  domain: www.infoq.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-infoq-comarticlesdoodles-to-delivery.png
+- curated_id: E9EtiV1169XNQe1kCC82mNbfy9COKD123Hg4UYKSOPgAE9guxhW7riNevMV0j123O796ixpYtcqn9YorIQIqEpe116h8FQ117117
+  item_date: "2015-05-26 00:00:00"
+  title: RESTful API Design Part III Error Handling
+  url: http://blog.cloud-elements.com/error-handling-restful-api-design-part-iii
+  domain: blog.cloud-elements.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/cloud-elements-comrestful-api-design-part-iii-error-handling.png
 - curated_id: 6eaa780974b6b4920a806d8ce2d426f3
   item_date: "2015-05-26 00:00:00"
   title: Sunlight analysis reveals only 15 percent of congressional websites are HTTPS
@@ -1286,29 +1298,11 @@
   url: http://sunlightfoundation.com/blog/2015/05/26/sunlight-analysis-reveals-15-of-congressional-websites-are-https-ready/
   domain: sunlightfoundation.com
   image: ""
-- curated_id: E9EtiV1169XNQe1kCC82mNbfy9COKD123Hg4UYKSOPgAE9guxhW7riNevMV0j123O796ixpYtcqn9YorIQIqEpe116h8FQ117117
-  item_date: "2015-05-26 00:00:00"
-  title: RESTful API Design Part III Error Handling
-  url: http://blog.cloud-elements.com/error-handling-restful-api-design-part-iii
-  domain: blog.cloud-elements.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/cloud-elements-comrestful-api-design-part-iii-error-handling.png
-- curated_id: yyyQ2sx4byR5DrIIg8JCp5MyS2QoGlHKlcHtj4SxukmFvt28umPU9Hi7123aXpTqQc4ev12zNus9ayFlqCNhgKbA117117
-  item_date: "2015-05-26 00:00:00"
-  title: Article From Doodles to Delivery  An API Design Process
-  url: http://www.infoq.com/articles/doodles-to-delivery
-  domain: www.infoq.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-infoq-comarticlesdoodles-to-delivery.png
 - curated_id: 61dcced24b7eed8e87396631040c65b2
   item_date: "2015-05-27 00:00:00"
   title: Understanding HTTPS Protocol
   url: http://www.codeproject.com/Articles/995655/Understanding-HTTPS-Protocol
   domain: www.codeproject.com
-  image: ""
-- curated_id: 3b2f8c006df5abb7af636507ee4f581b
-  item_date: "2015-05-29 00:00:00"
-  title: 'UN: Government efforts to undermine encryption threaten basic human rights'
-  url: http://pando.com/2015/05/29/un-government-efforts-to-undermine-encryption-threaten-basic-human-rights/
-  domain: pando.com
   image: ""
 - curated_id: 47d61165fbc2b238f36c4272ae9828b0
   item_date: "2015-05-29 00:00:00"
@@ -1316,18 +1310,18 @@
   url: https://www.schneier.com/blog/archives/2015/05/un_report_on_th.html
   domain: www.schneier.com
   image: ""
+- curated_id: 3b2f8c006df5abb7af636507ee4f581b
+  item_date: "2015-05-29 00:00:00"
+  title: 'UN: Government efforts to undermine encryption threaten basic human rights'
+  url: http://pando.com/2015/05/29/un-government-efforts-to-undermine-encryption-threaten-basic-human-rights/
+  domain: pando.com
+  image: ""
 - curated_id: yys0JrQG4GKZQYqRVGPCE7FBtxQeMrffOGJs2xUHIKaUcHOxHdb3Fhv1123oOB14PLPIUEwG7y82ETldawQ5uYKQ117117
   item_date: "2015-05-30 00:00:00"
   title: How to build APIs efficiently
   url: http://api-university.com/blog/how-to-build-apis/
   domain: api-university.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/api-university-combloghow-to-build-apis.png
-- curated_id: 18b8794fd355abe6e31e74c57f6a355e
-  item_date: "2015-06-01 00:00:00"
-  title: Facebook supports encrypted emails to defend user privacy
-  url: http://pando.com/2015/06/01/facebook-supports-encrypted-emails-to-defend-user-privacy/
-  domain: pando.com
-  image: ""
 - curated_id: 2ad8c70285c4e55a4215b0a461ba31c3
   item_date: "2015-06-01 00:00:00"
   title: Facebook now lets you put a PGP key on your profile and uses it to encrypt
@@ -1342,6 +1336,12 @@
   url: http://venturebeat.com/2015/06/01/facebook-says-users-can-add-openpgp-public-keys-to-profiles-enable-encrypted-email-notifications/
   domain: venturebeat.com
   image: ""
+- curated_id: 18b8794fd355abe6e31e74c57f6a355e
+  item_date: "2015-06-01 00:00:00"
+  title: Facebook supports encrypted emails to defend user privacy
+  url: http://pando.com/2015/06/01/facebook-supports-encrypted-emails-to-defend-user-privacy/
+  domain: pando.com
+  image: ""
 - curated_id: nagr6Yenj9lA6123SPnQHPzUnOgkfV7UZicfbzxSPFTj66lyIkRfB15O698DE7apBh6O72NoCSP5j9VInK4ey8123A117117
   item_date: "2015-06-02 00:00:00"
   title: Article The Power of RAML
@@ -1354,6 +1354,12 @@
   url: http://cloud-elements.com/integrations-hard-part-ii-api-resources-search-pagination/
   domain: cloud-elements.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/cloud-elements-comintegrations-hard-part-ii-api-resources-search-pagination.png
+- curated_id: a6633dbc457c390768529393300d99f8
+  item_date: "2015-06-04 00:00:00"
+  title: FBI says crypto technology, promoted by Apple and WhatsApp, is helping terrorists
+  url: http://venturebeat.com/2015/06/04/fbi-says-crypto-technology-promoted-by-apple-and-whatsapp-is-helping-terrorists/
+  domain: venturebeat.com
+  image: ""
 - curated_id: 5VwPDKWUk55NFAl8rRjvprraPmuMgFE9riI4Pas3bvUKoIoR8bAKiiMfXOU2lp5MFtIYePrhgOvvDdkuN9Sodg117117
   item_date: "2015-06-04 00:00:00"
   title: Why Not To Overlook API Planning And What To Do About It
@@ -1366,12 +1372,6 @@
   url: http://nordicapis.com/top-5-development-tips-for-a-killer-api/
   domain: nordicapis.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/nordicapis-comtop-5-development-tips-for-a-killer-api.png
-- curated_id: a6633dbc457c390768529393300d99f8
-  item_date: "2015-06-04 00:00:00"
-  title: FBI says crypto technology, promoted by Apple and WhatsApp, is helping terrorists
-  url: http://venturebeat.com/2015/06/04/fbi-says-crypto-technology-promoted-by-apple-and-whatsapp-is-helping-terrorists/
-  domain: venturebeat.com
-  image: ""
 - curated_id: 05KJQ1WD9epxSr7O58AbBgBU62JBjCls8116PIAtr2BSV5cMxSq123og116V75fmYty3XXo1Dkjvgqb648116W123I4dIs9Q117117
   item_date: "2015-06-04 11:42:10"
   title: Visions Of My Perfect API Design Editor Using Electron
@@ -1390,24 +1390,6 @@
   url: https://18f.gsa.gov/2015/06/08/the-us-government-is-moving-to-https-everywhere/
   domain: 18f.gsa.gov
   image: ""
-- curated_id: 5azTlTxEddG1NdM67O4hf4bWMlI4p1LT7TIFCd5fx1o3wocGE91234qlXj116jvCL9xrNVtm7sHJ116L2apzcs9MqEsg117117
-  item_date: "2015-06-09 00:00:00"
-  title: Decoupling the Mind of the API Designer
-  url: http://blog.apiary.io/2015/06/09/Decoupling-the-Mind-of-the-API-Designer/
-  domain: blog.apiary.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-apiary-io20150609decoupling-the-mind-of-the-api-designer.png
-- curated_id: ca8004bc910be3def54c4751e3166ed5
-  item_date: "2015-06-09 00:00:00"
-  title: The encryption debate in the balance
-  url: http://disruptiveviews.com/the-encryption-debate-in-the-balance/
-  domain: disruptiveviews.com
-  image: ""
-- curated_id: 186ce7dc9f8fb6b41e8b7d94dcbbc932
-  item_date: "2015-06-09 00:00:00"
-  title: U.S. Tech Industry Warns Obama To Leave Encryption Alone
-  url: http://www.huffingtonpost.com/2015/06/09/obama-encryption_n_7542070.html
-  domain: www.huffingtonpost.com
-  image: ""
 - curated_id: aa5480a7516f18f2acc4d8c092ee0398
   item_date: "2015-06-09 00:00:00"
   title: 'Register for and Attend This June 16 Webinar--Deep Dive: Protecting Your
@@ -1421,18 +1403,36 @@
   url: https://www.varnish-software.com/blog/how-implement-ssltls-varnish-plus
   domain: www.varnish-software.com
   image: ""
-- curated_id: d1de3b51de8e57934ec0e960aa55887e
-  item_date: "2015-06-10 00:00:00"
-  title: Obama?s received yet another open letter calling for him to defend encryption
-  url: http://pando.com/2015/06/10/obamas-received-yet-another-open-letter-calling-for-him-to-defend-encryption/
-  domain: pando.com
+- curated_id: 186ce7dc9f8fb6b41e8b7d94dcbbc932
+  item_date: "2015-06-09 00:00:00"
+  title: U.S. Tech Industry Warns Obama To Leave Encryption Alone
+  url: http://www.huffingtonpost.com/2015/06/09/obama-encryption_n_7542070.html
+  domain: www.huffingtonpost.com
   image: ""
+- curated_id: ca8004bc910be3def54c4751e3166ed5
+  item_date: "2015-06-09 00:00:00"
+  title: The encryption debate in the balance
+  url: http://disruptiveviews.com/the-encryption-debate-in-the-balance/
+  domain: disruptiveviews.com
+  image: ""
+- curated_id: 5azTlTxEddG1NdM67O4hf4bWMlI4p1LT7TIFCd5fx1o3wocGE91234qlXj116jvCL9xrNVtm7sHJ116L2apzcs9MqEsg117117
+  item_date: "2015-06-09 00:00:00"
+  title: Decoupling the Mind of the API Designer
+  url: http://blog.apiary.io/2015/06/09/Decoupling-the-Mind-of-the-API-Designer/
+  domain: blog.apiary.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-apiary-io20150609decoupling-the-mind-of-the-api-designer.png
 - curated_id: LX8fmCL5aAABapgd8qwQyeJdgYwRJA1230M831161n116edLZevYP1nP90Z123hdXngTaTLzkFPQRVY5QWm3K8p116hKt32A117117
   item_date: "2015-06-10 00:00:00"
   title: New JSON API Specification Aims to Speed API Development
   url: http://www.programmableweb.com/news/new-json-api-specification-aims-to-speed-api-development/2015/06/10
   domain: www.programmableweb.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsnew-json-api-specification-aims-to-speed-api-development20150610.png
+- curated_id: d1de3b51de8e57934ec0e960aa55887e
+  item_date: "2015-06-10 00:00:00"
+  title: Obama?s received yet another open letter calling for him to defend encryption
+  url: http://pando.com/2015/06/10/obamas-received-yet-another-open-letter-calling-for-him-to-defend-encryption/
+  domain: pando.com
+  image: ""
 - curated_id: HvS1163ZJxzeN4jT116OI16rUY5oxnFSszzldtM2TYwhWOy8xmsYWhEAipzPTEbCOcUnBKzhuZSnJZwqx337o5ADnA117117
   item_date: "2015-06-10 12:02:48"
   title: Using API Definitions To Help API Providers With Their API Design Roadmap
@@ -1463,17 +1463,17 @@
   url: https://blog.apiary.io/2015/06/09/Decoupling-the-Mind-of-the-API-Designer
   domain: blog.apiary.io
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-apiary-io20150609decoupling-the-mind-of-the-api-designer.png
-- curated_id: e4c1932271eacf714c3ea5c0734a435a
-  item_date: "2015-06-15 00:00:00"
-  title: Bing will soon encrypt your search queries by default
-  url: http://thenextweb.com/microsoft/2015/06/15/bing-will-soon-encrypt-your-search-queries-by-default/
-  domain: thenextweb.com
-  image: ""
 - curated_id: 5dd64d726a0350a01540f9005940b3c3
   item_date: "2015-06-15 00:00:00"
   title: Microsoft will soon use HTTPS to encrypt Bing search traffic by default
   url: http://venturebeat.com/2015/06/15/microsoft-will-soon-use-https-to-encrypt-bing-search-traffic-by-default/
   domain: venturebeat.com
+  image: ""
+- curated_id: e4c1932271eacf714c3ea5c0734a435a
+  item_date: "2015-06-15 00:00:00"
+  title: Bing will soon encrypt your search queries by default
+  url: http://thenextweb.com/microsoft/2015/06/15/bing-will-soon-encrypt-your-search-queries-by-default/
+  domain: thenextweb.com
   image: ""
 - curated_id: 830639bed1a771d120fbde53a00fd633
   item_date: "2015-06-16 00:00:00"
@@ -1481,17 +1481,17 @@
   url: https://www.infoq.com/news/2015/06/SQL-Server-Always-Encrypted
   domain: www.infoq.com
   image: ""
-- curated_id: b27279daa11ee68bf584455277d50673
-  item_date: "2015-06-17 00:00:00"
-  title: Reddit is moving to total encryption
-  url: http://www.theverge.com/2015/6/17/8800043/reddit-ssl-encryption-privacy-secure-connection
-  domain: www.theverge.com
-  image: ""
 - curated_id: b75cae4bbe1355c4984286d5fa149984
   item_date: "2015-06-17 00:00:00"
   title: Preventing hack using encryption ?not feasible? says US government official
   url: http://thenextweb.com/insider/2015/06/17/preventing-hack-using-encryption-not-feasible-says-us-government-official/
   domain: thenextweb.com
+  image: ""
+- curated_id: b27279daa11ee68bf584455277d50673
+  item_date: "2015-06-17 00:00:00"
+  title: Reddit is moving to total encryption
+  url: http://www.theverge.com/2015/6/17/8800043/reddit-ssl-encryption-privacy-secure-connection
+  domain: www.theverge.com
   image: ""
 - curated_id: fef08b442de05b0fcb6023400679df6b
   item_date: "2015-06-18 00:00:00"
@@ -1524,18 +1524,18 @@
   url: http://apievangelist.com/2015/06/30/the-api-design-tooling-i-have-included-in-my-research/
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150630the-api-design-tooling-i-have-included-in-my-research.png
-- curated_id: WedC123gJbVRxcVR5FuD8q7123Yk116o9116116HS12xXrrtIyDZxZuZsaa58VJDuaUcXXCBRx1SFIuz2123QzLeZoiTp116Ie2g117117
-  item_date: "2015-06-30 00:00:00"
-  title: Why Its OK To Design Imperfect APIs
-  url: http://www.programmableweb.com/news/why-it%E2%80%99s-ok-to-design-imperfect-apis/analysis/2015/06/30
-  domain: www.programmableweb.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewswhy-it%e2%80%99s-ok-to-design-imperfect-apisanalysis20150630.png
 - curated_id: GtToYCl83GqPeDTeu9CxlochQL5ZdZhjuN7n1noEnUcLl1Vg123ZZEaT7116k95123116UgOpQrjRmDKwDp8z123noC5XnYQ117117
   item_date: "2015-06-30 00:00:00"
   title: API Design Considerations for The Internet of Things
   url: http://www.programmableweb.com/news/api-design-considerations-internet-things/analysis/2015/06/30
   domain: www.programmableweb.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsapi-design-considerations-internet-thingsanalysis20150630.png
+- curated_id: WedC123gJbVRxcVR5FuD8q7123Yk116o9116116HS12xXrrtIyDZxZuZsaa58VJDuaUcXXCBRx1SFIuz2123QzLeZoiTp116Ie2g117117
+  item_date: "2015-06-30 00:00:00"
+  title: Why Its OK To Design Imperfect APIs
+  url: http://www.programmableweb.com/news/why-it%E2%80%99s-ok-to-design-imperfect-apis/analysis/2015/06/30
+  domain: www.programmableweb.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewswhy-it%e2%80%99s-ok-to-design-imperfect-apisanalysis20150630.png
 - curated_id: n7z123M6y116buVRfY8Wr4kz5OdnR123wqB2116t38ShIcn4123vI0XQysXA0yDLl17WibuFfmRMhAvqCtCoEPjA0aw7cjDA117117
   item_date: "2015-06-30 00:43:09"
   title: Tightening Up The Organizations That Are Included In My API Design Research
@@ -1554,18 +1554,18 @@
   url: http://sdtimes.com/guest-view-u-s-encryption-export-controls-and-misconceptions/
   domain: sdtimes.com
   image: ""
-- curated_id: 7bc33205f6b11b07cefc543f2f5235f1
-  item_date: "2015-07-07 00:00:00"
-  title: Code Specialists Oppose U.S. and British Government Access to Encrypted Communication
-  url: http://www.nytimes.com/2015/07/08/technology/code-specialists-oppose-us-and-british-government-access-to-encrypted-communication.html
-  domain: www.nytimes.com
-  image: ""
 - curated_id: jb6SYacs3WULnkJa4vVm5ayGW6VYawwte116biwcZ9SpjGUuHRfo2UD1rw5zV2fYIc988D9ihNVNhpjBuL1236LmKg117117
   item_date: "2015-07-07 00:00:00"
   title: My API Design Research Distilled Down As Single PDF Guide
   url: http://apievangelist.com/2015/07/08/my-api-design-research-distilled-down-as-single-pdf-guide/
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150708my-api-design-research-distilled-down-as-single-pdf-guide.png
+- curated_id: 7bc33205f6b11b07cefc543f2f5235f1
+  item_date: "2015-07-07 00:00:00"
+  title: Code Specialists Oppose U.S. and British Government Access to Encrypted Communication
+  url: http://www.nytimes.com/2015/07/08/technology/code-specialists-oppose-us-and-british-government-access-to-encrypted-communication.html
+  domain: www.nytimes.com
+  image: ""
 - curated_id: BGgeXEtFo2XkqhmxZKGwDgA7RyoSdoqhEBYpH2gsDwsErkbjzhljwNIBVAOgSBoADmiRxfznv3txNw1ipSvYRg117117
   item_date: "2015-07-08 00:00:00"
   title: Now in Production DELETE page
@@ -1578,17 +1578,17 @@
   url: http://apievangelist.com/2015/07/08/my-api-design-research-distilled-down-as-single-pdf-guide/
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150708my-api-design-research-distilled-down-as-single-pdf-guide.png
-- curated_id: fec95f70f20790c564bc9e17682ee10f
-  item_date: "2015-07-09 00:00:00"
-  title: The Risks of Mandating Backdoors in Encryption Products
-  url: https://www.schneier.com/blog/archives/2015/07/the_risks_of_ma.html
-  domain: www.schneier.com
-  image: ""
 - curated_id: d378c42fddfe990d8b399ec08620fef3
   item_date: "2015-07-09 00:00:00"
   title: FBI chief claims encrypted communications danger to country
   url: http://disruptiveviews.com/fbi-chief-claims-encrypted-communications-danger-to-country/
   domain: disruptiveviews.com
+  image: ""
+- curated_id: fec95f70f20790c564bc9e17682ee10f
+  item_date: "2015-07-09 00:00:00"
+  title: The Risks of Mandating Backdoors in Encryption Products
+  url: https://www.schneier.com/blog/archives/2015/07/the_risks_of_ma.html
+  domain: www.schneier.com
   image: ""
 - curated_id: JFavSARdPJzo36zyTKWhBiyharyKrDi3Gh7msT0fnDKbVytcFNVi5I9aNSRV7M886uiAYVojMZKr7drZ116wz0OA117117
   item_date: "2015-07-10 00:00:00"
@@ -1671,18 +1671,18 @@
   url: http://www.slideshare.net/AEMHub2014/rest-in-aem-by-roy-fielding
   domain: www.slideshare.net
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-slideshare-netaemhub2014rest-in-aem-by-roy-fielding.png
-- curated_id: CnLjMfKaXSPg2ohD6mjuZfGt8NQQPZ0cC3cdPpVeseooWawQK71QVpT0116KhdUhNMfd8PaD8NpeNQStNpxivGXA117117
-  item_date: "2015-09-13 00:00:00"
-  title: Architectural Styles for APIs SOAP REST and RPC
-  url: http://api-university.com/blog/styles-for-apis-soap-rest-and-rpc/
-  domain: api-university.com
-  image: ""
 - curated_id: AOKBxVnTNmpbS116dT7zC0116YY7ZWkobOEzHUoEAgrupOZlxW4oi4bCPHIjJ1123ouEggVcbR5mvS1Hp123DdMHThJrlw117117
   item_date: "2015-09-13 00:00:00"
   title: There Is A Big Opportunity Right Now When It Comes To API Design Tooling
   url: http://apievangelist.com/2015/09/14/there-is-a-big-opportunity-right-now-when-it-comes-to-api-design-tooling
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150914there-is-a-big-opportunity-right-now-when-it-comes-to-api-design-tooling.png
+- curated_id: CnLjMfKaXSPg2ohD6mjuZfGt8NQQPZ0cC3cdPpVeseooWawQK71QVpT0116KhdUhNMfd8PaD8NpeNQStNpxivGXA117117
+  item_date: "2015-09-13 00:00:00"
+  title: Architectural Styles for APIs SOAP REST and RPC
+  url: http://api-university.com/blog/styles-for-apis-soap-rest-and-rpc/
+  domain: api-university.com
+  image: ""
 - curated_id: cc712db78ecaaad9e94a36205da8bfa4
   item_date: "2015-10-15 03:50:39"
   title: How is NSA breaking so much crypto?
@@ -1733,18 +1733,18 @@
   url: https://aws.amazon.com/blogs/aws/new-encryption-at-rest-for-amazon-aurora/
   domain: aws.amazon.com
   image: ""
-- curated_id: HX6123bBfn1161HNRMIDr4AEt1eCnXVNzttFPhkFdN1ORHuNfn8KEdwMKWoFluh2rpF123UbAGePsHymO0pCrTl04mxw117117
-  item_date: "2015-12-08 00:00:00"
-  title: Designing Evolvable APIs for the Web Formats
-  url: http://nordicapis.com/designing-evolvable-apis-for-the-web-formats/
-  domain: nordicapis.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/nordicapis-comdesigning-evolvable-apis-for-the-web-formats.png
 - curated_id: ffdff5b49e32d8395f08733236921da4
   item_date: "2015-12-08 00:00:00"
   title: How Israel Regulates Encryption
   url: https://www.schneier.com/blog/archives/2015/12/how_israel_regu.html
   domain: www.schneier.com
   image: ""
+- curated_id: HX6123bBfn1161HNRMIDr4AEt1eCnXVNzttFPhkFdN1ORHuNfn8KEdwMKWoFluh2rpF123UbAGePsHymO0pCrTl04mxw117117
+  item_date: "2015-12-08 00:00:00"
+  title: Designing Evolvable APIs for the Web Formats
+  url: http://nordicapis.com/designing-evolvable-apis-for-the-web-formats/
+  domain: nordicapis.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/nordicapis-comdesigning-evolvable-apis-for-the-web-formats.png
 - curated_id: 7a9f44ea607a170fea00c3355a7e6509
   item_date: "2015-12-09 00:00:00"
   title: 'Coded Messages: F.B.I. Chief Says Texas Gunman Used Encryption to Text Overseas
@@ -1752,18 +1752,18 @@
   url: http://www.nytimes.com/2015/12/10/us/politics/fbi-chief-says-texas-gunman-used-encryption-to-text-overseas-terrorist.html
   domain: www.nytimes.com
   image: ""
-- curated_id: 6NDWmi116Dpajq0yN4x116Twq0FQc0Oy6y6OS116frTXod4C7yZXChJCmNw6ohxO8OhBaqLLhU5UIdffCNpR116123Banwbw117117
-  item_date: "2015-12-10 00:00:00"
-  title: Understanding HTTP content negotiation
-  url: http://restlet.com/blog/2015/12/10/understanding-http-content-negotiation/
-  domain: restlet.com
-  image: ""
 - curated_id: dbe2e9483a623b849e6e6332527df92d
   item_date: "2015-12-10 00:00:00"
   title: FBI Director James Comey Calls on Tech Companies Offering End-to-End Encryption
     to Reconsider ?Their Business Model?
   url: https://theintercept.com/2015/12/09/comey-calls-on-tech-companies-offering-end-to-end-encryption-to-reconsider-their-business-model/
   domain: theintercept.com
+  image: ""
+- curated_id: 6NDWmi116Dpajq0yN4x116Twq0FQc0Oy6y6OS116frTXod4C7yZXChJCmNw6ohxO8OhBaqLLhU5UIdffCNpR116123Banwbw117117
+  item_date: "2015-12-10 00:00:00"
+  title: Understanding HTTP content negotiation
+  url: http://restlet.com/blog/2015/12/10/understanding-http-content-negotiation/
+  domain: restlet.com
   image: ""
 - curated_id: ExFNepR3DlBUGCcnNCkYbe3ksj8028w123BxYvX8SAg5camQCfZwq116kLEssHW6sFISZD6q3zOCzS116UTJbqJzTMPw117117
   item_date: "2015-12-13 00:00:00"
@@ -1832,18 +1832,18 @@
   url: https://securedb.co/blog/securing-apis-using-securedb-encrypted-identity-manager/
   domain: securedb.co
   image: ""
+- curated_id: SM2iIDY4yrpVX4DnaMgRYLbkP123dWYug6hb62jyV123QfKzaowNSwfHEjbIdAShReidfDfvf1KlSahvqFeAt9nVIw117117
+  item_date: "2016-01-07 00:00:00"
+  title: Passing Json data to a RESTful WCF 4 service using JsonNet
+  url: http://www.codeproject.com/Articles/1069975/Passing-Json-data-to-a-RESTful-WCF-service-using-J
+  domain: www.codeproject.com
+  image: ""
 - curated_id: c7d32a18297ab743e4f6c0a97dfb5ae6
   item_date: "2016-01-07 00:00:00"
   title: Apple, Facebook, Google, Microsoft and Twitter urge UK to guarantee encryption
     in law
   url: http://thenextweb.com/apple/2016/01/07/apple-facebook-google-microsoft-and-twitter-urge-uk-to-guarantee-encryption-in-law/
   domain: thenextweb.com
-  image: ""
-- curated_id: SM2iIDY4yrpVX4DnaMgRYLbkP123dWYug6hb62jyV123QfKzaowNSwfHEjbIdAShReidfDfvf1KlSahvqFeAt9nVIw117117
-  item_date: "2016-01-07 00:00:00"
-  title: Passing Json data to a RESTful WCF 4 service using JsonNet
-  url: http://www.codeproject.com/Articles/1069975/Passing-Json-data-to-a-RESTful-WCF-service-using-J
-  domain: www.codeproject.com
   image: ""
 - curated_id: SyNd2iNSlX5I3iIrX123116Pwu8Z8ouNjXMRnPDDXZ965oxbCARwXpfP6CDvsX9ThOC6T8i66dhZMwUrOHrsjZK3lQ117117
   item_date: "2016-01-08 16:08:34"
@@ -1881,18 +1881,18 @@
   url: https://theintercept.com/2016/01/12/apples-tim-cook-lashes-out-at-white-house-officials-for-being-wishy-washy-on-encryption/
   domain: theintercept.com
   image: ""
-- curated_id: IhQnnSVBhItcXQoEUkWagdFAq4tIZ8TMfYBNmd97n9HQ123gQgxZPML5cQbt7X0P2h2zdToW7zaVlFu60Xry8JKg117117
-  item_date: "2016-01-19 00:00:00"
-  title: Apiaryio Now Features Swagger Support
-  url: http://www.programmableweb.com/news/apiary.io-now-features-swagger-support/brief/2016/01/19
-  domain: www.programmableweb.com
-  image: ""
 - curated_id: 5239638aaf12e9a3ef6e0850f1249375
   item_date: "2016-01-19 00:00:00"
   title: Tell the New York legislature how you really feel about this smartphone encryption
     bill
   url: http://www.theverge.com/2016/1/19/10791656/new-york-encryption-bill-comments
   domain: www.theverge.com
+  image: ""
+- curated_id: IhQnnSVBhItcXQoEUkWagdFAq4tIZ8TMfYBNmd97n9HQ123gQgxZPML5cQbt7X0P2h2zdToW7zaVlFu60Xry8JKg117117
+  item_date: "2016-01-19 00:00:00"
+  title: Apiaryio Now Features Swagger Support
+  url: http://www.programmableweb.com/news/apiary.io-now-features-swagger-support/brief/2016/01/19
+  domain: www.programmableweb.com
   image: ""
 - curated_id: e24155b1d3c9e7acf1dab1661418088f
   item_date: "2016-01-20 00:00:00"
@@ -1906,23 +1906,17 @@
   url: https://www.schneier.com/blog/archives/2016/01/france_rejects_.html
   domain: www.schneier.com
   image: ""
-- curated_id: a7ceabfc170ae0bb35804610f20dad69
+- curated_id: 1b706c692482f70435c4ac446d76c1de
   item_date: "2016-01-21 00:00:00"
-  title: BitTorrent Sync adds folder encryption and other features for power users
-  url: http://thenextweb.com/apps/2016/01/21/bittorrent-sync-adds-folder-encryption-and-other-features-for-power-users/
+  title: New ? AWS Certificate Manager ? Deploy SSL/TLS-Based Apps on AWS
+  url: https://aws.amazon.com/blogs/aws/new-aws-certificate-manager-deploy-ssltls-based-apps-on-aws/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 850f613759686e9a92517c91e892f347
+  item_date: "2016-01-21 00:00:00"
+  title: Does the NSA?s pro-encryption stance mean it?s already broken common protocols?
+  url: http://thenextweb.com/opinion/2016/01/22/does-the-nsas-pro-encryption-stance-mean-its-already-broken-common-protocols/
   domain: thenextweb.com
-  image: ""
-- curated_id: LdEjivBOKDGP6fyrgDbtpSMKX5Vn3iKzWMVYX1168UW116aP06giaaYrQkG4X3lCnrHHQ0hDqouYNCsI8rPdWRfDYA117117
-  item_date: "2016-01-21 00:00:00"
-  title: Paging in ASPNET Web API
-  url: http://www.codeproject.com/Articles/1073488/Paging-in-ASP-NET-Web-API
-  domain: www.codeproject.com
-  image: ""
-- curated_id: d2f494347389b26000b6e588d0766cc2
-  item_date: "2016-01-21 00:00:00"
-  title: AWS launches tool that provides SSL and TLS certificates for free
-  url: http://venturebeat.com/2016/01/21/aws-launches-tool-that-provides-ssl-and-tls-certificates-for-free/
-  domain: venturebeat.com
   image: ""
 - curated_id: b9a7614f0368978e14a9c953493068ad
   item_date: "2016-01-21 00:00:00"
@@ -1936,17 +1930,29 @@
   url: https://blogs.aws.amazon.com/security/post/Tx24WML741X5POQ/Now-Available-AWS-Certificate-Manager
   domain: blogs.aws.amazon.com
   image: ""
-- curated_id: 1b706c692482f70435c4ac446d76c1de
+- curated_id: d2f494347389b26000b6e588d0766cc2
   item_date: "2016-01-21 00:00:00"
-  title: New ? AWS Certificate Manager ? Deploy SSL/TLS-Based Apps on AWS
-  url: https://aws.amazon.com/blogs/aws/new-aws-certificate-manager-deploy-ssltls-based-apps-on-aws/
-  domain: aws.amazon.com
+  title: AWS launches tool that provides SSL and TLS certificates for free
+  url: http://venturebeat.com/2016/01/21/aws-launches-tool-that-provides-ssl-and-tls-certificates-for-free/
+  domain: venturebeat.com
   image: ""
-- curated_id: 850f613759686e9a92517c91e892f347
+- curated_id: a7ceabfc170ae0bb35804610f20dad69
   item_date: "2016-01-21 00:00:00"
-  title: Does the NSA?s pro-encryption stance mean it?s already broken common protocols?
-  url: http://thenextweb.com/opinion/2016/01/22/does-the-nsas-pro-encryption-stance-mean-its-already-broken-common-protocols/
+  title: BitTorrent Sync adds folder encryption and other features for power users
+  url: http://thenextweb.com/apps/2016/01/21/bittorrent-sync-adds-folder-encryption-and-other-features-for-power-users/
   domain: thenextweb.com
+  image: ""
+- curated_id: LdEjivBOKDGP6fyrgDbtpSMKX5Vn3iKzWMVYX1168UW116aP06giaaYrQkG4X3lCnrHHQ0hDqouYNCsI8rPdWRfDYA117117
+  item_date: "2016-01-21 00:00:00"
+  title: Paging in ASPNET Web API
+  url: http://www.codeproject.com/Articles/1073488/Paging-in-ASP-NET-Web-API
+  domain: www.codeproject.com
+  image: ""
+- curated_id: a77308cb313335c1eaa9d137a6654835
+  item_date: "2016-01-22 00:00:00"
+  title: UK Government Promoting Backdoor-Enabled Voice Encryption Protocol
+  url: https://www.schneier.com/blog/archives/2016/01/uk_government_p.html
+  domain: www.schneier.com
   image: ""
 - curated_id: 9a30dc04d5d0e5a7b17672263b447eab
   item_date: "2016-01-22 00:00:00"
@@ -1955,17 +1961,17 @@
   url: http://www.theverge.com/2016/1/22/10815054/california-jim-cooper-encryption-district-attorney
   domain: www.theverge.com
   image: ""
-- curated_id: a77308cb313335c1eaa9d137a6654835
-  item_date: "2016-01-22 00:00:00"
-  title: UK Government Promoting Backdoor-Enabled Voice Encryption Protocol
-  url: https://www.schneier.com/blog/archives/2016/01/uk_government_p.html
-  domain: www.schneier.com
-  image: ""
 - curated_id: s2123UxfpiR5ezjCr0MTu0cPwOyKIayR2TvGoW123hmc7jgBu9ndpYA9ilE0FsSHfx6siP20B3IJlhCoe123x2SIdWhQ117117
   item_date: "2016-01-25 10:17:37"
   title: Reverse Engineering APIs From The Common APIs Models We Know
   url: http://apievangelist.com/2016/01/25/reverse-engineering-apis-from-the-common-apis-models-we-know/
   domain: apievangelist.com
+  image: ""
+- curated_id: 58c7ba6000c035daf7fe0c30d922c95f
+  item_date: "2016-01-28 00:00:00"
+  title: Facebook Shuts Down Parse, Shocking Developers
+  url: http://www.programmableweb.com/news/facebook-shuts-down-parse-shocking-developers/2016/01/28
+  domain: www.programmableweb.com
   image: ""
 - curated_id: be9ee88afe6912bb529fdbfdb43fd352
   item_date: "2016-01-28 00:00:00"
@@ -1973,12 +1979,6 @@
     agencies on encrypted data'
   url: https://pando.com/2016/01/27/chairman-uber-military-tech-companies-should-cooperate-intelligence-agencies-encrypted-data/
   domain: pando.com
-  image: ""
-- curated_id: 58c7ba6000c035daf7fe0c30d922c95f
-  item_date: "2016-01-28 00:00:00"
-  title: Facebook Shuts Down Parse, Shocking Developers
-  url: http://www.programmableweb.com/news/facebook-shuts-down-parse-shocking-developers/2016/01/28
-  domain: www.programmableweb.com
   image: ""
 - curated_id: 6x0ztLyB292jv7qV5HPc2E123H62DrT4z7bu3wGTKHg5ai0f7KAdXeJ1wb86S0Xn3kR3l9kHJsfWmZv1UwZk0jOw117117
   item_date: "2016-01-29 00:00:00"
@@ -1993,17 +1993,17 @@
   url: http://www.dailydot.com/politics/encryption-fbi-harvard-berkman-study/
   domain: www.dailydot.com
   image: ""
-- curated_id: c381b9ae10877e5df7ff16feacf63d52
-  item_date: "2016-02-02 00:00:00"
-  title: All Shopify Stores Now Use SSL Encryption Everywhere
-  url: https://www.shopify.com/blog/73511365-all-shopify-stores-now-use-ssl-encryption-everywhere
-  domain: www.shopify.com
-  image: ""
 - curated_id: 9YCL116RKS0oVl116aeycZkK0hVGZSoQNpyiy1rk2c5KBKNjeYR5VE8WAPndmAZB5BKih123HrmrveeiSi9MT6isoiyw117117
   item_date: "2016-02-02 00:00:00"
   title: an online tutorial  with friends
   url: http://www.amundsen.com/blog/archives/1166
   domain: www.amundsen.com
+  image: ""
+- curated_id: c381b9ae10877e5df7ff16feacf63d52
+  item_date: "2016-02-02 00:00:00"
+  title: All Shopify Stores Now Use SSL Encryption Everywhere
+  url: https://www.shopify.com/blog/73511365-all-shopify-stores-now-use-ssl-encryption-everywhere
+  domain: www.shopify.com
   image: ""
 - curated_id: YauG649ieqeXAfAuqprEfrOJbLev04bHr0NXavNHN14I62IOK3CZplGsjx0fUiNiYv3Jpx0fX3Kd7FuSkc6123Hg117117
   item_date: "2016-02-02 09:23:49"
@@ -2011,11 +2011,11 @@
   url: http://launchany.com/lessons-from-training-1400-people-in-web-api-design/
   domain: launchany.com
   image: ""
-- curated_id: 0b4cce5e9be4dab24f20018be4c2a912
+- curated_id: PPjH1162YporJRL80EZvxzo4uuhMbTxIM0yePUYhaiuFZnk5vjdA116Ja3SjXCjwXjotdb36b7Zbhc9pkbiUNfUKyg117117
   item_date: "2016-02-04 00:00:00"
-  title: Box launches KeySafe service for secure storage of encryption keys
-  url: http://venturebeat.com/2016/02/04/box-launches-keysafe-service-for-secure-storage-of-encryption-keys/
-  domain: venturebeat.com
+  title: REST essentials for the QuickBooks API
+  url: https://developer.intuit.com/hub/blog/2016/02/04/rest-essentials-for-the-quickbooks-api
+  domain: developer.intuit.com
   image: ""
 - curated_id: 966a30c361754f65eec40d1249544ff2
   item_date: "2016-02-04 00:00:00"
@@ -2023,11 +2023,11 @@
   url: https://www.box.com/blog/box-keysafe/
   domain: www.box.com
   image: ""
-- curated_id: PPjH1162YporJRL80EZvxzo4uuhMbTxIM0yePUYhaiuFZnk5vjdA116Ja3SjXCjwXjotdb36b7Zbhc9pkbiUNfUKyg117117
+- curated_id: 0b4cce5e9be4dab24f20018be4c2a912
   item_date: "2016-02-04 00:00:00"
-  title: REST essentials for the QuickBooks API
-  url: https://developer.intuit.com/hub/blog/2016/02/04/rest-essentials-for-the-quickbooks-api
-  domain: developer.intuit.com
+  title: Box launches KeySafe service for secure storage of encryption keys
+  url: http://venturebeat.com/2016/02/04/box-launches-keysafe-service-for-secure-storage-of-encryption-keys/
+  domain: venturebeat.com
   image: ""
 - curated_id: 34baf03ccd38e9817e5e057d80ab85a0
   item_date: "2016-02-10 00:00:00"
@@ -2035,11 +2035,11 @@
   url: http://www.theverge.com/2016/2/10/10956622/ted-lieu-blake-farenthold-encryption-bill
   domain: www.theverge.com
   image: ""
-- curated_id: 08a04eda1f28152d4f6fe8fa6e39802f
+- curated_id: 1149383c1e31f4e1d6514f368580edfe
   item_date: "2016-02-11 00:00:00"
-  title: Lawmakers seek to bar US states from mandating encryption weaknesses
-  url: http://disruptiveviews.com/lawmakers-seek-to-bar-us-states-from-mandating-encryption-weaknesses/
-  domain: disruptiveviews.com
+  title: Worldwide Encryption Products Survey
+  url: https://www.schneier.com/blog/archives/2016/02/worldwide_encry.html
+  domain: www.schneier.com
   image: ""
 - curated_id: 151665fb8f6bf0c35aa4924358fece0d
   item_date: "2016-02-11 00:00:00"
@@ -2047,11 +2047,11 @@
   url: https://opensrs.com/blog/2016/02/rapidssl-is-here/
   domain: opensrs.com
   image: ""
-- curated_id: 1149383c1e31f4e1d6514f368580edfe
+- curated_id: 08a04eda1f28152d4f6fe8fa6e39802f
   item_date: "2016-02-11 00:00:00"
-  title: Worldwide Encryption Products Survey
-  url: https://www.schneier.com/blog/archives/2016/02/worldwide_encry.html
-  domain: www.schneier.com
+  title: Lawmakers seek to bar US states from mandating encryption weaknesses
+  url: http://disruptiveviews.com/lawmakers-seek-to-bar-us-states-from-mandating-encryption-weaknesses/
+  domain: disruptiveviews.com
   image: ""
 - curated_id: CdWJtyhwhUwoXzK4kBzqSULod5kwIPUL123oqT8ByIqBb07WEgh3wX123116TJgmXGbFicdkwlyBHpFK1237cWBTBElqbw117117
   item_date: "2016-02-15 00:00:00"
@@ -2059,23 +2059,60 @@
   url: http://restlet.com/blog/2016/02/15/sharing-and-saving-your-web-api-design-project-in-the-cloud/
   domain: restlet.com
   image: ""
-- curated_id: e116CnufXYV2WKEYh2kObdX3oitVZ1163AJnGwQR1Ff2qnsZOZiv1nT4PxbO8g8NVkLjbsKaqAXSFfctjrcX8pQvKA117117
-  item_date: "2016-02-16 00:00:00"
-  title: Introducing API Templates
-  url: http://www.socketlabs.com/blog/introducing-api-templates/
-  domain: www.socketlabs.com
-  image: ""
 - curated_id: 8e27d5a1752c265f484bc2a3c9fdda64
   item_date: "2016-02-16 00:00:00"
   title: Judge Orders Apple To Break Into Phone Of San Bernardino Shooter
   url: http://www.huffingtonpost.com/entry/san-bernardino-shooting-apple-encryption_us_56c3c96ee4b08ffac126ffe7
   domain: www.huffingtonpost.com
   image: ""
+- curated_id: e116CnufXYV2WKEYh2kObdX3oitVZ1163AJnGwQR1Ff2qnsZOZiv1nT4PxbO8g8NVkLjbsKaqAXSFfctjrcX8pQvKA117117
+  item_date: "2016-02-16 00:00:00"
+  title: Introducing API Templates
+  url: http://www.socketlabs.com/blog/introducing-api-templates/
+  domain: www.socketlabs.com
+  image: ""
 - curated_id: YOtJWZueqcOugEZriOVA9pLJ5BDiMQGdvlTGFozXpUJULbm123DHm5ltV8W9OBP116FsHJduBsWHgc123nSc6jpbMDjg117117
   item_date: "2016-02-16 14:35:55"
   title: Using a Prototype as an API Product Specification
   url: https://sendgrid.com/blog/using-a-prototype-as-an-api-product-specification/
   domain: sendgrid.com
+  image: ""
+- curated_id: f9a844b503176fe3fa71d4cedb478649
+  item_date: "2016-02-17 00:00:00"
+  title: Using Free SSL/TLS Certificates from Let?s Encrypt for NGINX
+  url: https://www.nginx.com/blog/free-certificates-lets-encrypt-and-nginx/
+  domain: www.nginx.com
+  image: ""
+- curated_id: 634df9e730d67b2da3a00a9a9b670279
+  item_date: "2016-02-17 00:00:00"
+  title: A Court Ordered Apple to Hack the San Bernardino Shooters Phone. Read Tim
+    Cooks Defiant Response.
+  url: http://www.motherjones.com/politics/2016/02/apple-tim-cook-fbi-hack-san-bernardino
+  domain: www.motherjones.com
+  image: ""
+- curated_id: 6e786f71f4c7c91d71f6e917f8142b3c
+  item_date: "2016-02-17 00:00:00"
+  title: Explaining Apple?s Fight With the F.B.I.
+  url: http://www.nytimes.com/2016/02/18/technology/explaining-apples-fight-with-the-fbi.html
+  domain: www.nytimes.com
+  image: ""
+- curated_id: 4635244443ec1a3c623a26c3080bc912
+  item_date: "2016-02-17 00:00:00"
+  title: The FBI is striking at the heart of Apple?s security system
+  url: http://www.theverge.com/2016/2/17/11035296/apple-iphone-encryption-fight-security-fbi
+  domain: www.theverge.com
+  image: ""
+- curated_id: osVw1gFKugfHVMaC8zTw9Ya116ho123n4ic3FC9sFeUK28BZSaypdwnbmhRMt7z99GtHDv116s1yWNL3KPT123xvadlZJg117117
+  item_date: "2016-02-17 00:00:00"
+  title: Why Github039s Scientist 10 Could Be Great for API Versioning
+  url: http://www.programmableweb.com/news/why-githubs-scientist-1.0-could-be-great-api-versioning/analysis/2016/02/17
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: bcMBFo123E61DH5Rw73UpJWr4o123qWhqbajzzrbRjOCFGgjtDFby8nHl4qgydbDUhNCQi3O3RTD9Ty5116P7aAKmkXQ117117
+  item_date: "2016-02-17 00:00:00"
+  title: Dear API Designer Are You Sure You Want to Return a Primitive
+  url: https://dzone.com/articles/dear-api-designer-are-you-sure-you-want-to-return
+  domain: dzone.com
   image: ""
 - curated_id: 08937a28438e1542e5ec0a0216b44590
   item_date: "2016-02-17 00:00:00"
@@ -2095,53 +2132,16 @@
   url: http://avc.com/2016/02/end-to-end-encryption/
   domain: avc.com
   image: ""
-- curated_id: e1465afafffa163b6163c076e8a9e756
-  item_date: "2016-02-17 00:00:00"
-  title: 'Apple vs. the FBI: all the news on the battle for encryptions future'
-  url: http://www.theverge.com/2016/2/17/11036306/apple-fbi-iphone-encryption-backdoor-tim-cook
-  domain: www.theverge.com
-  image: ""
 - curated_id: hiLirbaQ4NlZkTXhYQhipgDJg116pqSEQzbf123DYPMRUGrD5123TZb1anvAoXlJwgsuZWHDY6p116JkDa4kZMBDtNFSrg117117
   item_date: "2016-02-17 00:00:00"
   title: Resolving the FrontendBackend API Design Conflict
   url: http://launchany.com/resolving-the-frontendbackend-api-design-conflict/
   domain: launchany.com
   image: ""
-- curated_id: bcMBFo123E61DH5Rw73UpJWr4o123qWhqbajzzrbRjOCFGgjtDFby8nHl4qgydbDUhNCQi3O3RTD9Ty5116P7aAKmkXQ117117
+- curated_id: e1465afafffa163b6163c076e8a9e756
   item_date: "2016-02-17 00:00:00"
-  title: Dear API Designer Are You Sure You Want to Return a Primitive
-  url: https://dzone.com/articles/dear-api-designer-are-you-sure-you-want-to-return
-  domain: dzone.com
-  image: ""
-- curated_id: f9a844b503176fe3fa71d4cedb478649
-  item_date: "2016-02-17 00:00:00"
-  title: Using Free SSL/TLS Certificates from Let?s Encrypt for NGINX
-  url: https://www.nginx.com/blog/free-certificates-lets-encrypt-and-nginx/
-  domain: www.nginx.com
-  image: ""
-- curated_id: 634df9e730d67b2da3a00a9a9b670279
-  item_date: "2016-02-17 00:00:00"
-  title: A Court Ordered Apple to Hack the San Bernardino Shooters Phone. Read Tim
-    Cooks Defiant Response.
-  url: http://www.motherjones.com/politics/2016/02/apple-tim-cook-fbi-hack-san-bernardino
-  domain: www.motherjones.com
-  image: ""
-- curated_id: osVw1gFKugfHVMaC8zTw9Ya116ho123n4ic3FC9sFeUK28BZSaypdwnbmhRMt7z99GtHDv116s1yWNL3KPT123xvadlZJg117117
-  item_date: "2016-02-17 00:00:00"
-  title: Why Github039s Scientist 10 Could Be Great for API Versioning
-  url: http://www.programmableweb.com/news/why-githubs-scientist-1.0-could-be-great-api-versioning/analysis/2016/02/17
-  domain: www.programmableweb.com
-  image: ""
-- curated_id: 6e786f71f4c7c91d71f6e917f8142b3c
-  item_date: "2016-02-17 00:00:00"
-  title: Explaining Apple?s Fight With the F.B.I.
-  url: http://www.nytimes.com/2016/02/18/technology/explaining-apples-fight-with-the-fbi.html
-  domain: www.nytimes.com
-  image: ""
-- curated_id: 4635244443ec1a3c623a26c3080bc912
-  item_date: "2016-02-17 00:00:00"
-  title: The FBI is striking at the heart of Apple?s security system
-  url: http://www.theverge.com/2016/2/17/11035296/apple-iphone-encryption-fight-security-fbi
+  title: 'Apple vs. the FBI: all the news on the battle for encryptions future'
+  url: http://www.theverge.com/2016/2/17/11036306/apple-fbi-iphone-encryption-backdoor-tim-cook
   domain: www.theverge.com
   image: ""
 - curated_id: 9dfa5a58c0f8458662784967c6148324
@@ -2162,11 +2162,11 @@
   url: http://www.nytimes.com/2016/02/19/technology/how-tim-cook-became-a-bulwark-for-digital-privacy.html
   domain: www.nytimes.com
   image: ""
-- curated_id: 97c6f2a93690233c3aa6f9ed2ccc1942
+- curated_id: 9fa24429792889eb9151fcb218037c26
   item_date: "2016-02-18 00:00:00"
-  title: Reform Government Surveillance Statement Regarding Encryption and Security
-  url: http://reformgs.tumblr.com/post/139513553507/reform-government-surveillance-statement
-  domain: reformgs.tumblr.com
+  title: Facebook and Twitter join Apple?s side in encryption battle
+  url: http://www.theverge.com/2016/2/18/11056074/apple-iphone-encryption-fbi-facebook-twitter-support
+  domain: www.theverge.com
   image: ""
 - curated_id: 948b43574b520ce2b851ce12cb96aff2
   item_date: "2016-02-18 00:00:00"
@@ -2174,11 +2174,11 @@
   url: https://dzone.com/articles/on-apple-and-encryption-ted-newards-blog
   domain: dzone.com
   image: ""
-- curated_id: 9fa24429792889eb9151fcb218037c26
+- curated_id: 97c6f2a93690233c3aa6f9ed2ccc1942
   item_date: "2016-02-18 00:00:00"
-  title: Facebook and Twitter join Apple?s side in encryption battle
-  url: http://www.theverge.com/2016/2/18/11056074/apple-iphone-encryption-fbi-facebook-twitter-support
-  domain: www.theverge.com
+  title: Reform Government Surveillance Statement Regarding Encryption and Security
+  url: http://reformgs.tumblr.com/post/139513553507/reform-government-surveillance-statement
+  domain: reformgs.tumblr.com
   image: ""
 - curated_id: b4c26c667637e7ec5789b588c8a63245
   item_date: "2016-02-18 08:59:09"
@@ -2186,17 +2186,17 @@
   url: https://www.eff.org/deeplinks/2016/02/eff-support-apple-encryption-battle
   domain: www.eff.org
   image: ""
-- curated_id: dcd2f012abf086b5e08e0f610b5320ac
-  item_date: "2016-02-19 00:00:00"
-  title: The FBI v. Apple isn?t at all the way you think it is
-  url: http://www.cringely.com/2016/02/19/the-fbi-v-apple-isnt-at-all-the-way-you-think-it-is/
-  domain: www.cringely.com
-  image: ""
 - curated_id: b6641704ed96a65038617cfe563961b3
   item_date: "2016-02-19 00:00:00"
   title: Americans feel the tensions between privacy and security concerns
   url: http://www.pewresearch.org/fact-tank/2016/02/19/americans-feel-the-tensions-between-privacy-and-security-concerns/
   domain: www.pewresearch.org
+  image: ""
+- curated_id: dcd2f012abf086b5e08e0f610b5320ac
+  item_date: "2016-02-19 00:00:00"
+  title: The FBI v. Apple isn?t at all the way you think it is
+  url: http://www.cringely.com/2016/02/19/the-fbi-v-apple-isnt-at-all-the-way-you-think-it-is/
+  domain: www.cringely.com
   image: ""
 - curated_id: 307087963e11f231b1c595b7e46a9c70
   item_date: "2016-02-20 00:00:00"
@@ -2204,23 +2204,17 @@
   url: http://www.nytimes.com/2016/02/21/technology/apple-sees-value-in-privacy-vow.html
   domain: www.nytimes.com
   image: ""
-- curated_id: 49eb7c8ae48f625bb1d0d8e529c5e278
-  item_date: "2016-02-21 00:00:00"
-  title: Free SSL/TLS Certificates With Lets Encrypt and Nginx
-  url: https://dzone.com/articles/free-ssltls-certificates-with-lets-encrypt-and-ngi
-  domain: dzone.com
-  image: ""
 - curated_id: e07192a0d191d66c6c07a9dc5b506d14
   item_date: "2016-02-21 00:00:00"
   title: The Debate at the Heart of the Digital Age
   url: https://www.box.com/blog/debate-heart-digital-age/
   domain: www.box.com
   image: ""
-- curated_id: e56bd717c683d0e6729ab2d6fffa764d
-  item_date: "2016-02-22 00:00:00"
-  title: Decentralized Public Key Infrastructure
-  url: http://www.windley.com//archives/2016/02/decentralized_public_key_infrastructure.shtml
-  domain: www.windley.com
+- curated_id: 49eb7c8ae48f625bb1d0d8e529c5e278
+  item_date: "2016-02-21 00:00:00"
+  title: Free SSL/TLS Certificates With Lets Encrypt and Nginx
+  url: https://dzone.com/articles/free-ssltls-certificates-with-lets-encrypt-and-ngi
+  domain: dzone.com
   image: ""
 - curated_id: 9a05d1d592b4f4cd21fa86457ee1dc5d
   item_date: "2016-02-22 00:00:00"
@@ -2228,11 +2222,11 @@
   url: https://www.schneier.com/blog/archives/2016/02/decrypting_an_i.html
   domain: www.schneier.com
   image: ""
-- curated_id: a612b6ec0da854c4a33f4a7bad959617
-  item_date: "2016-02-23 00:00:00"
-  title: Privacy, Encryption and the Fourth Amendment
-  url: http://www.huffingtonpost.com/gary-hart/apple-iphone-encryption-privacy_b_9299170.html
-  domain: www.huffingtonpost.com
+- curated_id: e56bd717c683d0e6729ab2d6fffa764d
+  item_date: "2016-02-22 00:00:00"
+  title: Decentralized Public Key Infrastructure
+  url: http://www.windley.com//archives/2016/02/decentralized_public_key_infrastructure.shtml
+  domain: www.windley.com
   image: ""
 - curated_id: 4zSWbn2NP7iqe0epektIbUWBmd8AFmlllB4TJoDwWwjxkOAfzsi0i2rkYH4qmz116mz7jE7z1230nYx8ILFfFV116wZw117117
   item_date: "2016-02-23 00:00:00"
@@ -2240,23 +2234,29 @@
   url: http://www.infoq.com/presentations/5-api-design-anti-patterns
   domain: www.infoq.com
   image: ""
+- curated_id: a612b6ec0da854c4a33f4a7bad959617
+  item_date: "2016-02-23 00:00:00"
+  title: Privacy, Encryption and the Fourth Amendment
+  url: http://www.huffingtonpost.com/gary-hart/apple-iphone-encryption-privacy_b_9299170.html
+  domain: www.huffingtonpost.com
+  image: ""
 - curated_id: 515bec7886e5c203458e16ca0a91d7cf
   item_date: "2016-02-24 00:00:00"
   title: Apple reportedly wants Congress to decide on iPhone encryption case
   url: http://www.theverge.com/2016/2/24/11104150/apple-congress-iphone-encryption-case
   domain: www.theverge.com
   image: ""
-- curated_id: 7f0ace47a11229a5a4de1426f6cabea1
-  item_date: "2016-02-25 00:00:00"
-  title: Apple to Tighten iCloud Backup Encryption
-  url: http://www.ft.com/intl/cms/s/0%2Fcd295840-db6c-11e5-98fd-06d75973fe09.html
-  domain: www.ft.com
-  image: ""
 - curated_id: a79f5a51f368d8e024e98d6647288c22
   item_date: "2016-02-25 00:00:00"
   title: The Importance of Strong Encryption to Security
   url: https://www.schneier.com/blog/archives/2016/02/the_importance_.html
   domain: www.schneier.com
+  image: ""
+- curated_id: 7f0ace47a11229a5a4de1426f6cabea1
+  item_date: "2016-02-25 00:00:00"
+  title: Apple to Tighten iCloud Backup Encryption
+  url: http://www.ft.com/intl/cms/s/0%2Fcd295840-db6c-11e5-98fd-06d75973fe09.html
+  domain: www.ft.com
   image: ""
 - curated_id: 123rwTYfFbf53qBZ5ncGAJYezNUoYbd1M5V123LoQy123116ExV1hOUVgiblErr0B6jNIc0TTQ5xj5Jrw123qSVNhzNnKGpA117117
   item_date: "2016-02-27 00:00:00"
@@ -2271,19 +2271,6 @@
   url: http://www.motherjones.com/politics/2016/02/will-this-bill-end-war-between-government-and-tech-over-encryption
   domain: www.motherjones.com
   image: ""
-- curated_id: XwPS116lrATdrb05BBoBJcxy5kMHo2ae4Tl1116QyB5JJDXyptDpoUy9ZO9tfVmejoWSLsBdNBlhsxAiKVtFrYL116IQ117117
-  item_date: "2016-03-01 00:00:00"
-  title: ""
-  url: http://www.codeproject.com/Articles/1082105/Visual-Modeling-Made-Easy-with-the-RASON-API-and-D
-  domain: www.codeproject.com
-  image: ""
-- curated_id: 3f6660c207fef27288a69c1a48e58f14
-  item_date: "2016-03-01 00:00:00"
-  title: UK?s spying rules would force tech companies to break encryption ? and you?ll
-    pay for it
-  url: http://thenextweb.com/uk/2016/03/01/uks-spying-rules-would-force-tech-companies-to-break-encryption-and-youll-pay-for-it/
-  domain: thenextweb.com
-  image: ""
 - curated_id: N1sbeXgH8CXvyirRvsjhTYY04miiSpZJOQZA116QAid123nkBy0nE1238pdj3WZtlCDEYMyMGUrqo57JkYEv7GSjNE5w117117
   item_date: "2016-03-01 00:00:00"
   title: StopLight Launches Visual API Design Tools
@@ -2296,17 +2283,30 @@
   url: http://disruptiveviews.com/judge-backs-apple-in-encryption-fight-with-government/
   domain: disruptiveviews.com
   image: ""
-- curated_id: 72e3f97ccf32d24132ea0e6d9fb57692
-  item_date: "2016-03-02 00:00:00"
-  title: Major SSL Vulnerability Affects OpenSSL and HTTPS server traffic
-  url: http://www.infoq.com/news/2016/03/two-new-openssl-flaws
-  domain: www.infoq.com
+- curated_id: 3f6660c207fef27288a69c1a48e58f14
+  item_date: "2016-03-01 00:00:00"
+  title: UK?s spying rules would force tech companies to break encryption ? and you?ll
+    pay for it
+  url: http://thenextweb.com/uk/2016/03/01/uks-spying-rules-would-force-tech-companies-to-break-encryption-and-youll-pay-for-it/
+  domain: thenextweb.com
+  image: ""
+- curated_id: XwPS116lrATdrb05BBoBJcxy5kMHo2ae4Tl1116QyB5JJDXyptDpoUy9ZO9tfVmejoWSLsBdNBlhsxAiKVtFrYL116IQ117117
+  item_date: "2016-03-01 00:00:00"
+  title: ""
+  url: http://www.codeproject.com/Articles/1082105/Visual-Modeling-Made-Easy-with-the-RASON-API-and-D
+  domain: www.codeproject.com
   image: ""
 - curated_id: 2116d4cc563147295b542f2879077b79
   item_date: "2016-03-02 00:00:00"
   title: 'U.S. Secretary of Defense on Apple encryption: ?I?m not a believer in backdoors?'
   url: http://venturebeat.com/2016/03/02/u-s-secretary-of-defense-on-apple-encryption-im-not-a-believer-in-backdoors/
   domain: venturebeat.com
+  image: ""
+- curated_id: 72e3f97ccf32d24132ea0e6d9fb57692
+  item_date: "2016-03-02 00:00:00"
+  title: Major SSL Vulnerability Affects OpenSSL and HTTPS server traffic
+  url: http://www.infoq.com/news/2016/03/two-new-openssl-flaws
+  domain: www.infoq.com
   image: ""
 - curated_id: 7ewtTDCGD116b0hFJhKE4oQmaHMtggBPLu1DF5XTCKvvtYQ5QFjxPNZJ3kWH4IJNf12319116116GZL5123i8m5qrMkSfnXg117117
   item_date: "2016-03-04 00:00:00"
@@ -2338,12 +2338,6 @@
   url: https://blog.pusher.com/3-approaches-to-monadic-api-design-in-haskell/
   domain: blog.pusher.com
   image: ""
-- curated_id: bf37b9c6ce36b483242adaa17165ab09
-  item_date: "2016-03-09 00:00:00"
-  title: 'At-Rest Encryption in MongoDB 3.2: Features and Performance'
-  url: https://dzone.com/articles/at-rest-encryption-in-mongodb-32-features-and-perf
-  domain: dzone.com
-  image: ""
 - curated_id: cf7ceb93c597cbfec7722cb917fb1bfc
   item_date: "2016-03-09 00:00:00"
   title: Run OpenShift console on port 443
@@ -2355,6 +2349,12 @@
   title: Designing a Web API with Restlet Studio  Visual API editor
   url: http://restlet.com/blog/2016/03/09/designing-a-web-api-with-restlet-studio-visual-api-editor/
   domain: restlet.com
+  image: ""
+- curated_id: bf37b9c6ce36b483242adaa17165ab09
+  item_date: "2016-03-09 00:00:00"
+  title: 'At-Rest Encryption in MongoDB 3.2: Features and Performance'
+  url: https://dzone.com/articles/at-rest-encryption-in-mongodb-32-features-and-perf
+  domain: dzone.com
   image: ""
 - curated_id: 069082db4fd0acbfec694a1b158b32d4
   item_date: "2016-03-10 10:25:10"
@@ -2368,17 +2368,17 @@
   url: http://www.nytimes.com/2016/03/13/us/politics/whatsapp-encryption-said-to-stymie-wiretap-order.html
   domain: www.nytimes.com
   image: ""
-- curated_id: f039b4c7d111b7e96e369d5a89cdf48d
-  item_date: "2016-03-13 00:00:00"
-  title: After Apple, the Justice Department is targeting WhatsApp over encryption
-  url: http://thenextweb.com/us/2016/03/14/apple-justice-department-now-wants-target-whatsapp-encryption/
-  domain: thenextweb.com
-  image: ""
 - curated_id: SSBciHckHuHa1231O123S768oLlKzsxw9IwtoRFjohsTL3CTcm6ukutGuBmLUMnXCEOqFF19sfFeGHnAuzMAs2sn4Q117117
   item_date: "2016-03-13 00:00:00"
   title: Article One API Many Facades
   url: http://www.infoq.com/articles/api-facades
   domain: www.infoq.com
+  image: ""
+- curated_id: f039b4c7d111b7e96e369d5a89cdf48d
+  item_date: "2016-03-13 00:00:00"
+  title: After Apple, the Justice Department is targeting WhatsApp over encryption
+  url: http://thenextweb.com/us/2016/03/14/apple-justice-department-now-wants-target-whatsapp-encryption/
+  domain: thenextweb.com
   image: ""
 - curated_id: Xf3Va64ixpu8m07pEWAsFm1GykuzQk32Vvb6WnHHVJMhrURShosAfMTxMQF0EhEVBuz5SOTydMs1IYwquA4123xw117117
   item_date: "2016-03-14 00:00:00"
@@ -2386,17 +2386,17 @@
   url: http://www.builtinaustin.com/blog/designing-apis-customers-mind
   domain: www.builtinaustin.com
   image: ""
-- curated_id: 7e427d2ee465eef6c3f7eae4e4c17de4
-  item_date: "2016-03-15 00:00:00"
-  title: How Diffie-Hellman Public Key Cryptography Works
-  url: https://www.youtube.com/watch
-  domain: www.youtube.com
-  image: ""
 - curated_id: 13aaf5f176be4dc1e626b83e28e3c8bb
   item_date: "2016-03-15 00:00:00"
   title: Googles HTTPS encryption efforts now on display in Transparency Report
   url: http://zdnet.com.feedsportal.com/c/35462/f/675663/s/4e48caf2/sc/28/l/0L0Szdnet0N0Carticle0Cgoogles0Ehttps0Eencryption0Eefforts0Enow0Eon0Edisplay0Ein0Etransparency0Ereport0C0Tftag0FRSSbaffb68/story01.htm
   domain: zdnet.com.feedsportal.com
+  image: ""
+- curated_id: 7e427d2ee465eef6c3f7eae4e4c17de4
+  item_date: "2016-03-15 00:00:00"
+  title: How Diffie-Hellman Public Key Cryptography Works
+  url: https://www.youtube.com/watch
+  domain: www.youtube.com
   image: ""
 - curated_id: ojqkLG36eQ5116nhgQEYTY5iIW6Rvo0Sgs20JcpXgjfjh116HsxkfDS1164sQAiaTrU5XYFsh3pUmLt2pBlAY690gtAQ117117
   item_date: "2016-03-15 10:23:57"
@@ -2429,11 +2429,17 @@
   url: https://medium.com/slack-developer-blog/well-wishes-and-warnings-in-the-web-api-489456837220
   domain: medium.com
   image: ""
-- curated_id: piBv0a1169TPyQhZfs2aP5ENm5BcPKjkTX5lsu7eZqCTUY7zn8ay8yDKUew8rJK1fLiQ0SsWD04I7A1IvojMyjLQ117117
+- curated_id: 72687b78503c76385756696af8edc668
   item_date: "2016-03-22 00:00:00"
-  title: Great APIs Have One Thing in Common
-  url: http://everydeveloper.com/great-apis-one-thing/
-  domain: everydeveloper.com
+  title: Third party iPhone hacking option stalls Apple/FBI showdown
+  url: http://disruptiveviews.com/third-party-iphone-hacking-option-stall-applefbi-showdown/
+  domain: disruptiveviews.com
+  image: ""
+- curated_id: 7cd26b0edeae1c5c4ae2f0fad806a6ab
+  item_date: "2016-03-22 00:00:00"
+  title: Apple and FBI Court Appearance Postponed
+  url: http://www.infoq.com/news/2016/03/apple-fbi-postponed
+  domain: www.infoq.com
   image: ""
 - curated_id: e518d1329d8499130fabf81a302d92da
   item_date: "2016-03-22 00:00:00"
@@ -2442,17 +2448,17 @@
   url: https://blogs.aws.amazon.com/security/post/TxGBG3U5VUS2HY/How-to-Use-the-New-AWS-Encryption-SDK-to-Simplify-Data-Encryption-and-Improve-Ap
   domain: blogs.aws.amazon.com
   image: ""
-- curated_id: 7cd26b0edeae1c5c4ae2f0fad806a6ab
+- curated_id: piBv0a1169TPyQhZfs2aP5ENm5BcPKjkTX5lsu7eZqCTUY7zn8ay8yDKUew8rJK1fLiQ0SsWD04I7A1IvojMyjLQ117117
   item_date: "2016-03-22 00:00:00"
-  title: Apple and FBI Court Appearance Postponed
-  url: http://www.infoq.com/news/2016/03/apple-fbi-postponed
-  domain: www.infoq.com
+  title: Great APIs Have One Thing in Common
+  url: http://everydeveloper.com/great-apis-one-thing/
+  domain: everydeveloper.com
   image: ""
-- curated_id: 72687b78503c76385756696af8edc668
-  item_date: "2016-03-22 00:00:00"
-  title: Third party iPhone hacking option stalls Apple/FBI showdown
-  url: http://disruptiveviews.com/third-party-iphone-hacking-option-stall-applefbi-showdown/
-  domain: disruptiveviews.com
+- curated_id: f88bfbc5dc81d6be9276909a80e512d0
+  item_date: "2016-03-23 00:00:00"
+  title: 1981 US Document on Encryption Policy
+  url: https://www.schneier.com/blog/archives/2016/03/1981_us_documen.html
+  domain: www.schneier.com
   image: ""
 - curated_id: 6f21a941f5c931c09c3f206135401d08
   item_date: "2016-03-23 00:00:00"
@@ -2467,23 +2473,17 @@
   url: http://thenextweb.com/us/2016/03/23/apple-reportedly-working-israeli-mobile-forensics-company-crack-san-bernardino-iphone/
   domain: thenextweb.com
   image: ""
-- curated_id: f88bfbc5dc81d6be9276909a80e512d0
-  item_date: "2016-03-23 00:00:00"
-  title: 1981 US Document on Encryption Policy
-  url: https://www.schneier.com/blog/archives/2016/03/1981_us_documen.html
-  domain: www.schneier.com
+- curated_id: 489f8880bc727d5a6ddd5892d08aa1cf
+  item_date: "2016-03-24 00:00:00"
+  title: More Encryption, More Notifications, More Email Security
+  url: https://security.googleblog.com/2016/03/more-encryption-more-notifications-more.html
+  domain: security.googleblog.com
   image: ""
 - curated_id: 59f8d7f8866774fcaea446a2f9686f4d
   item_date: "2016-03-24 00:00:00"
   title: Cryptography Is Harder Than It Looks
   url: https://www.schneier.com/blog/archives/2016/03/cryptography_is.html
   domain: www.schneier.com
-  image: ""
-- curated_id: 489f8880bc727d5a6ddd5892d08aa1cf
-  item_date: "2016-03-24 00:00:00"
-  title: More Encryption, More Notifications, More Email Security
-  url: https://security.googleblog.com/2016/03/more-encryption-more-notifications-more.html
-  domain: security.googleblog.com
   image: ""
 - curated_id: d59ffc5274e7fe232411ffad6b42eed1
   item_date: "2016-03-28 00:00:00"
@@ -2497,11 +2497,17 @@
   url: https://www.scu.edu/ethics/internet-ethics-blog/a-tale-of-two-chatbots/
   domain: www.scu.edu
   image: ""
-- curated_id: 5b37a851aa53e67b0f9c08bbca9a6117
+- curated_id: 59bc5aebd5291505b5943e524b2880cd
   item_date: "2016-03-30 00:00:00"
-  title: ENISA speaks out against backdoors into encryption
-  url: http://disruptiveviews.com/enisa-speaks-backdoors-encryption/
-  domain: disruptiveviews.com
+  title: 'FBI vs Apple: A Postmortem'
+  url: https://hackaday.com/2016/03/30/fbi-vs-apple-a-postmortem/
+  domain: hackaday.com
+  image: ""
+- curated_id: R9ksv6ma0iT4aXK1233TsO0p7EAN6YR116bOyMCrhlDdf20mQiV123tYN24yRk6UyTYGZZwJTDHTXznpYMExPjvQaNYw117117
+  item_date: "2016-03-30 00:00:00"
+  title: Quality API Design and Implementation through RepreZen and SmartBear
+  url: http://www.reprezen.com/blog/quality-api-design-and-implementation-through-reprezen-and-smartbear
+  domain: www.reprezen.com
   image: ""
 - curated_id: 2891a81299fdcc9d865351234592de95
   item_date: "2016-03-30 00:00:00"
@@ -2510,17 +2516,11 @@
   url: https://www.aclu.org/blog/speak-freely/map-shows-how-apple-fbi-fight-was-about-much-more-one-phone
   domain: www.aclu.org
   image: ""
-- curated_id: R9ksv6ma0iT4aXK1233TsO0p7EAN6YR116bOyMCrhlDdf20mQiV123tYN24yRk6UyTYGZZwJTDHTXznpYMExPjvQaNYw117117
+- curated_id: 5b37a851aa53e67b0f9c08bbca9a6117
   item_date: "2016-03-30 00:00:00"
-  title: Quality API Design and Implementation through RepreZen and SmartBear
-  url: http://www.reprezen.com/blog/quality-api-design-and-implementation-through-reprezen-and-smartbear
-  domain: www.reprezen.com
-  image: ""
-- curated_id: 59bc5aebd5291505b5943e524b2880cd
-  item_date: "2016-03-30 00:00:00"
-  title: 'FBI vs Apple: A Postmortem'
-  url: https://hackaday.com/2016/03/30/fbi-vs-apple-a-postmortem/
-  domain: hackaday.com
+  title: ENISA speaks out against backdoors into encryption
+  url: http://disruptiveviews.com/enisa-speaks-backdoors-encryption/
+  domain: disruptiveviews.com
   image: ""
 - curated_id: 48f5b4970664adceb1beed2d2024ce66
   item_date: "2016-03-31 08:40:39"
@@ -2546,6 +2546,12 @@
   url: http://tools.ietf.org/html/rfc7807
   domain: tools.ietf.org
   image: ""
+- curated_id: dd83a761809824d28d2a3d0094ee79c4
+  item_date: "2016-04-05 00:00:00"
+  title: WhatsApp is Now End-to-End Encrypted
+  url: https://www.schneier.com/blog/archives/2016/04/whatsapp_is_now_1.html
+  domain: www.schneier.com
+  image: ""
 - curated_id: 137eb95217d50cab214eaa73bf5cd2e1
   item_date: "2016-04-05 00:00:00"
   title: WhatsApp end-to-end encryption ? Cross platform end-to-end encryption for
@@ -2560,17 +2566,11 @@
   url: http://thenextweb.com/apps/2016/04/05/whatsapp-now-supports-end-end-encryption-picture-voice-text-messages/
   domain: thenextweb.com
   image: ""
-- curated_id: dd83a761809824d28d2a3d0094ee79c4
-  item_date: "2016-04-05 00:00:00"
-  title: WhatsApp is Now End-to-End Encrypted
-  url: https://www.schneier.com/blog/archives/2016/04/whatsapp_is_now_1.html
-  domain: www.schneier.com
-  image: ""
-- curated_id: 19279dfb12207082274cc15d87700558
+- curated_id: NVH9EtbozZdzueIvjnPrXzNWHa1237TV0rFZUE123nwvcmWE116BcQM2a123EJtyiyGnDoBUxcNL116c116XTuKO76IzhuStOw117117
   item_date: "2016-04-06 00:00:00"
-  title: WhatsApp Re-Ignites the Encryption Debate With Its Software Update
-  url: http://www.huffingtonpost.com/anurag-harsh/whatsapp-reignites-the-en_b_9626298.html
-  domain: www.huffingtonpost.com
+  title: What is a welldesigned API
+  url: http://api-university.com/blog/what-is-a-well-designed-api/
+  domain: api-university.com
   image: ""
 - curated_id: cf38df81e4cf55b9327f4d2399d98f4d
   item_date: "2016-04-06 00:00:00"
@@ -2578,11 +2578,11 @@
   url: http://disruptiveviews.com/whatsapp-bolsters-encryption-now-end-end/
   domain: disruptiveviews.com
   image: ""
-- curated_id: NVH9EtbozZdzueIvjnPrXzNWHa1237TV0rFZUE123nwvcmWE116BcQM2a123EJtyiyGnDoBUxcNL116c116XTuKO76IzhuStOw117117
+- curated_id: 19279dfb12207082274cc15d87700558
   item_date: "2016-04-06 00:00:00"
-  title: What is a welldesigned API
-  url: http://api-university.com/blog/what-is-a-well-designed-api/
-  domain: api-university.com
+  title: WhatsApp Re-Ignites the Encryption Debate With Its Software Update
+  url: http://www.huffingtonpost.com/anurag-harsh/whatsapp-reignites-the-en_b_9626298.html
+  domain: www.huffingtonpost.com
   image: ""
 - curated_id: 16ac97d27739cd3a58d8b5586e98a9bf
   item_date: "2016-04-07 00:00:00"
@@ -2608,11 +2608,11 @@
   url: http://api-university.com/blog/consumer-oriented-api-design/
   domain: api-university.com
   image: ""
-- curated_id: 6f91b2ced875f308cb0fbfe6a465d4ab
+- curated_id: fff712ab69edd341856e111057ab6fd0
   item_date: "2016-04-13 00:00:00"
-  title: Binding SSL certificates to Warewolf Server for HTTPS communication
-  url: https://warewolf.io/ESB-blog/binding-ssl-certificates-to-warewolf-server-for-https-communication/
-  domain: warewolf.io
+  title: Upgrading to SHA-2 and TLS 1.2
+  url: https://stripe.com/blog/upgrading-tls
+  domain: stripe.com
   image: ""
 - curated_id: 988e418c525e993e51db0b5a637b22e1
   item_date: "2016-04-13 00:00:00"
@@ -2620,11 +2620,11 @@
   url: http://www.apiman.io/blog/security/gateway/2016/04/13/data-encryption.html
   domain: www.apiman.io
   image: ""
-- curated_id: fff712ab69edd341856e111057ab6fd0
+- curated_id: 6f91b2ced875f308cb0fbfe6a465d4ab
   item_date: "2016-04-13 00:00:00"
-  title: Upgrading to SHA-2 and TLS 1.2
-  url: https://stripe.com/blog/upgrading-tls
-  domain: stripe.com
+  title: Binding SSL certificates to Warewolf Server for HTTPS communication
+  url: https://warewolf.io/ESB-blog/binding-ssl-certificates-to-warewolf-server-for-https-communication/
+  domain: warewolf.io
   image: ""
 - curated_id: a30de8bb1123a1d5de20600c256260a2
   item_date: "2016-04-14 00:00:00"
@@ -2650,16 +2650,22 @@
   url: https://blog.apiary.io/2016/04/21/API-Design-Hackaton
   domain: blog.apiary.io
   image: ""
+- curated_id: ee23ad34e0e7a24de2655b29c0b4eb23
+  item_date: "2016-04-21 00:00:00"
+  title: Install Lets Encrypt SSL Certificate and Force It to Use HTTPS
+  url: https://dzone.com/articles/install-lets-encrypt-ssl-certificate-and-force-it
+  domain: dzone.com
+  image: ""
 - curated_id: doBhRMxX8Nd5116QLuQNVMPi4NVlgU4vklv1230IB6OFvvNyy1TwAo116ylefZZwsTtfCL7jAQaAxY4Afv532LmWDRzg117117
   item_date: "2016-04-21 00:00:00"
   title: Build Better Mobile Apps Data and API Best Practices
   url: http://www.builtinchicago.org/blog/build-better-mobile-apps-data-and-api-best-practices
   domain: www.builtinchicago.org
   image: ""
-- curated_id: ee23ad34e0e7a24de2655b29c0b4eb23
-  item_date: "2016-04-21 00:00:00"
-  title: Install Lets Encrypt SSL Certificate and Force It to Use HTTPS
-  url: https://dzone.com/articles/install-lets-encrypt-ssl-certificate-and-force-it
+- curated_id: picbMlrYU35LX86cTL0H26Be123BhaEGEJEtVR6py5iF123v25RnWnZbOS123z7cQOCRV0ozrCtN2K2fVJhjmLYfp98A117117
+  item_date: "2016-04-22 00:00:00"
+  title: Build a REST API with XML Payload
+  url: https://dzone.com/articles/build-a-rest-api-with-xml-payload
   domain: dzone.com
   image: ""
 - curated_id: GQZ2YNcE3oaixEwp123hvfKEYYiFNCYtJ7wTCGRvL5FQlXAn9DdBpIwdosb1116uqOjqEfZT123sDxxCqgJixiFUPI8A117117
@@ -2668,29 +2674,11 @@
   url: https://dzone.com/articles/api-names-and-begging-the-negatives
   domain: dzone.com
   image: ""
-- curated_id: picbMlrYU35LX86cTL0H26Be123BhaEGEJEtVR6py5iF123v25RnWnZbOS123z7cQOCRV0ozrCtN2K2fVJhjmLYfp98A117117
-  item_date: "2016-04-22 00:00:00"
-  title: Build a REST API with XML Payload
-  url: https://dzone.com/articles/build-a-rest-api-with-xml-payload
-  domain: dzone.com
-  image: ""
 - curated_id: n1239IRU1116nUVY5w17gdar4efuaY4Bs11662mwmOgO9SCZ10Fj123enMxyx0gH123qE9LcAfJkWFz63tYHVpqlz5NqtOZg117117
   item_date: "2016-04-23 00:00:00"
   title: The Relationship Between BDD and API Design
   url: https://dzone.com/articles/the-relationship-between-bdd-and-api-design
   domain: dzone.com
-  image: ""
-- curated_id: aadef4208da4bff4353d9ac77bddc3d1
-  item_date: "2016-04-25 00:00:00"
-  title: BlackBerrys Global Encryption Key
-  url: https://www.schneier.com/blog/archives/2016/04/blackberrys_glo.html
-  domain: www.schneier.com
-  image: ""
-- curated_id: 10e1f518e49161b27e1658ebbf3c2e0b
-  item_date: "2016-04-25 00:00:00"
-  title: The Encryption Farce
-  url: http://www.wsj.com/articles/the-encryption-farce-1461624399
-  domain: www.wsj.com
   image: ""
 - curated_id: J123F073y4BGT9116FITflnWsjh4TcU10JUsuFZ123dv123w7G3T9JBeHMA5ziKi123PCBi7Clo4pSNdC3LPXK1y7U46qCOw117117
   item_date: "2016-04-25 00:00:00"
@@ -2698,23 +2686,35 @@
   url: http://restlet.com/blog/2016/04/25/rest-api-design-at-devoxx-france/
   domain: restlet.com
   image: ""
+- curated_id: 10e1f518e49161b27e1658ebbf3c2e0b
+  item_date: "2016-04-25 00:00:00"
+  title: The Encryption Farce
+  url: http://www.wsj.com/articles/the-encryption-farce-1461624399
+  domain: www.wsj.com
+  image: ""
+- curated_id: aadef4208da4bff4353d9ac77bddc3d1
+  item_date: "2016-04-25 00:00:00"
+  title: BlackBerrys Global Encryption Key
+  url: https://www.schneier.com/blog/archives/2016/04/blackberrys_glo.html
+  domain: www.schneier.com
+  image: ""
 - curated_id: 359199609d97fd397ae5e188d91fe0e0
   item_date: "2016-04-26 00:00:00"
   title: 'Using HTTPS to Secure Your Websites: An Intro to Web Security'
   url: https://auth0.com/blog/2016/04/26/using-https/
   domain: auth0.com
   image: ""
-- curated_id: 3cef4b99f995ca2167a6d84ba5931ccd
-  item_date: "2016-04-29 00:00:00"
-  title: 'Using HTTPS to Secure Your Websites: An Intro to Web Security'
-  url: https://dzone.com/articles/using-https-to-secure-your-websites-an-intro-to-we
-  domain: dzone.com
-  image: ""
 - curated_id: bgeAoVRkzyRCMODP0di0SyJkdddCEyZZKBpIX2uiCo116pWEf8kZlvNq4pV1DsGT4774P5WyRzhkQfyXEqtdhAZg117117
   item_date: "2016-04-29 00:00:00"
   title: Never Put Secrets in URLs and Query Parameters
   url: https://www.fullcontact.com/blog/never-put-secrets-urls-query-parameters/
   domain: www.fullcontact.com
+  image: ""
+- curated_id: 3cef4b99f995ca2167a6d84ba5931ccd
+  item_date: "2016-04-29 00:00:00"
+  title: 'Using HTTPS to Secure Your Websites: An Intro to Web Security'
+  url: https://dzone.com/articles/using-https-to-secure-your-websites-an-intro-to-we
+  domain: dzone.com
   image: ""
 - curated_id: d3c04b2349a218cc7b25f7e9b2da8a11
   item_date: "2016-05-02 00:00:00"
@@ -2776,17 +2776,17 @@
   url: http://blog.bugsnag.com/building-great-apis
   domain: blog.bugsnag.com
   image: ""
-- curated_id: cbb46cc0870f3e68a47e3c7e16916074
-  item_date: "2016-05-18 00:00:00"
-  title: Googles Allo runs on the same encryption tech that powers WhatsApp
-  url: http://www.theverge.com/2016/5/18/11705744/google-allo-encryption-signal-open-whisper-systems-whatsapp
-  domain: www.theverge.com
-  image: ""
 - curated_id: 8432ee115a46c25d3e7d6b85640dab04
   item_date: "2016-05-18 00:00:00"
   title: Announcing Heroku Free SSL Beta and Flexible Dyno Hours
   url: https://blog.heroku.com/announcing_heroku_free_ssl_beta_and_flexible_dyno_hours
   domain: blog.heroku.com
+  image: ""
+- curated_id: cbb46cc0870f3e68a47e3c7e16916074
+  item_date: "2016-05-18 00:00:00"
+  title: Googles Allo runs on the same encryption tech that powers WhatsApp
+  url: http://www.theverge.com/2016/5/18/11705744/google-allo-encryption-signal-open-whisper-systems-whatsapp
+  domain: www.theverge.com
   image: ""
 - curated_id: sPcF6w116aArj5Z0W95ijQRDh01Fahm1xbXFXDjtRi61lzhj123uhFaI4AWEO2cXqatSPLrljo2d62oSdnSsS26LCA117117
   item_date: "2016-05-19 00:00:00"
@@ -2801,17 +2801,17 @@
   url: https://dzone.com/articles/a-consumer-of-a-properly-designed-restful-api-is-w
   domain: dzone.com
   image: ""
-- curated_id: 18d423dd3b239c470e67103ade047589
-  item_date: "2016-05-23 00:00:00"
-  title: How to Use the REST API to Encrypt S3 Objects by Using AWS KMS
-  url: https://blogs.aws.amazon.com/security/post/Tx1XVNEO1G6VT04/How-to-Use-the-REST-API-to-Encrypt-S3-Objects-by-Using-AWS-KMS
-  domain: blogs.aws.amazon.com
-  image: ""
 - curated_id: 4c08ef0a9ef33250857ac6456b425164
   item_date: "2016-05-23 00:00:00"
   title: Google?s Encryption Choices With Allo
   url: https://www.buzzfeed.com/hamzashaban/why-googles-encryption-choices-matter
   domain: www.buzzfeed.com
+  image: ""
+- curated_id: 18d423dd3b239c470e67103ade047589
+  item_date: "2016-05-23 00:00:00"
+  title: How to Use the REST API to Encrypt S3 Objects by Using AWS KMS
+  url: https://blogs.aws.amazon.com/security/post/Tx1XVNEO1G6VT04/How-to-Use-the-REST-API-to-Encrypt-S3-Objects-by-Using-AWS-KMS
+  domain: blogs.aws.amazon.com
   image: ""
 - curated_id: nE9BFDozn116lvCSqX6AAj9pJbKXSeYdYijpEH123XejamfZCwjYBFiGMYsIiRmfGRZMA3M3HDupSZuFXgIOXhc7kw117117
   item_date: "2016-06-05 00:00:00"
@@ -2819,17 +2819,17 @@
   url: https://dzone.com/articles/the-most-important-thing-when-picking-http-statusc
   domain: dzone.com
   image: ""
-- curated_id: aLHR0xOc7T1d7r4TSoq5PyLvIdxHu1pHmxRZkkSIDHMQK7huIiZ123U3fe123vHSv5amiVw9NmuG2o123ulZxTGz0b8A117117
-  item_date: "2016-06-06 00:00:00"
-  title: The Basics of REST and RESTful API Development
-  url: http://www.hongkiat.com/blog/rest-restful-api-dev/
-  domain: www.hongkiat.com
-  image: ""
 - curated_id: e715c010d0d0815c213d950357647d67
   item_date: "2016-06-06 00:00:00"
   title: Why Switching to HTTPS Will Make Your Analytics Better
   url: http://www.digitalgov.gov/2016/06/06/why-switching-to-https-will-make-your-analytics-better/
   domain: www.digitalgov.gov
+  image: ""
+- curated_id: aLHR0xOc7T1d7r4TSoq5PyLvIdxHu1pHmxRZkkSIDHMQK7huIiZ123U3fe123vHSv5amiVw9NmuG2o123ulZxTGz0b8A117117
+  item_date: "2016-06-06 00:00:00"
+  title: The Basics of REST and RESTful API Development
+  url: http://www.hongkiat.com/blog/rest-restful-api-dev/
+  domain: www.hongkiat.com
   image: ""
 - curated_id: YYeMZ2eqvtI4SkEAp3cMm8g8pI2DieUmzDKi6qdJVajxuMVvqldL60n7PjB8226i0y34pxJzzFJQd5jLDEbn116Q117117
   item_date: "2016-06-09 00:00:00"
@@ -2855,16 +2855,16 @@
   url: https://support.brightcove.com/en/gallery/docs/configuring-custom-domains-and-ssl
   domain: support.brightcove.com
   image: ""
-- curated_id: dY37b123xzBaJrTaQc6ghpw323ilw6NmHPPSuB5kYZai2Sg116RFEosSgoXFqo116otvSzC60qdyt3TUkx123XyRW116xv1Q117117
-  item_date: "2016-06-21 00:00:00"
-  title: Why Your API039s EndUsage Context Matters To Great API Design
-  url: http://www.programmableweb.com/news/why-your-apis-end-usage-context-matters-to-great-api-design/analysis/2016/06/21
-  domain: www.programmableweb.com
-  image: ""
 - curated_id: K2IKGvQwG7hV4ghiEZHtFWQv1Hq3Fu4Zh5DSFvTLFn4N123bySdq8kWkdXjznagGQkXY28CZjOmGfi0tDrxKZTfA117117
   item_date: "2016-06-21 00:00:00"
   title: Why Your API039s EndUsage Context Matters To Great Developer Experiences
   url: http://www.programmableweb.com/news/why-your-apis-end-usage-context-matters-to-great-developer-experiences/analysis/2016/06/21
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: dY37b123xzBaJrTaQc6ghpw323ilw6NmHPPSuB5kYZai2Sg116RFEosSgoXFqo116otvSzC60qdyt3TUkx123XyRW116xv1Q117117
+  item_date: "2016-06-21 00:00:00"
+  title: Why Your API039s EndUsage Context Matters To Great API Design
+  url: http://www.programmableweb.com/news/why-your-apis-end-usage-context-matters-to-great-api-design/analysis/2016/06/21
   domain: www.programmableweb.com
   image: ""
 - curated_id: d74b46a63ed5b095fbb2e8b3194af12a
@@ -2939,10 +2939,10 @@
   url: https://www.nginx.com/blog/lets-encrypt-tls-nginx/
   domain: www.nginx.com
   image: ""
-- curated_id: 2c14f70811f67e15cc80a2e29f0e74fb
+- curated_id: f42612178eb08346c735f2f16560fa40
   item_date: "2016-07-15 00:00:00"
-  title: Encrypted comms company Silent Circle closes $50M Series C
-  url: https://techcrunch.com/2016/07/15/encrypted-comms-company-silent-circle-closes-50m-series-c/
+  title: UK surveillance bill includes powers to limit end-to-end encryption
+  url: https://techcrunch.com/2016/07/15/uk-surveillance-bill-includes-powers-to-limit-end-to-end-encryption/
   domain: techcrunch.com
   image: ""
 - curated_id: mXwGZAfk11624F0sJ8qBcQbFNRycTfizNzZpX6DbemLpzZwT0nogM3PCNwzKb72YBpy9XvRNFwPjdxYHZ5QqCLmg117117
@@ -2951,10 +2951,10 @@
   url: https://dzone.com/articles/api-errors-are-first-class-citizens
   domain: dzone.com
   image: ""
-- curated_id: f42612178eb08346c735f2f16560fa40
+- curated_id: 2c14f70811f67e15cc80a2e29f0e74fb
   item_date: "2016-07-15 00:00:00"
-  title: UK surveillance bill includes powers to limit end-to-end encryption
-  url: https://techcrunch.com/2016/07/15/uk-surveillance-bill-includes-powers-to-limit-end-to-end-encryption/
+  title: Encrypted comms company Silent Circle closes $50M Series C
+  url: https://techcrunch.com/2016/07/15/encrypted-comms-company-silent-circle-closes-50m-series-c/
   domain: techcrunch.com
   image: ""
 - curated_id: 9766c2666c9c5481d6c9656b6355d2e0
@@ -2976,11 +2976,12 @@
     http://thehill.com/policy/cybersecurity/287964-week-ahead-encryption-fight-poised-to-heat-up
   domain: thehill.com
   image: ""
-- curated_id: 36fce1b904cbb59b70d80e42c09ab5fd
+- curated_id: 2bea01ff0ccdd66db5d059aa7a5cc9c6
   item_date: "2016-07-19 00:00:00"
-  title: ""
-  url: https://dzone.com/articles/letsencrypt-tls-for-nginx-nginx
-  domain: dzone.com
+  title: 'Beyond the Crypto Wars: Access Now releases outcomes report from Crypto
+    Summit 2.0'
+  url: https://www.accessnow.org/beyond-crypto-wars-access-now-releases-outcomes-report-crypto-summit-2-0/
+  domain: www.accessnow.org
   image: ""
 - curated_id: 2806fcc4aeffbb2641f6f4ec2e69b0fa
   item_date: "2016-07-19 00:00:00"
@@ -2989,12 +2990,11 @@
     http://thehill.com/policy/cybersecurity/288347-turkish-coup-used-unbreakable-encryption
   domain: thehill.com
   image: ""
-- curated_id: 2bea01ff0ccdd66db5d059aa7a5cc9c6
+- curated_id: 36fce1b904cbb59b70d80e42c09ab5fd
   item_date: "2016-07-19 00:00:00"
-  title: 'Beyond the Crypto Wars: Access Now releases outcomes report from Crypto
-    Summit 2.0'
-  url: https://www.accessnow.org/beyond-crypto-wars-access-now-releases-outcomes-report-crypto-summit-2-0/
-  domain: www.accessnow.org
+  title: ""
+  url: https://dzone.com/articles/letsencrypt-tls-for-nginx-nginx
+  domain: dzone.com
   image: ""
 - curated_id: 5ZBeNv7yYPmJA5lSoMOXyRkaEU3AzmMIq5JT123oxooz92v123123UT6zodKohxWbMI5ueEKtkMmah8116q25GXWEzVCGA117117
   item_date: "2016-07-19 12:35:29"
@@ -3002,17 +3002,17 @@
   url: https://github.com/Microsoft/api-guidelines
   domain: github.com
   image: ""
-- curated_id: v4Nvl9lWN4J7Int4yYDsTh38yTdxosle50116q116MnYof5Xq0GJs123WAkSN3Z5MZep66zfbrhNjTHX2Bw8r123tRle8A117117
-  item_date: "2016-07-21 00:00:00"
-  title: Microsoft Publishes REST API Guidelines 23
-  url: http://www.programmableweb.com/news/microsoft-publishes-rest-api-guidelines-2.3/brief/2016/07/21
-  domain: www.programmableweb.com
-  image: ""
 - curated_id: EQ3nD4KJh116yUZ8x123a4dw68KbWIAlRIWpVoXe4NM116m123PnhtJXVhpn0iIompIRwZBwO6X123dCHv6vknVF1mS1qnSA117117
   item_date: "2016-07-21 00:00:00"
   title: Microsoft REST API Guidelines Are Not RESTful
   url: https://www.infoq.com/news/2016/07/microsoft-rest-api
   domain: www.infoq.com
+  image: ""
+- curated_id: v4Nvl9lWN4J7Int4yYDsTh38yTdxosle50116q116MnYof5Xq0GJs123WAkSN3Z5MZep66zfbrhNjTHX2Bw8r123tRle8A117117
+  item_date: "2016-07-21 00:00:00"
+  title: Microsoft Publishes REST API Guidelines 23
+  url: http://www.programmableweb.com/news/microsoft-publishes-rest-api-guidelines-2.3/brief/2016/07/21
+  domain: www.programmableweb.com
   image: ""
 - curated_id: 26874fce7d07f745843525c2ad344f21
   item_date: "2016-07-26 00:00:00"
@@ -3045,6 +3045,12 @@
   url: https://cloudplatform.googleblog.com/2016/08/how-Google-protects-your-data-Customer-Supplied-Encryption-Keys-for-Compute-Engine-goes-GA.html
   domain: cloudplatform.googleblog.com
   image: ""
+- curated_id: kZx123I9JcW5EFeckjo8v3rPxf123O3epDRsTJ123AE1MQjJY109116ro1UxHrtxIn2sG0P116xUgTyfRgHQdf6116le123yx0MQ117117
+  item_date: "2016-08-03 00:00:00"
+  title: Restlet Studio 13 is out
+  url: http://restlet.com/blog/2016/08/03/restlet-studio-1-3-is-out/
+  domain: restlet.com
+  image: ""
 - curated_id: h6loNrmahtGZvgL116Pr8gcsvvzgTqiWUvFoKxZmid4V3MUhCQbij5H5116nLYFyEOwa2IHgQI5V62Z70QMSmwrt116w117117
   item_date: "2016-08-03 00:00:00"
   title: Getting Your REST is Important
@@ -3056,12 +3062,6 @@
   title: New ? Just-in-Time Certificate Registration for AWS IoT
   url: https://aws.amazon.com/blogs/aws/new-just-in-time-certificate-registration-for-aws-iot/
   domain: aws.amazon.com
-  image: ""
-- curated_id: kZx123I9JcW5EFeckjo8v3rPxf123O3epDRsTJ123AE1MQjJY109116ro1UxHrtxIn2sG0P116xUgTyfRgHQdf6116le123yx0MQ117117
-  item_date: "2016-08-03 00:00:00"
-  title: Restlet Studio 13 is out
-  url: http://restlet.com/blog/2016/08/03/restlet-studio-1-3-is-out/
-  domain: restlet.com
   image: ""
 - curated_id: N4DsiNvaeA9XYbIShqFhKJN9u8qY5hrXFXCXrqt3RarEGDxboM7MJlKBdHfDyErGNmxEYQ888hcuZLr9R57NZg117117
   item_date: "2016-08-09 00:00:00"
@@ -3076,6 +3076,12 @@
   url: http://motherboard.vice.com/read/encryption-debate-the-end-of-end-to-end
   domain: motherboard.vice.com
   image: ""
+- curated_id: f9120bf80a139444641cac0152b197f0
+  item_date: "2016-08-11 00:00:00"
+  title: France says fight against messaging encryption needs worldwide initiative
+  url: http://www.reuters.com/article/us-france-internet-encryption-idUSKCN10M1KB
+  domain: www.reuters.com
+  image: ""
 - curated_id: vWFqPWVXoApem1tP4N7vtnzR2IHHzN2kRGEyR1231co49eu90xpbcigtZ4MBbJIo123x9lKyDFO1fVH61168123PWtEyng117117
   item_date: "2016-08-11 00:00:00"
   title: Use of API Design and Management Policies
@@ -3088,18 +3094,6 @@
   url: https://www.lawfareblog.com/encryption-and-golden-key
   domain: www.lawfareblog.com
   image: ""
-- curated_id: f9120bf80a139444641cac0152b197f0
-  item_date: "2016-08-11 00:00:00"
-  title: France says fight against messaging encryption needs worldwide initiative
-  url: http://www.reuters.com/article/us-france-internet-encryption-idUSKCN10M1KB
-  domain: www.reuters.com
-  image: ""
-- curated_id: FaGEkVpmU32VxmK116DFnDCsPRdKEi6kPI2116123Rl0tyXfgMOkbuz4RFhBxQ1T5mukqEQqhH6M8bKhJOuJdcxlofHQ117117
-  item_date: "2016-08-16 00:00:00"
-  title: O Slack API How Do I Love Thee
-  url: https://medium.com/slack-developer-blog/o-slack-api-how-do-i-love-thee-126aa7345cb0
-  domain: medium.com
-  image: ""
 - curated_id: 883103cdfa7f9e11ed1c5c58ca370bee
   item_date: "2016-08-16 00:00:00"
   title: SignalFire New Firmware Adds AES-128 Encryption to its Wireless Remote Monitoring
@@ -3107,23 +3101,29 @@
   url: http://www.remotemagazine.com/main/markets/security-channels/signalfire-new-firmware-adds-aes-128-encryption-to-its-wireless-remote-monitoring-product-line/
   domain: www.remotemagazine.com
   image: ""
+- curated_id: FaGEkVpmU32VxmK116DFnDCsPRdKEi6kPI2116123Rl0tyXfgMOkbuz4RFhBxQ1T5mukqEQqhH6M8bKhJOuJdcxlofHQ117117
+  item_date: "2016-08-16 00:00:00"
+  title: O Slack API How Do I Love Thee
+  url: https://medium.com/slack-developer-blog/o-slack-api-how-do-i-love-thee-126aa7345cb0
+  domain: medium.com
+  image: ""
 - curated_id: ceoFx9mBATDlUmZixIU116Y0SlnEluiUbGIhBRyORysWUE4mIxHQ01234RukmbiduPAmuyOdyurYLPdxDIaVZ2NSTA117117
   item_date: "2016-08-16 09:38:25"
   title: API Design Building and Enforcing an Internal Style Guide
   url: http://nordicapis.com/api-design-building-and-enforcing-an-internal-style-guide/
   domain: nordicapis.com
   image: ""
-- curated_id: caf7d692cf74dade9d55b8ecd5e7147d
-  item_date: "2016-08-17 00:00:00"
-  title: Bring-Your-Own-Encryption on AWS
-  url: https://dzone.com/articles/bring-your-own-encryption-on-aws
-  domain: dzone.com
-  image: ""
 - curated_id: SDWzRmVcAepNvK91vqm3Xq1pH8lzV43s116116ItCTRrYWQfEuI116zsCue0KOltF1vlaufky3J0gWI6BQMbBOZbOLqw117117
   item_date: "2016-08-17 00:00:00"
   title: OptoNews Tip Whats a RESTful API and why does it matter
   url: http://blog.opto22.com/optoblog/optonews-tip-whats-a-restful-api-and-why-does-it-matter
   domain: blog.opto22.com
+  image: ""
+- curated_id: caf7d692cf74dade9d55b8ecd5e7147d
+  item_date: "2016-08-17 00:00:00"
+  title: Bring-Your-Own-Encryption on AWS
+  url: https://dzone.com/articles/bring-your-own-encryption-on-aws
+  domain: dzone.com
   image: ""
 - curated_id: 5kumgPU1tpPUcGzXi123y0Z116tD230wPDqsDpsZ96h8ISNGv9TrCNU1Pcg3hX3U5ege4c7QV1haRdiF8ABWkrsYIQ117117
   item_date: "2016-08-18 00:00:00"
@@ -3143,17 +3143,17 @@
   url: https://spin.atomicobject.com/2016/08/20/api-design/
   domain: spin.atomicobject.com
   image: ""
-- curated_id: UouB8qxpfASyzf1jmMZnZj7rxFY57ym1eos9hM5WOUtUQ84E17AqZq8QMNg0QgVsHzG5BSuRW1LO5TdLvWgOeQ117117
-  item_date: "2016-08-23 00:00:00"
-  title: User Interface An Essential part of a Effective API design
-  url: http://www.cioreview.com/news/user-interface-an-essential-part-of-a-effective-api-design-nid-18306-cid-111.html
-  domain: www.cioreview.com
-  image: ""
 - curated_id: f3fca67819dfd17519f837d946bfbf99
   item_date: "2016-08-23 00:00:00"
   title: The Best Encryption Software of 2016
   url: http://www.pcmag.com/article/347066/the-best-encryption-software-of-2016
   domain: www.pcmag.com
+  image: ""
+- curated_id: UouB8qxpfASyzf1jmMZnZj7rxFY57ym1eos9hM5WOUtUQ84E17AqZq8QMNg0QgVsHzG5BSuRW1LO5TdLvWgOeQ117117
+  item_date: "2016-08-23 00:00:00"
+  title: User Interface An Essential part of a Effective API design
+  url: http://www.cioreview.com/news/user-interface-an-essential-part-of-a-effective-api-design-nid-18306-cid-111.html
+  domain: www.cioreview.com
   image: ""
 - curated_id: 9c18fe367d642c7299f03c0266cc0367
   item_date: "2016-08-24 00:00:00"
@@ -3167,12 +3167,6 @@
   url: http://www.itsecurityguru.org/2016/08/25/french-german-ministers-demand-new-encryption-backdoor-law/
   domain: www.itsecurityguru.org
   image: ""
-- curated_id: 4938c6796e6f024bc745fdc0972478bb
-  item_date: "2016-08-26 00:00:00"
-  title: Collision Attacks Against 64-Bit Block Ciphers
-  url: https://www.schneier.com/blog/archives/2016/08/collision_attac.html
-  domain: www.schneier.com
-  image: ""
 - curated_id: 4beaf9788568f8389d6f1e08b8a8fdda
   item_date: "2016-08-26 00:00:00"
   title: Europe Begins Its Own Encryption Tug-of-War
@@ -3185,17 +3179,17 @@
   url: https://akrabat.com/restful-apis-and-media-types/
   domain: akrabat.com
   image: ""
+- curated_id: 4938c6796e6f024bc745fdc0972478bb
+  item_date: "2016-08-26 00:00:00"
+  title: Collision Attacks Against 64-Bit Block Ciphers
+  url: https://www.schneier.com/blog/archives/2016/08/collision_attac.html
+  domain: www.schneier.com
+  image: ""
 - curated_id: YHfjCEvdfVvyO09RvJmochOyo8wzrYFQV6XoIiYhxCk6Hftk6oGyi123rLSlA7FBRRCldeEZJ8vr4ICEnDAgG1Ew117117
   item_date: "2016-08-29 00:00:00"
   title: Internal API Design for Distributed Teams
   url: https://www.lullabot.com/articles/internal-api-design-for-distributed-teams
   domain: www.lullabot.com
-  image: ""
-- curated_id: lJDc116koEBDYKzA9Gqj8Tgo0lWYERe1236K7O1161DL441B7icwAMmdV123trJFikQk1QWaMnO1aLXkE2HSRYCbUc1231Iw117117
-  item_date: "2016-08-30 00:00:00"
-  title: Better API Design With Java 8 Optional
-  url: https://dzone.com/articles/better-api-design-with-java-8-optional
-  domain: dzone.com
   image: ""
 - curated_id: BmkZASH5lT8aIjPY68zoiSoAW123MOPpIPwfJ0I123v116VTfnz123Q3GrVUHxxQfi1UEc6wm2rwRJn8rJMwHP2PSWn9sQ117117
   item_date: "2016-08-30 00:00:00"
@@ -3203,17 +3197,23 @@
   url: http://www.programmableweb.com/news/why-consistency-matters-across-media-types-offered-api/analysis/2016/08/30
   domain: www.programmableweb.com
   image: ""
-- curated_id: 70a561789ac49f5042581b61fdeb6550
-  item_date: "2016-08-31 00:00:00"
-  title: More Than 40% Of Attacks Abuse SSL Encryption
-  url: http://www.darkreading.com/vulnerabilities---threats/more-than-40--of-attacks-abuse-ssl-encryption/d/d-id/1326789
-  domain: www.darkreading.com
+- curated_id: lJDc116koEBDYKzA9Gqj8Tgo0lWYERe1236K7O1161DL441B7icwAMmdV123trJFikQk1QWaMnO1aLXkE2HSRYCbUc1231Iw117117
+  item_date: "2016-08-30 00:00:00"
+  title: Better API Design With Java 8 Optional
+  url: https://dzone.com/articles/better-api-design-with-java-8-optional
+  domain: dzone.com
   image: ""
 - curated_id: 0a1a6a906b623ee7a7af5fdca40ade4c
   item_date: "2016-08-31 00:00:00"
   title: Establish a Secure SSL Connection to PostgreSQL DB Server
   url: https://dzone.com/articles/establish-a-secure-ssl-connection-to-postgresql-db
   domain: dzone.com
+  image: ""
+- curated_id: 70a561789ac49f5042581b61fdeb6550
+  item_date: "2016-08-31 00:00:00"
+  title: More Than 40% Of Attacks Abuse SSL Encryption
+  url: http://www.darkreading.com/vulnerabilities---threats/more-than-40--of-attacks-abuse-ssl-encryption/d/d-id/1326789
+  domain: www.darkreading.com
   image: ""
 - curated_id: 2Gty12IkCi3endqM1235hGrvf0jEMGYo81Hxj5oCk2Dxua8obrTmxweQM63lYd8IkcRsNqoJsfPopDkw8gCzcinw117117
   item_date: "2016-09-03 09:26:52"
@@ -3239,17 +3239,17 @@
   url: https://www.digitalgov.gov/2016/09/07/lets-encrypt-those-cnames-shall-we/
   domain: www.digitalgov.gov
   image: ""
-- curated_id: Nn08eeP56Jj2Ejkok66pR6V2HEU6116cPXO4fAcR2jVskQK3DI693AYMtCeEeLMQ116FhL7jL4txtmNTuItGiaSJkA117117
-  item_date: "2016-09-07 00:00:00"
-  title: Understanding The New Swift 3 API Design Guidelines
-  url: http://blog.teamtreehouse.com/understanding-new-swift-3-api-design-guidelines
-  domain: blog.teamtreehouse.com
-  image: ""
 - curated_id: oYs4qsbpPmSOxyLH7Rn3ssb123ZcV5jL1JQZ7omYsO9o116h116Quf35PqCEU116JjXEfjq0u3WUeUoOzhEWJqlce3ZqlA117117
   item_date: "2016-09-07 00:00:00"
   title: API Design Book Available Today
   url: http://api-university.com/blog/api-design-book-available-today/
   domain: api-university.com
+  image: ""
+- curated_id: Nn08eeP56Jj2Ejkok66pR6V2HEU6116cPXO4fAcR2jVskQK3DI693AYMtCeEeLMQ116FhL7jL4txtmNTuItGiaSJkA117117
+  item_date: "2016-09-07 00:00:00"
+  title: Understanding The New Swift 3 API Design Guidelines
+  url: http://blog.teamtreehouse.com/understanding-new-swift-3-api-design-guidelines
+  domain: blog.teamtreehouse.com
   image: ""
 - curated_id: qgjubPTwQuFMvCl123n5OfQnJOPjVOucQ51231qnXMd30ZvA3gRR5bmSQnZ116j0t123sXLyN5cLMWiTQXAozbTXkajIIw117117
   item_date: "2016-09-07 09:36:49"
@@ -3257,17 +3257,17 @@
   url: http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/The-Secret-Sauce-Behind-Building-an-Elastic-API-113410.aspx
   domain: www.streamingmedia.com
   image: ""
-- curated_id: dGDk6eIYibFC8rIkNQEU07nkJhfM7yQlLv41oCq116WUZOnte431232KbzuK04T5JcrakDfXqKLY3DL6bUb116XI2cAA117117
-  item_date: "2016-09-08 00:00:00"
-  title: Restful API Design An Opinionated Guide
-  url: https://dzone.com/articles/restful-api-design-an-opinionated-guide
-  domain: dzone.com
-  image: ""
 - curated_id: sjnAUAGv7o123BuTzkKPOTB123Hfq4HpzOE116JKaTvukk23Rys8jjr2OwvPpoLPN3BragPVRI1169t6HMfBxePb123G88MQ117117
   item_date: "2016-09-08 00:00:00"
   title: RESTful Web API Design with Nodejs
   url: https://adobeland.wordpress.com/2016/09/08/restful-web-api-design-with-node-js/
   domain: adobeland.wordpress.com
+  image: ""
+- curated_id: dGDk6eIYibFC8rIkNQEU07nkJhfM7yQlLv41oCq116WUZOnte431232KbzuK04T5JcrakDfXqKLY3DL6bUb116XI2cAA117117
+  item_date: "2016-09-08 00:00:00"
+  title: Restful API Design An Opinionated Guide
+  url: https://dzone.com/articles/restful-api-design-an-opinionated-guide
+  domain: dzone.com
   image: ""
 - curated_id: aXZiXF123qk31BV80o6QHscLNx5IkM2prEHAIThFwl5L116PUhda6IujxuRLscWFJvcGWlM1167YNMWzmqKwEb1166OODg117117
   item_date: "2016-09-09 00:00:00"
@@ -3305,17 +3305,17 @@
   url: http://githubengineering.com/the-github-graphql-api/
   domain: githubengineering.com
   image: ""
-- curated_id: edYbaWsa123R8e2zfyLXvgo5AVtwXb1116NuEbMXDFregXHr1c7Jdjs116O1KPP39WvuR8Zd6VBQYTsvcKTwD116QVKygg117117
-  item_date: "2016-09-15 00:00:00"
-  title: Learn API DevOps from the Experts  Design Testing Deployment
-  url: http://restlet.com/blog/2016/09/15/sept-api-meetup/
-  domain: restlet.com
-  image: ""
 - curated_id: cDJL0xH67dOaAxrzgwT7vGmvVQkkKTW4JN7N77116htbGh5hHK5FPpFsEHXjsG3f3pLVSSIL116unJzQo0rJ7D3aZQ117117
   item_date: "2016-09-15 00:00:00"
   title: How to Take Your API From RPC to Hypermedia in 7 Steps
   url: http://www.programmableweb.com/news/how-to-take-your-api-rpc-to-hypermedia-7-steps/how-to/2016/09/15
   domain: www.programmableweb.com
+  image: ""
+- curated_id: edYbaWsa123R8e2zfyLXvgo5AVtwXb1116NuEbMXDFregXHr1c7Jdjs116O1KPP39WvuR8Zd6VBQYTsvcKTwD116QVKygg117117
+  item_date: "2016-09-15 00:00:00"
+  title: Learn API DevOps from the Experts  Design Testing Deployment
+  url: http://restlet.com/blog/2016/09/15/sept-api-meetup/
+  domain: restlet.com
   image: ""
 - curated_id: DG1Hi4mdkwHH92Vuqlwl9zI3mhKI4ScbSqBXbJpClAd4tAGCHg0DZcXce4V4116MpKNNpnsR99Nlkz116XnUt0w8jQ117117
   item_date: "2016-09-16 00:00:00"
@@ -3329,11 +3329,11 @@
   url: https://dzone.com/articles/restful-web-service-1
   domain: dzone.com
   image: ""
-- curated_id: m73FE7d4lJQt3fa6LnbXYkEi4kf54W0XAok8PVABQ8qKR8mRVUcS8kiU0EPf0qCwRRS7SdMQMUl0PQmuUObqEg117117
+- curated_id: 6jZVGTsC9S2HDZRPs123n3dFDGcJl0WyLG7aSbcQVxD0aG1w83cYwmDyuKnXUBao116mud84YVMSHgAi4kZ2uOZcIA117117
   item_date: "2016-09-20 00:00:00"
-  title: RPC vs REST is not in the URL
-  url: http://www.bizcoder.com:80/rpc-vs-rest-is-not-in-the-url
-  domain: www.bizcoder.com
+  title: Understanding REST And RPC For HTTP APIs
+  url: https://www.smashingmagazine.com/2016/09/understanding-rest-and-rpc-for-http-apis/
+  domain: www.smashingmagazine.com
   image: ""
 - curated_id: ebdd59bd0ecaf353d61e63739457c57b
   item_date: "2016-09-20 00:00:00"
@@ -3341,11 +3341,11 @@
   url: https://www.wired.com/2016/09/cloudflare-launches-three-pronged-attack-encrypt-web/
   domain: www.wired.com
   image: ""
-- curated_id: 6jZVGTsC9S2HDZRPs123n3dFDGcJl0WyLG7aSbcQVxD0aG1w83cYwmDyuKnXUBao116mud84YVMSHgAi4kZ2uOZcIA117117
+- curated_id: m73FE7d4lJQt3fa6LnbXYkEi4kf54W0XAok8PVABQ8qKR8mRVUcS8kiU0EPf0qCwRRS7SdMQMUl0PQmuUObqEg117117
   item_date: "2016-09-20 00:00:00"
-  title: Understanding REST And RPC For HTTP APIs
-  url: https://www.smashingmagazine.com/2016/09/understanding-rest-and-rpc-for-http-apis/
-  domain: www.smashingmagazine.com
+  title: RPC vs REST is not in the URL
+  url: http://www.bizcoder.com:80/rpc-vs-rest-is-not-in-the-url
+  domain: www.bizcoder.com
   image: ""
 - curated_id: 1071a676a434cdd171a14fa6afa97c41
   item_date: "2016-09-20 06:05:14"
@@ -3385,17 +3385,17 @@
   url: https://blog.cloudflare.com/opportunistic-encryption-bringing-http-2-to-the-unencrypted-web/
   domain: blog.cloudflare.com
   image: ""
-- curated_id: bff68c19a4ef4c5b3cf7ecb1e18a3b3b
-  item_date: "2016-09-21 09:15:15"
-  title: Introducing TLS 1.3
-  url: https://blog.cloudflare.com/introducing-tls-1-3/
-  domain: blog.cloudflare.com
-  image: ""
 - curated_id: 63cc26b43f767da22d7416d03a85e756
   item_date: "2016-09-21 09:15:15"
   title: Is TLS Fast Yet?
   url: https://istlsfastyet.com/
   domain: istlsfastyet.com
+  image: ""
+- curated_id: bff68c19a4ef4c5b3cf7ecb1e18a3b3b
+  item_date: "2016-09-21 09:15:15"
+  title: Introducing TLS 1.3
+  url: https://blog.cloudflare.com/introducing-tls-1-3/
+  domain: blog.cloudflare.com
   image: ""
 - curated_id: 68a1238xoB3m4SN3S1233p0d123wpchzwYXCdpkT5N7CoTUBelHTfmgfNut18a5QmiFvXx6aBvVfTyWaUR3zdRDzxORQ117117
   item_date: "2016-09-21 09:55:12"
@@ -3454,17 +3454,23 @@
   url: http://sunlightfoundation.com/blog/2016/09/26/sunlight-at-the-21st-century-neighborhoods-symposium-how-humanizing-data-will-improve-our-communities/
   domain: sunlightfoundation.com
   image: ""
+- curated_id: DwWXVrcos2G3G9963wiz0D4uQhzN2njtOdQJK06uX7IkPTkAE5Dhcu8OWvr24jxZLcvodWFRoceqnbDOfs7ApQ117117
+  item_date: "2016-09-28 00:00:00"
+  title: Announcing the OpenSource beaR Library
+  url: http://www.esa.doc.gov/under-secretary-blog/announcing-open-source-bear-library
+  domain: www.esa.doc.gov
+  image: ""
 - curated_id: tJ5VtL85De7116d0CtMQzv9uUbIT1RdFxI123h6dwAUUHdlKNUm6M8dqP1u3IZ0OxyTBzfGxiUDydoY116f1zerW9LlQ117117
   item_date: "2016-09-28 00:00:00"
   title: What is API Design
   url: http://api-university.com/blog/what-is-api-design/
   domain: api-university.com
   image: ""
-- curated_id: DwWXVrcos2G3G9963wiz0D4uQhzN2njtOdQJK06uX7IkPTkAE5Dhcu8OWvr24jxZLcvodWFRoceqnbDOfs7ApQ117117
-  item_date: "2016-09-28 00:00:00"
-  title: Announcing the OpenSource beaR Library
-  url: http://www.esa.doc.gov/under-secretary-blog/announcing-open-source-bear-library
-  domain: www.esa.doc.gov
+- curated_id: 43b2e13251f34e025475fa2f0f9b59fe
+  item_date: "2016-09-29 00:00:00"
+  title: Introducing Dedicated SSL Certificates
+  url: https://blog.cloudflare.com/dedicated-ssl-certificates/
+  domain: blog.cloudflare.com
   image: ""
 - curated_id: 991317fc18c12143ccc14966051329a9
   item_date: "2016-09-29 00:00:00"
@@ -3472,12 +3478,6 @@
     Defeat Encryption
   url: http://cyberlaw.stanford.edu/blog/2016/09/stanford-researchers-seek-court-documents-ordering-companies-help-government-defeat
   domain: cyberlaw.stanford.edu
-  image: ""
-- curated_id: 43b2e13251f34e025475fa2f0f9b59fe
-  item_date: "2016-09-29 00:00:00"
-  title: Introducing Dedicated SSL Certificates
-  url: https://blog.cloudflare.com/dedicated-ssl-certificates/
-  domain: blog.cloudflare.com
   image: ""
 - curated_id: 7CeE123KNo123MVyYk9lEHdRyTJtEgeU3NehAxgWlk123AwQUkiP3116PG05dnj177Bvd1GpNoylYbEsnvTdSDlCm2g67Q117117
   item_date: "2016-09-29 13:23:41"
@@ -3497,12 +3497,6 @@
   url: http://dismagazine.com/discussion/73298/sara-m-watson-metaphors-of-big-data/
   domain: dismagazine.com
   image: ""
-- curated_id: 6318f311bb5009a4c7ed8644b2ddb6b3
-  item_date: "2016-10-03 00:00:00"
-  title: Israeli Firm Claims It Can Break WhatsApp?s Encryption from Backpack
-  url: http://www.itsecurityguru.org/2016/10/03/israeli-firm-claims-it-can-break-whatsapps-encryption-from-backpack/
-  domain: www.itsecurityguru.org
-  image: ""
 - curated_id: 22vkbl03tCelP3OpsPYPLMYRIBwjRsvlZJuVFt4116uY1166hUcOHF0RWVyzW92ZxuEvuoWr9jh5DDgm0FxnhW7m7w117117
   item_date: "2016-10-03 00:00:00"
   title: Software backward compatibility undocumented APIs and importance of history
@@ -3510,12 +3504,36 @@
   url: http://www.codeproject.com/Articles/1136184/Software-backward-compatibility-undocumented-APIs
   domain: www.codeproject.com
   image: ""
+- curated_id: 6318f311bb5009a4c7ed8644b2ddb6b3
+  item_date: "2016-10-03 00:00:00"
+  title: Israeli Firm Claims It Can Break WhatsApp?s Encryption from Backpack
+  url: http://www.itsecurityguru.org/2016/10/03/israeli-firm-claims-it-can-break-whatsapps-encryption-from-backpack/
+  domain: www.itsecurityguru.org
+  image: ""
 - curated_id: 6caf7765ff9720d275ee3031b44431f1
   item_date: "2016-10-03 09:47:33"
   title: 'Tweet: RT @jeffbarr: [Amazon] S3-Encrypt - Encrypt amp;amp; Decrypt files
     in S3 with KMS Keys -  https://t.co/gvLD9voI3l #AWS https://t.co/QvFaNzZFtc'
   url: https://twitter.com/jeffbarr/status/782644262085079040
   domain: twitter.com
+  image: ""
+- curated_id: ddcc7a5474a1b8e0988c446c72a55e7f
+  item_date: "2016-10-04 00:00:00"
+  title: New Documents Reveal Government Effort to Impose Secrecy on Encryption Company
+  url: https://www.aclu.org/blog/free-future/new-documents-reveal-government-effort-impose-secrecy-encryption-company
+  domain: www.aclu.org
+  image: ""
+- curated_id: 6f27781d80e6a404696665385fc708fa
+  item_date: "2016-10-04 00:00:00"
+  title: How Did the Feds Get Past Yahoo?s Encryption? Yahoo!
+  url: https://www.wired.com/2016/10/yahoo-spy-scandal-shows-encryption-fails-without-backbone/
+  domain: www.wired.com
+  image: ""
+- curated_id: ac8a53dee74aaa562d531bb1d7dfc8c3
+  item_date: "2016-10-04 00:00:00"
+  title: 'After Mozilla inquiry, Apple untrusts Chinese certificate authority '
+  url: http://www.pcworld.com/article/3127627/security/after-mozilla-inquiry-apple-untrusts-chinese-certificate-authority.html#tk.rss_all
+  domain: www.pcworld.com
   image: ""
 - curated_id: 654a0797e4d1f957ec1cff4da615e5df
   item_date: "2016-10-04 00:00:00"
@@ -3536,24 +3554,6 @@
   url: http://www.programmableweb.com/news/why-to-prioritize-your-api-strategy-your-api-design/sponsored-content/2016/10/04
   domain: www.programmableweb.com
   image: ""
-- curated_id: 6f27781d80e6a404696665385fc708fa
-  item_date: "2016-10-04 00:00:00"
-  title: How Did the Feds Get Past Yahoo?s Encryption? Yahoo!
-  url: https://www.wired.com/2016/10/yahoo-spy-scandal-shows-encryption-fails-without-backbone/
-  domain: www.wired.com
-  image: ""
-- curated_id: ddcc7a5474a1b8e0988c446c72a55e7f
-  item_date: "2016-10-04 00:00:00"
-  title: New Documents Reveal Government Effort to Impose Secrecy on Encryption Company
-  url: https://www.aclu.org/blog/free-future/new-documents-reveal-government-effort-impose-secrecy-encryption-company
-  domain: www.aclu.org
-  image: ""
-- curated_id: ac8a53dee74aaa562d531bb1d7dfc8c3
-  item_date: "2016-10-04 00:00:00"
-  title: 'After Mozilla inquiry, Apple untrusts Chinese certificate authority '
-  url: http://www.pcworld.com/article/3127627/security/after-mozilla-inquiry-apple-untrusts-chinese-certificate-authority.html#tk.rss_all
-  domain: www.pcworld.com
-  image: ""
 - curated_id: DkuK79rMDOlIwCjgDm9JTp5ecKr3uE8OEseyee116B1230BwdK5wJ123vEpCtcCI6vBR9mU116AnRrbYlN2JdAP1wiYBgg117117
   item_date: "2016-10-04 11:37:19"
   title: A Web API ecosystem through featurebased reuse
@@ -3566,17 +3566,17 @@
   url: https://www.engadget.com/amp/2016/10/04/facebook-messenger-now-lets-you-toggle-end-to-end-encryption/
   domain: www.engadget.com
   image: ""
-- curated_id: 9b79ddf268285f20a6e8abfe51a2322d
-  item_date: "2016-10-06 00:00:00"
-  title: Updated Puppet GPG signing key
-  url: https://puppet.com/blog/updated-puppet-gpg-signing-key
-  domain: puppet.com
-  image: ""
 - curated_id: 5fdee83eb0a2a901342cdfd3c9aaea44
   item_date: "2016-10-06 00:00:00"
   title: Encrypted Secret Conversations Roll Out on Facebook Messenger
   url: http://www.pcmag.com/news/348475/encrypted-secret-conversations-roll-out-on-facebook-messen
   domain: www.pcmag.com
+  image: ""
+- curated_id: 9b79ddf268285f20a6e8abfe51a2322d
+  item_date: "2016-10-06 00:00:00"
+  title: Updated Puppet GPG signing key
+  url: https://puppet.com/blog/updated-puppet-gpg-signing-key
+  domain: puppet.com
   image: ""
 - curated_id: EwxIBVaMmHammPzHGOMajeISxXpBEkrF5jb1ZnmAD3YuUpqyuv7j15123SeXyXwGjoXJtqFRXORNo58HuMO4wVcA117117
   item_date: "2016-10-06 10:54:35"
@@ -3610,11 +3610,12 @@
   url: http://motherboard.vice.com/read/thanks-to-encryption-governments-need-companies-like-yahoo-to-spy-on-users
   domain: motherboard.vice.com
   image: ""
-- curated_id: b5a73995a43ef5dcc648467ae0b9267b
+- curated_id: e082cb479a746adec457a524b15db05a
   item_date: "2016-10-10 00:00:00"
-  title: Is Let?s Encrypt the Largest Certificate Authority on the Web?
-  url: https://www.eff.org/deeplinks/2016/10/lets-encrypt-largest-certificate-authority-web
-  domain: www.eff.org
+  title: FBI, Apple eye new fight over encryption
+  url: |
+    http://thehill.com/policy/cybersecurity/299853-fbi-apple-eye-new-fight-over-encryption
+  domain: thehill.com
   image: ""
 - curated_id: d268b45d461e133c985e3bff38fa5cab
   item_date: "2016-10-10 00:00:00"
@@ -3622,12 +3623,11 @@
   url: http://www.pcmag.com/article/348329/crypto-wars-why-the-fight-to-encrypt-rages-on
   domain: www.pcmag.com
   image: ""
-- curated_id: e082cb479a746adec457a524b15db05a
+- curated_id: b5a73995a43ef5dcc648467ae0b9267b
   item_date: "2016-10-10 00:00:00"
-  title: FBI, Apple eye new fight over encryption
-  url: |
-    http://thehill.com/policy/cybersecurity/299853-fbi-apple-eye-new-fight-over-encryption
-  domain: thehill.com
+  title: Is Let?s Encrypt the Largest Certificate Authority on the Web?
+  url: https://www.eff.org/deeplinks/2016/10/lets-encrypt-largest-certificate-authority-web
+  domain: www.eff.org
   image: ""
 - curated_id: yeE116VNBLQEeHgFHIVX7TqV46YwRWmAI8Q4PAd3A3HEOBFE123iVi96HfLtmDhvWMMnZuSU9ISkwWEZcTcTerGtqQ117117
   item_date: "2016-10-10 09:40:26"
@@ -3695,12 +3695,6 @@
   url: http://dret.typepad.com/dretblog/2016/10/api-usability-matters.html
   domain: dret.typepad.com
   image: ""
-- curated_id: BBA116Yi3Ib060MJ123HmqgmaGhJ6i1230kxpcFicTxw7wAos1ISyHN1awVQbBAPQrDTmVut123qlCsarzjkc1uMdMcsUQ117117
-  item_date: "2016-10-19 00:00:00"
-  title: Designing better Web APIs  Part I  arefscom
-  url: https://arefs.com/2016/10/19/designing-better-web-apis-part-i/
-  domain: arefs.com
-  image: ""
 - curated_id: 116DJfGp9e3SCSl1236fULT4116lYhHEJ1Kmjbf5VgB38l2FG116HEDbx8ktTa116h147YNTT9ADBPd1230h525oGiCUfSGrmg117117
   item_date: "2016-10-19 00:00:00"
   title: From Good to Great API
@@ -3713,11 +3707,11 @@
   url: http://www.codeproject.com/Articles/1142885/Always-Encrypted-feature-in-SQL-Server
   domain: www.codeproject.com
   image: ""
-- curated_id: 37fa3cb60944b802fab5c08ec9fa344d
-  item_date: "2016-10-21 00:00:00"
-  title: Report Slams Snapchat, Skype Over Encryption
-  url: http://www.pcmag.com/news/348935/report-slams-snapchat-skype-over-encryption
-  domain: www.pcmag.com
+- curated_id: BBA116Yi3Ib060MJ123HmqgmaGhJ6i1230kxpcFicTxw7wAos1ISyHN1awVQbBAPQrDTmVut123qlCsarzjkc1uMdMcsUQ117117
+  item_date: "2016-10-19 00:00:00"
+  title: Designing better Web APIs  Part I  arefscom
+  url: https://arefs.com/2016/10/19/designing-better-web-apis-part-i/
+  domain: arefs.com
   image: ""
 - curated_id: 2cebbb725b0f0124d69ca22efafdb15b
   item_date: "2016-10-21 00:00:00"
@@ -3725,17 +3719,23 @@
   url: https://letsencrypt.org//2016/10/21/introducing-idn-support.html
   domain: letsencrypt.org
   image: ""
-- curated_id: dMcIt35Bmig123EVRJYyAv7nIFLwniY7MfwR0FPxUYNsEjkI6PQ4VXWMKdsRbYRAzfuDr116QLx54yDd3mhKx123byqw117117
-  item_date: "2016-10-31 00:00:00"
-  title: Introducing Seamless Source Control Integration With Bitbucket and SwaggerHub
-  url: https://dzone.com/articles/introducing-seamless-source-control-integration-wi
-  domain: dzone.com
+- curated_id: 37fa3cb60944b802fab5c08ec9fa344d
+  item_date: "2016-10-21 00:00:00"
+  title: Report Slams Snapchat, Skype Over Encryption
+  url: http://www.pcmag.com/news/348935/report-slams-snapchat-skype-over-encryption
+  domain: www.pcmag.com
   image: ""
 - curated_id: sn116dMhVpC1vv6rctwmQj8Rjhik7123ib2DW116xrzMKfQ0stJc4y0U2wPZsmmBgTv0123YF9QrFE4DXPoLxqa5GE86Dg117117
   item_date: "2016-10-31 00:00:00"
   title: Introduction to APIFirst Design
   url: http://www.programmableweb.com/news/introduction-to-api-first-design/analysis/2016/10/31
   domain: www.programmableweb.com
+  image: ""
+- curated_id: dMcIt35Bmig123EVRJYyAv7nIFLwniY7MfwR0FPxUYNsEjkI6PQ4VXWMKdsRbYRAzfuDr116QLx54yDd3mhKx123byqw117117
+  item_date: "2016-10-31 00:00:00"
+  title: Introducing Seamless Source Control Integration With Bitbucket and SwaggerHub
+  url: https://dzone.com/articles/introducing-seamless-source-control-integration-wi
+  domain: dzone.com
   image: ""
 - curated_id: EtzfvKVCCoFG9ji123qKPecXVre3gQKXGLIbbSU1j1RHUtTDh3SgdpKCa0r5116RDImAf40116T1zp0QlR4W8CfJm5tg117117
   item_date: "2016-11-02 00:00:00"
@@ -3767,17 +3767,17 @@
   url: https://apigee.com/about/blog/engineering/announcing-new-apigee-edge-experience
   domain: apigee.com
   image: ""
-- curated_id: 6816a2f1e641ae6917634a46b7a0da97
-  item_date: "2016-11-10 00:00:00"
-  title: OpenSSL Releases Security Update
-  url: https://www.us-cert.gov/ncas/current-activity/2016/11/10/OpenSSL-Releases-Security-Update
-  domain: www.us-cert.gov
-  image: ""
 - curated_id: 4583bd007fce18ae95fce78115c59339
   item_date: "2016-11-10 00:00:00"
   title: Surveillance, encryption concerns in the wake of Donald Trump?s victory
   url: http://www.siliconbeat.com/2016/11/10/surveillance-encryption-concerns-wake-donald-trumps-victory/
   domain: www.siliconbeat.com
+  image: ""
+- curated_id: 6816a2f1e641ae6917634a46b7a0da97
+  item_date: "2016-11-10 00:00:00"
+  title: OpenSSL Releases Security Update
+  url: https://www.us-cert.gov/ncas/current-activity/2016/11/10/OpenSSL-Releases-Security-Update
+  domain: www.us-cert.gov
   image: ""
 - curated_id: qYsjm0q59QSJQcpU74nTSoReMvN7NZlpjBwxbXnWuERvgEd123kp6xPr5LGeGxPx3oNRxAWmMY3v1161231yUktpu4Rg117117
   item_date: "2016-11-12 04:10:21"
@@ -3790,6 +3790,12 @@
   title: Swagger toolbox
   url: https://swagger-toolbox.firebaseapp.com/
   domain: swagger-toolbox.firebaseapp.com
+  image: ""
+- curated_id: 5f0930bd7bbcc797387c103d08a89f75
+  item_date: "2016-12-13 00:00:00"
+  title: AirMap, DigiCert to issue digital certificates for drones
+  url: http://www.pcworld.com/article/3149780/security/airmap-digicert-to-issue-digital-certificates-for-drones.html#tk.rss_all
+  domain: www.pcworld.com
   image: ""
 - curated_id: b06c6361c476029d27ed01f04709442e
   item_date: "2016-12-13 00:00:00"
@@ -3804,11 +3810,11 @@
   url: http://www.pcworld.com/article/3149740/security/facebook-helps-companies-detect-rogue-ssl-certificates-for-domains.html#tk.rss_all
   domain: www.pcworld.com
   image: ""
-- curated_id: 5f0930bd7bbcc797387c103d08a89f75
-  item_date: "2016-12-13 00:00:00"
-  title: AirMap, DigiCert to issue digital certificates for drones
-  url: http://www.pcworld.com/article/3149780/security/airmap-digicert-to-issue-digital-certificates-for-drones.html#tk.rss_all
-  domain: www.pcworld.com
+- curated_id: Jg5bAi9PLGNP9IJKUxF4iXAx0aW123q1tK66AiMWRkAWZ2F5GUqAB123zPjPMsyRNSUdEIz85OoVV1iUXfYO6xnMeQ117117
+  item_date: "2016-12-14 00:00:00"
+  title: Foundations of RESTful Architecture
+  url: https://dzone.com/refcardz/rest-foundations-restful
+  domain: dzone.com
   image: ""
 - curated_id: R6JBesMvzzhL1FpnPgbc116SiTJ1b116Yi2QTA9alNEZ1dKpV9HhpM2tHekG1bVVuklTUaQnyH1GruehxyWZH8mWdw117117
   item_date: "2016-12-14 00:00:00"
@@ -3820,12 +3826,6 @@
   item_date: "2016-12-14 00:00:00"
   title: 7 Secrets to Designing Alexa Skills
   url: https://dzone.com/articles/7-secrets-to-designing-alexa-skills
-  domain: dzone.com
-  image: ""
-- curated_id: Jg5bAi9PLGNP9IJKUxF4iXAx0aW123q1tK66AiMWRkAWZ2F5GUqAB123zPjPMsyRNSUdEIz85OoVV1iUXfYO6xnMeQ117117
-  item_date: "2016-12-14 00:00:00"
-  title: Foundations of RESTful Architecture
-  url: https://dzone.com/refcardz/rest-foundations-restful
   domain: dzone.com
   image: ""
 - curated_id: 358c50c9922d54c529b27539eeec5219
@@ -3876,17 +3876,17 @@
   url: https://webapplog.com/node-apis/
   domain: webapplog.com
   image: ""
-- curated_id: 6cd4c6ca8273eaee5c749aa8c3b39633
-  item_date: "2017-01-02 00:00:00"
-  title: Automating SSL encryption for your servers with LetsEncrypt and Ansible
-  url: https://www.codeproject.com/Tips/1163629/Automating-SSL-encryption-for-your-servers-with-Le
-  domain: www.codeproject.com
-  image: ""
 - curated_id: 405d24f0ce7ba4a4c34951bc07c90f34
   item_date: "2017-01-02 00:00:00"
   title: 'The State of Crypto Law: 2016 in Review'
   url: https://www.eff.org/deeplinks/2016/12/crypto-state-law-end-2016
   domain: www.eff.org
+  image: ""
+- curated_id: 6cd4c6ca8273eaee5c749aa8c3b39633
+  item_date: "2017-01-02 00:00:00"
+  title: Automating SSL encryption for your servers with LetsEncrypt and Ansible
+  url: https://www.codeproject.com/Tips/1163629/Automating-SSL-encryption-for-your-servers-with-Le
+  domain: www.codeproject.com
   image: ""
 - curated_id: 2N3jC2deFyIyhB51237eNJLULnx0FRDIdUsG1169iuCXaC116RwyaUH2tZT123vh0ykY01SpxA7O9GuUZYZ4123DA3Lw3SzQ117117
   item_date: "2017-01-02 06:42:00"
@@ -3924,18 +3924,6 @@
   url: https://www.nginx.com/blog/building-api-for-longevity-spec-driven-development/
   domain: www.nginx.com
   image: ""
-- curated_id: 9b496053c46db008e247f9cbc42e7124
-  item_date: "2017-01-11 00:00:00"
-  title: Apple partners with Tresorit to offer end-to-end encryption for CareKit
-  url: http://www.zdnet.com/article/apple-partners-with-tresorit-to-offer-end-to-end-encryption-for-carekit/
-  domain: www.zdnet.com
-  image: ""
-- curated_id: 8dd44466f623458566d9f15537523d0c
-  item_date: "2017-01-11 00:00:00"
-  title: Buggy Domain Validation Forces GoDaddy to Revoke Certs
-  url: https://threatpost.com/buggy-domain-validation-forces-godaddy-to-revoke-certs/123038/
-  domain: threatpost.com
-  image: ""
 - curated_id: 85d73e5ac85c4c1875a6a3bc91198112
   item_date: "2017-01-11 00:00:00"
   title: 'Managing encryption keys in the cloud: introducing Google Cloud Key Management
@@ -3948,6 +3936,18 @@
   title: Cloud Key Management Service
   url: https://cloud.google.com/kms/
   domain: cloud.google.com
+  image: ""
+- curated_id: 8dd44466f623458566d9f15537523d0c
+  item_date: "2017-01-11 00:00:00"
+  title: Buggy Domain Validation Forces GoDaddy to Revoke Certs
+  url: https://threatpost.com/buggy-domain-validation-forces-godaddy-to-revoke-certs/123038/
+  domain: threatpost.com
+  image: ""
+- curated_id: 9b496053c46db008e247f9cbc42e7124
+  item_date: "2017-01-11 00:00:00"
+  title: Apple partners with Tresorit to offer end-to-end encryption for CareKit
+  url: http://www.zdnet.com/article/apple-partners-with-tresorit-to-offer-end-to-end-encryption-for-carekit/
+  domain: www.zdnet.com
   image: ""
 - curated_id: 43143e93320cbedd2f8938e73ffb41e0
   item_date: "2017-01-12 11:03:00"
@@ -3968,17 +3968,17 @@
   url: https://forums.asp.net/t/2113705.aspx
   domain: forums.asp.net
   image: ""
-- curated_id: 5YOArJqu123mvcMTUUeAs1135K4123nq4qYXkgUMioErgcrQtYzP2IsgHZE22Lvb8rlqBwdbqlucsoMIr8mzh123kQUA117117
-  item_date: "2017-01-16 00:00:00"
-  title: Looking for commonality among HTTP request APIs
-  url: https://snarky.ca/looking-for-commonality-among-http-request-apis/
-  domain: snarky.ca
-  image: ""
 - curated_id: 6ca7457af336d9bfbc0a5247b40b762f
   item_date: "2017-01-16 00:00:00"
   title: Google Introduces Cloud-based Encryption Key Management Service
   url: https://www.infoq.com/news/2017/01/google-cloud-key-management
   domain: www.infoq.com
+  image: ""
+- curated_id: 5YOArJqu123mvcMTUUeAs1135K4123nq4qYXkgUMioErgcrQtYzP2IsgHZE22Lvb8rlqBwdbqlucsoMIr8mzh123kQUA117117
+  item_date: "2017-01-16 00:00:00"
+  title: Looking for commonality among HTTP request APIs
+  url: https://snarky.ca/looking-for-commonality-among-http-request-apis/
+  domain: snarky.ca
   image: ""
 - curated_id: e9b13327b5118bfa174a30d1917966be
   item_date: "2017-01-17 00:00:00"
@@ -3998,17 +3998,17 @@
   url: https://techcrunch.com/2017/01/19/all-new-executive-branch-gov-domains-will-ditch-http-enforce-https/
   domain: techcrunch.com
   image: ""
-- curated_id: c115903860d4f838039aa1afc7d1394b
-  item_date: "2017-01-20 00:00:00"
-  title: Handling HTTPS Requests With Akka-HTTPS Server
-  url: https://dzone.com/articles/handling-https-requests-with-akka-https-server
-  domain: dzone.com
-  image: ""
 - curated_id: a0c9ba69d04ff4eebe4d57d76a9a48bd
   item_date: "2017-01-20 00:00:00"
   title: New US Executive Branch Websites to Force HTTPS
   url: http://www.pcmag.com/news/351168/new-us-executive-branch-websites-to-force-https
   domain: www.pcmag.com
+  image: ""
+- curated_id: c115903860d4f838039aa1afc7d1394b
+  item_date: "2017-01-20 00:00:00"
+  title: Handling HTTPS Requests With Akka-HTTPS Server
+  url: https://dzone.com/articles/handling-https-requests-with-akka-https-server
+  domain: dzone.com
   image: ""
 - curated_id: feeaeeab5c207e59463f298b259dc6e4
   item_date: "2017-01-30 00:00:00"
@@ -4016,17 +4016,17 @@
   url: https://www.wired.com/2017/01/half-web-now-encrypted-makes-everyone-safer/
   domain: www.wired.com
   image: ""
-- curated_id: 4a60db1477ba58b9bce9881a8af0d45f
-  item_date: "2017-01-31 00:00:00"
-  title: A Review of Asymmetric Cryptography
-  url: http://resources.infosecinstitute.com/review-asymmetric-cryptography/
-  domain: resources.infosecinstitute.com
-  image: ""
 - curated_id: Iuu2grPtfFXlvCzkPjvGipaShv5QWN116oKM9kudyw18miCrbivkCYhZV9sCz5DAESOtKUf35qD8y0sKeuVfNhzw117117
   item_date: "2017-01-31 00:00:00"
   title: Designing a True REST State Machine
   url: http://nordicapis.com/designing-a-true-rest-state-machine/
   domain: nordicapis.com
+  image: ""
+- curated_id: 4a60db1477ba58b9bce9881a8af0d45f
+  item_date: "2017-01-31 00:00:00"
+  title: A Review of Asymmetric Cryptography
+  url: http://resources.infosecinstitute.com/review-asymmetric-cryptography/
+  domain: resources.infosecinstitute.com
   image: ""
 - curated_id: 1ad6cd0af69247c063f56a1b994c3f24
   item_date: "2017-02-01 00:00:00"
@@ -4040,6 +4040,12 @@
   url: https://devkraken.wordpress.com/2017/02/03/api-design-collaboration-tool/
   domain: devkraken.wordpress.com
   image: ""
+- curated_id: 6bda5400b6ea491b7ee4fde1097263e0
+  item_date: "2017-02-03 00:00:00"
+  title: Encryption Reaches Huge Milestone, Majority of Traffic Uses HTTPS
+  url: https://continuum.cisco.com/2017/02/03/encryption-reaches-huge-milestone-majority-of-traffic-uses-https/
+  domain: continuum.cisco.com
+  image: ""
 - curated_id: 41bc8076b9674297c31c249332ec3058
   item_date: "2017-02-03 00:00:00"
   title: The Mathematical Algorithms of Asymmetric Cryptography and an Introduction
@@ -4047,29 +4053,11 @@
   url: http://resources.infosecinstitute.com/mathematical-algorithms-asymmetric-cryptography-introduction-public-key-infrastructure/
   domain: resources.infosecinstitute.com
   image: ""
-- curated_id: 6bda5400b6ea491b7ee4fde1097263e0
-  item_date: "2017-02-03 00:00:00"
-  title: Encryption Reaches Huge Milestone, Majority of Traffic Uses HTTPS
-  url: https://continuum.cisco.com/2017/02/03/encryption-reaches-huge-milestone-majority-of-traffic-uses-https/
-  domain: continuum.cisco.com
-  image: ""
 - curated_id: thPWLnwFNTtwfxQH4f5g30123PYWlSN596o1162123OuzjVn4LU49SUGh4VmSkI3S1U123dT116123vfzqbKo116o123TLMaXqazBQ117117
   item_date: "2017-02-04 18:38:12"
   title: Visualising complex APIs using API Map
   url: https://hackernoon.com/visualising-complex-apis-using-api-map-f09f617acb32#.8y525mrpn
   domain: hackernoon.com
-  image: ""
-- curated_id: 48ad2a4566f2614f6db1890379af4d61
-  item_date: "2017-02-07 00:00:00"
-  title: Setting up GitLab Pages with CloudFlare Certificates
-  url: https://about.gitlab.com/2017/02/07/setting-up-gitlab-pages-with-cloudflare-certificates/
-  domain: about.gitlab.com
-  image: ""
-- curated_id: gEkQR813o116HF8yldGiKvDtog1zeI9n4116fIHr5E7njDlzfcFoMh1HenoG9xDFFq123IM4116uY6GFuQjfDNUFkcXSDg117117
-  item_date: "2017-02-07 00:00:00"
-  title: Use a Local API to Protect Global Methods in a Distributed Environment
-  url: https://www.codeproject.com/Tips/1169500/Use-a-Local-API-to-Protect-Global-Methods-in-a-Dis
-  domain: www.codeproject.com
   image: ""
 - curated_id: 2tAS4n97EhMF8Pq99onfpXmy326QRc6oCZ7UxKEAttwyfZrjp123Wrv123tSNWEJT9krMPj91rwCIr6fPNsxUJZREQ117117
   item_date: "2017-02-07 00:00:00"
@@ -4077,11 +4065,30 @@
   url: https://newze.net/404-error-page/
   domain: newze.net
   image: ""
-- curated_id: gCK4O9BWxWcBb9dnQDKBWP09J34pOlV2mK123dJUI116rgJm4cmHXnYEBgiGf886QlDbh1w621Lm9QIO2ap6VnxjLA117117
+- curated_id: gEkQR813o116HF8yldGiKvDtog1zeI9n4116fIHr5E7njDlzfcFoMh1HenoG9xDFFq123IM4116uY6GFuQjfDNUFkcXSDg117117
+  item_date: "2017-02-07 00:00:00"
+  title: Use a Local API to Protect Global Methods in a Distributed Environment
+  url: https://www.codeproject.com/Tips/1169500/Use-a-Local-API-to-Protect-Global-Methods-in-a-Dis
+  domain: www.codeproject.com
+  image: ""
+- curated_id: 48ad2a4566f2614f6db1890379af4d61
+  item_date: "2017-02-07 00:00:00"
+  title: Setting up GitLab Pages with CloudFlare Certificates
+  url: https://about.gitlab.com/2017/02/07/setting-up-gitlab-pages-with-cloudflare-certificates/
+  domain: about.gitlab.com
+  image: ""
+- curated_id: 3e59d9a92708699e36c116479034dbe0
   item_date: "2017-02-08 00:00:00"
-  title: The Simple Guide to HTTP Verbs PATCH PUT and POST
-  url: https://dzone.com/articles/the-simple-guide-to-http-verbs-patch-put-and-post
+  title: 'Tokenization vs. Encryption: Understanding the Difference'
+  url: https://dzone.com/articles/tokenization-vs-encryption-understanding-the-diffe
   domain: dzone.com
+  image: ""
+- curated_id: 29ef5783ca767433d4d52c9fc4762ba2
+  item_date: "2017-02-08 00:00:00"
+  title: 'FBI official: No immediate changes to encryption policy under Trump  '
+  url: |
+    http://thehill.com/policy/technology/318572-fbi-official-no-immediate-changes-to-encryption-policy-under-trump
+  domain: thehill.com
   image: ""
 - curated_id: d41761a08e5bb91579cc7bf9a8e358a0
   item_date: "2017-02-08 00:00:00"
@@ -4091,17 +4098,10 @@
     http://thehill.com/policy/cybersecurity/318487-encryption-of-data-manageable-for-law-enforcement-think-tank-says
   domain: thehill.com
   image: ""
-- curated_id: 29ef5783ca767433d4d52c9fc4762ba2
+- curated_id: gCK4O9BWxWcBb9dnQDKBWP09J34pOlV2mK123dJUI116rgJm4cmHXnYEBgiGf886QlDbh1w621Lm9QIO2ap6VnxjLA117117
   item_date: "2017-02-08 00:00:00"
-  title: 'FBI official: No immediate changes to encryption policy under Trump  '
-  url: |
-    http://thehill.com/policy/technology/318572-fbi-official-no-immediate-changes-to-encryption-policy-under-trump
-  domain: thehill.com
-  image: ""
-- curated_id: 3e59d9a92708699e36c116479034dbe0
-  item_date: "2017-02-08 00:00:00"
-  title: 'Tokenization vs. Encryption: Understanding the Difference'
-  url: https://dzone.com/articles/tokenization-vs-encryption-understanding-the-diffe
+  title: The Simple Guide to HTTP Verbs PATCH PUT and POST
+  url: https://dzone.com/articles/the-simple-guide-to-http-verbs-patch-put-and-post
   domain: dzone.com
   image: ""
 - curated_id: elZcgSL9ngOFQ3cXof9E2xLNhwU1ODX8GUYytnhlJ4sDC3T65bYKnBiTmH3Xinoev1kZYOijuQWQYztI0dK7SA117117
@@ -4110,24 +4110,35 @@
   url: https://dzone.com/articles/api-integration-patterns-experience-based-apis
   domain: dzone.com
   image: ""
-- curated_id: a020b6b63013af1441d6bd0af9b20004
-  item_date: "2017-02-14 00:00:00"
-  title: You can now use Signal for encrypted video calls
-  url: https://techcrunch.com/2017/02/14/you-can-now-use-signal-for-encrypted-video-calls/
-  domain: techcrunch.com
-  image: ""
 - curated_id: MuQmvlnqAeHvke123G116J7iru5hjIjUuZQJifBmoGRZ116joLUZAkoFtF3dUX9JWj0RwQuUTjlSXdJ6hV4KYSNeJbVQ117117
   item_date: "2017-02-14 00:00:00"
   title: Modeldriven RESTful API for CRUD and more
   url: https://www.codeproject.com/Articles/1169060/Model-driven-RESTful-API-for-CRUD-and-more
   domain: www.codeproject.com
   image: ""
-- curated_id: 1445567f2d244bb2de7dce1d0b492567
+- curated_id: a020b6b63013af1441d6bd0af9b20004
+  item_date: "2017-02-14 00:00:00"
+  title: You can now use Signal for encrypted video calls
+  url: https://techcrunch.com/2017/02/14/you-can-now-use-signal-for-encrypted-video-calls/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 8a55a2f332cee26437b90ce2dbe150bf
   item_date: "2017-02-15 00:00:00"
-  title: "Encryption Apps Help White House Staffers Leak\u2014and Maybe Break the
-    Law"
-  url: https://www.wired.com/2017/02/white-house-encryption-confide-app/
-  domain: www.wired.com
+  title: Wickr Releases Crypto Protocol on GitHub
+  url: http://www.pcmag.com/news/351756/wickr-releases-crypto-protocol-on-github
+  domain: www.pcmag.com
+  image: ""
+- curated_id: 0IAQwlK116LpSD8H3HOaq1165GR2123Hn5UeZEcV7TDUbBwjAvhrZ6RyliHimG12309LLQ2STYPTcMVOokrWtmFcP41123wg117117
+  item_date: "2017-02-15 00:00:00"
+  title: ConsumerOriented API Design
+  url: http://api-university.com/blog/consumer-oriented-api-design-2/
+  domain: api-university.com
+  image: ""
+- curated_id: cTdCVjsVWLDDPUFgpBCSdKj8TChU28RdRsjgqC3TLplkrOKZ6m5AkEDYmWJ1235yNjKX45K00pXsww5QUOQKqotg117117
+  item_date: "2017-02-15 00:00:00"
+  title: Implementing DomainDriven Design in PHP
+  url: https://dzone.com/articles/implementing-domain-driven-design-in-php
+  domain: dzone.com
   image: ""
 - curated_id: 6fbf844fa6ae71fa2437412ec90aae7e
   item_date: "2017-02-15 00:00:00"
@@ -4136,29 +4147,12 @@
     http://thehill.com/policy/cybersecurity/319711-gop-reps-ding-epa-employees-use-of-encrypted-chat
   domain: thehill.com
   image: ""
-- curated_id: 8a55a2f332cee26437b90ce2dbe150bf
+- curated_id: 1445567f2d244bb2de7dce1d0b492567
   item_date: "2017-02-15 00:00:00"
-  title: Wickr Releases Crypto Protocol on GitHub
-  url: http://www.pcmag.com/news/351756/wickr-releases-crypto-protocol-on-github
-  domain: www.pcmag.com
-  image: ""
-- curated_id: cTdCVjsVWLDDPUFgpBCSdKj8TChU28RdRsjgqC3TLplkrOKZ6m5AkEDYmWJ1235yNjKX45K00pXsww5QUOQKqotg117117
-  item_date: "2017-02-15 00:00:00"
-  title: Implementing DomainDriven Design in PHP
-  url: https://dzone.com/articles/implementing-domain-driven-design-in-php
-  domain: dzone.com
-  image: ""
-- curated_id: 0IAQwlK116LpSD8H3HOaq1165GR2123Hn5UeZEcV7TDUbBwjAvhrZ6RyliHimG12309LLQ2STYPTcMVOokrWtmFcP41123wg117117
-  item_date: "2017-02-15 00:00:00"
-  title: ConsumerOriented API Design
-  url: http://api-university.com/blog/consumer-oriented-api-design-2/
-  domain: api-university.com
-  image: ""
-- curated_id: 1e7c1fb4bedb48cc557849487c303139
-  item_date: "2017-02-17 00:00:00"
-  title: Riseup Will Encrypt All Emails to Prevent FBI Searches
-  url: https://motherboard.vice.com/en_us/article/riseup-will-encrypt-all-emails-to-prevent-fbi-searches
-  domain: motherboard.vice.com
+  title: "Encryption Apps Help White House Staffers Leak\u2014and Maybe Break the
+    Law"
+  url: https://www.wired.com/2017/02/white-house-encryption-confide-app/
+  domain: www.wired.com
   image: ""
 - curated_id: obUXVkeXzx3i9MkgDvWk116XP2qZzRTC1PJ123DsMov1crv7f116q6bt2LkyU6wtFki123DLe6XsfuBujSEc3DwARnnwfA117117
   item_date: "2017-02-17 00:00:00"
@@ -4167,6 +4161,12 @@
   url: https://www.infoq.com/articles/paypal-api-first-part1
   domain: www.infoq.com
   image: ""
+- curated_id: 1e7c1fb4bedb48cc557849487c303139
+  item_date: "2017-02-17 00:00:00"
+  title: Riseup Will Encrypt All Emails to Prevent FBI Searches
+  url: https://motherboard.vice.com/en_us/article/riseup-will-encrypt-all-emails-to-prevent-fbi-searches
+  domain: motherboard.vice.com
+  image: ""
 - curated_id: M6CuMUQGfTtZUdFgWzcBNgYYhfJqMRo4kx116Do0sm4jNzf9x3ts4OcCneLEnLAxQZtZBd6TQCMJTAg2og6A90LA117117
   item_date: "2017-02-19 00:00:00"
   title: Writing OpenAPI Swagger Specification Tutorial  Part 9  Extending the OpenAPI
@@ -4174,17 +4174,17 @@
   url: https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-9-extending-the-openapi-specification/
   domain: apihandyman.io
   image: ""
-- curated_id: 5378cbf3c26dd811b03049f30dfcd6e3
-  item_date: "2017-02-20 00:00:00"
-  title: 'SSL Proxy: Splunk  NGINX'
-  url: http://blogs.splunk.com/2017/02/20/ssl-proxy-splunk-nginx/
-  domain: blogs.splunk.com
-  image: ""
 - curated_id: 9c3c5a6419171ca53d6e721ee3f1baf7
   item_date: "2017-02-20 00:00:00"
   title: An Overview of the Public Key Infrastructure Parameters and Standards
   url: http://resources.infosecinstitute.com/overview-public-key-infrastructure-parameters-standards/
   domain: resources.infosecinstitute.com
+  image: ""
+- curated_id: 5378cbf3c26dd811b03049f30dfcd6e3
+  item_date: "2017-02-20 00:00:00"
+  title: 'SSL Proxy: Splunk  NGINX'
+  url: http://blogs.splunk.com/2017/02/20/ssl-proxy-splunk-nginx/
+  domain: blogs.splunk.com
   image: ""
 - curated_id: Mg4SBDY8XHRBtFD8KAoCaDcAE8tVxlEaZHs87ooQhHNrTOhGcs7x8pRUfJW123cBdhDyZ4b123MGLSdEUPFu3FbMJw117117
   item_date: "2017-02-21 00:00:00"
@@ -4192,11 +4192,11 @@
   url: https://stripe.com/blog/idempotency
   domain: stripe.com
   image: ""
-- curated_id: 11d31e465a804ab8e8baafdbba7431e8
+- curated_id: 2d576bbe50c5e74855a793e585d27805
   item_date: "2017-02-22 00:00:00"
-  title: 'EFF: Half of web traffic is now encrypted'
-  url: https://techcrunch.com/2017/02/22/eff-half-the-web-is-now-encrypted/
-  domain: techcrunch.com
+  title: 'Steptoe Cyberlaw Podcast: A Tale of RSA'
+  url: https://www.lawfareblog.com/steptoe-cyberlaw-podcast-tale-rsa
+  domain: www.lawfareblog.com
   image: ""
 - curated_id: dywdTtmTwVnAmqkOeJ123SwFwZmGWBq3fWEPIZV123Rl42fu9KrMIYpQEl3123qoJIsyMtRsCkzEaZTNCImC0mras8Ow117117
   item_date: "2017-02-22 00:00:00"
@@ -4204,35 +4204,17 @@
   url: https://medium.com/intercom-developers/api-update-scroll-api-segments-and-rate-limits-77b14c6f946b
   domain: medium.com
   image: ""
-- curated_id: 2d576bbe50c5e74855a793e585d27805
+- curated_id: 11d31e465a804ab8e8baafdbba7431e8
   item_date: "2017-02-22 00:00:00"
-  title: 'Steptoe Cyberlaw Podcast: A Tale of RSA'
-  url: https://www.lawfareblog.com/steptoe-cyberlaw-podcast-tale-rsa
-  domain: www.lawfareblog.com
+  title: 'EFF: Half of web traffic is now encrypted'
+  url: https://techcrunch.com/2017/02/22/eff-half-the-web-is-now-encrypted/
+  domain: techcrunch.com
   image: ""
 - curated_id: FEUtZ8ba116EexWpcNyhTn0WVrkZYv2HtGs1bK4rWroVMJM8povJzxAdLB7rxN0Wp3116CNIpnx7dG1123flemqBIDYg117117
   item_date: "2017-02-22 19:07:59"
   title: API Design Guide  Cloud APIs  Google Cloud Platform
   url: https://cloud.google.com/apis/design/
   domain: cloud.google.com
-  image: ""
-- curated_id: 3a7c0c06b026ca84e4d8d4956aa46b52
-  item_date: "2017-02-23 00:00:00"
-  title: Google, Dutch institute crack key internet security standard
-  url: http://www.reuters.com/article/us-cyber-technology-idUSKBN1621R8
-  domain: www.reuters.com
-  image: ""
-- curated_id: 074f9b665d0a1ae8364b3da78f013762
-  item_date: "2017-02-23 00:00:00"
-  title: 'Google Researchers Shatter SHA-1 Hash '
-  url: http://www.darkreading.com/attacks-breaches/google-researchers-shatter-sha-1-hash-/d/d-id/1328253
-  domain: www.darkreading.com
-  image: ""
-- curated_id: 05e2fdc082d027481befd26631b80cd3
-  item_date: "2017-02-23 00:00:00"
-  title: "Stop using SHA1 encryption: It\u2019s now completely unsafe, Google proves"
-  url: http://www.pcworld.com/article/3173791/security/stop-using-sha1-it-s-now-completely-unsafe.html#tk.rss_all
-  domain: www.pcworld.com
   image: ""
 - curated_id: a078d15f111c27044a124bf52d2878e0
   item_date: "2017-02-23 00:00:00"
@@ -4247,12 +4229,36 @@
   url: https://dzone.com/articles/using-ssl-for-in-transit-data-encryption-to-improv
   domain: dzone.com
   image: ""
+- curated_id: 05e2fdc082d027481befd26631b80cd3
+  item_date: "2017-02-23 00:00:00"
+  title: "Stop using SHA1 encryption: It\u2019s now completely unsafe, Google proves"
+  url: http://www.pcworld.com/article/3173791/security/stop-using-sha1-it-s-now-completely-unsafe.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
+- curated_id: 074f9b665d0a1ae8364b3da78f013762
+  item_date: "2017-02-23 00:00:00"
+  title: 'Google Researchers Shatter SHA-1 Hash '
+  url: http://www.darkreading.com/attacks-breaches/google-researchers-shatter-sha-1-hash-/d/d-id/1328253
+  domain: www.darkreading.com
+  image: ""
+- curated_id: 3a7c0c06b026ca84e4d8d4956aa46b52
+  item_date: "2017-02-23 00:00:00"
+  title: Google, Dutch institute crack key internet security standard
+  url: http://www.reuters.com/article/us-cyber-technology-idUSKBN1621R8
+  domain: www.reuters.com
+  image: ""
 - curated_id: 650c0bac62d515cc8f8201fd64d9062f
   item_date: "2017-02-23 17:36:42"
   title: 'Tweet: No 1Password data was put at risk through the bug reported earlier
     today. https://t.co/S7G62Qw85Q'
   url: https://twitter.com/Cloudflare/statuses/834940080397529088
   domain: twitter.com
+  image: ""
+- curated_id: 724b46a34190abc4f97ac7752452fb16
+  item_date: "2017-02-24 00:00:00"
+  title: SHA-1 Has Been Compromised In Practice
+  url: https://auth0.com/blog/sha-1-collision-attack/
+  domain: auth0.com
   image: ""
 - curated_id: 8a18ed4980d94ff88092a9ac0f96b7c5
   item_date: "2017-02-24 00:00:00"
@@ -4265,12 +4271,6 @@
   title: E2EMail research project has left the nest
   url: https://security.googleblog.com/2017/02/e2email-research-project-has-left-nest_24.html
   domain: security.googleblog.com
-  image: ""
-- curated_id: 724b46a34190abc4f97ac7752452fb16
-  item_date: "2017-02-24 00:00:00"
-  title: SHA-1 Has Been Compromised In Practice
-  url: https://auth0.com/blog/sha-1-collision-attack/
-  domain: auth0.com
   image: ""
 - curated_id: 8e82741bcfb68c9ad844e5e6a2ed0798
   item_date: "2017-02-24 05:00:08"
@@ -4323,17 +4323,17 @@
   url: https://apihandyman.io/google-api-design-guide-added-to-the-api-stylebook/
   domain: apihandyman.io
   image: ""
-- curated_id: 49f16a88903ecbcaa31f91ee675f76ce
-  item_date: "2017-03-07 00:00:00"
-  title: Googles SHA-1 Countdown Clock Could Undermine Enterprise Security
-  url: http://www.darkreading.com/googles-sha-1-countdown-clock-could-undermine-enterprise-security/a/d-id/1328337
-  domain: www.darkreading.com
-  image: ""
 - curated_id: 41104ee60f63a4069275f3b1777f935e
   item_date: "2017-03-07 00:00:00"
   title: "No, you shouldn\u2019t delete Signal or other encrypted apps"
   url: https://techcrunch.com/2017/03/07/is-signal-app-safe-wikileaks/
   domain: techcrunch.com
+  image: ""
+- curated_id: 49f16a88903ecbcaa31f91ee675f76ce
+  item_date: "2017-03-07 00:00:00"
+  title: Googles SHA-1 Countdown Clock Could Undermine Enterprise Security
+  url: http://www.darkreading.com/googles-sha-1-countdown-clock-could-undermine-enterprise-security/a/d-id/1328337
+  domain: www.darkreading.com
   image: ""
 - curated_id: 1234jI1169sPCFC4v116ii6M8qI5SRtF5bCnrHJ7NI2uYbODv92123m116DkPB8iQujBhZUFkWbABJFaAYIx85123ZGEaW9LSA117117
   item_date: "2017-03-07 13:13:34"
@@ -4347,6 +4347,12 @@
   url: https://tyk.io/2017/03/06/api-management-events-webhooks-microservices/
   domain: tyk.io
   image: ""
+- curated_id: y7aIobXwBSysxDKTD7AyDx1ueYEqJlj4qY3riZMtIE3g1Y9klS4fguFLYyBUdsKFPW10oamsMlPPVwhaC116gEOw117117
+  item_date: "2017-03-08 00:00:00"
+  title: 4 Ways Your API Is Not Quite What I Want
+  url: https://zapier.com/engineering/api-pet-peeves/
+  domain: zapier.com
+  image: ""
 - curated_id: d0db80ed96034e835834457e7b98e469
   item_date: "2017-03-08 00:00:00"
   title: Researchers find major flaws in encrypted chat app popular in WH
@@ -4359,12 +4365,6 @@
   title: Two Forgotten Aspects to an API Design First Approach
   url: https://medium.com/m/global-identity
   domain: medium.com
-  image: ""
-- curated_id: y7aIobXwBSysxDKTD7AyDx1ueYEqJlj4qY3riZMtIE3g1Y9klS4fguFLYyBUdsKFPW10oamsMlPPVwhaC116gEOw117117
-  item_date: "2017-03-08 00:00:00"
-  title: 4 Ways Your API Is Not Quite What I Want
-  url: https://zapier.com/engineering/api-pet-peeves/
-  domain: zapier.com
   image: ""
 - curated_id: q1Nq1168Bcxhx3GzO5iZjXpvvGQiI1dZu7Jz6TNpVb1JutCa673BNVWfZoU116r3Yxl2OvB6MyFoO0VXYYOz116f1116Vg117117
   item_date: "2017-03-08 10:12:12"
@@ -4432,29 +4432,23 @@
   url: http://daviddawson.me/blog/2017/02/21/muon-intro.html
   domain: daviddawson.me
   image: ""
-- curated_id: P123GLG50vbUOfZlqHnZhWCfm2RGV4e3AzqFY6uQynI3QzNu4a7io55iiXDE1XZ0VpqqgfA97EnxuJ6Hngi116NJ9w117117
-  item_date: "2017-03-20 00:00:00"
-  title: RESTful SNMP Over HTTP Part II
-  url: https://dzone.com/articles/restful-snmp-over-http-ii
-  domain: dzone.com
-  image: ""
 - curated_id: YH353116wouFo123ya123WX70zkC4BmBhE2EmIf8qOTj25Eix3wrtzjA5X3eHniA116DmL2sxCnGH9GH54GwRn93bEqmEQ117117
   item_date: "2017-03-20 00:00:00"
   title: RESTful SNMP Over HTTP Part III
   url: https://dzone.com/articles/restful-snmp-over-http-3
   domain: dzone.com
   image: ""
-- curated_id: 90d1cb8c32da08f395e9037ad1826e67
-  item_date: "2017-03-21 00:00:00"
-  title: The Encryption Debate in Europe
-  url: https://www.lawfareblog.com/encryption-debate-europe-0
-  domain: www.lawfareblog.com
+- curated_id: P123GLG50vbUOfZlqHnZhWCfm2RGV4e3AzqFY6uQynI3QzNu4a7io55iiXDE1XZ0VpqqgfA97EnxuJ6Hngi116NJ9w117117
+  item_date: "2017-03-20 00:00:00"
+  title: RESTful SNMP Over HTTP Part II
+  url: https://dzone.com/articles/restful-snmp-over-http-ii
+  domain: dzone.com
   image: ""
-- curated_id: 31c52190add124a0a987caafb91be9a1
+- curated_id: 5aZEQTZcJk1235sBBL4wRS8GfQpKd123AbMDY5ch8123WGGMw7oP5ITbeSsOGyDIYmITSok92iw4va6I4ddS0BywxoCQ117117
   item_date: "2017-03-21 00:00:00"
-  title: Announcing Free and Automated SSL Certs For All Paid Dynos
-  url: https://blog.heroku.com/announcing-automated-certificate-management
-  domain: blog.heroku.com
+  title: BigCommerce uses Postman before a single line of code is written
+  url: http://blog.getpostman.com/2017/03/21/bigcommerce-uses-postman-before-a-single-line-of-code-is-written/
+  domain: blog.getpostman.com
   image: ""
 - curated_id: 2259749c089d35e94ebebdd790a71d75
   item_date: "2017-03-21 00:00:00"
@@ -4462,11 +4456,17 @@
   url: https://motherboard.vice.com/en_us/article/github-uses-broken-encryption-but-it-has-a-plan
   domain: motherboard.vice.com
   image: ""
-- curated_id: 5aZEQTZcJk1235sBBL4wRS8GfQpKd123AbMDY5ch8123WGGMw7oP5ITbeSsOGyDIYmITSok92iw4va6I4ddS0BywxoCQ117117
+- curated_id: 31c52190add124a0a987caafb91be9a1
   item_date: "2017-03-21 00:00:00"
-  title: BigCommerce uses Postman before a single line of code is written
-  url: http://blog.getpostman.com/2017/03/21/bigcommerce-uses-postman-before-a-single-line-of-code-is-written/
-  domain: blog.getpostman.com
+  title: Announcing Free and Automated SSL Certs For All Paid Dynos
+  url: https://blog.heroku.com/announcing-automated-certificate-management
+  domain: blog.heroku.com
+  image: ""
+- curated_id: 90d1cb8c32da08f395e9037ad1826e67
+  item_date: "2017-03-21 00:00:00"
+  title: The Encryption Debate in Europe
+  url: https://www.lawfareblog.com/encryption-debate-europe-0
+  domain: www.lawfareblog.com
   image: ""
 - curated_id: 2pEG9np2mQLA3dmV0VeG123NA3dIAZXZJQ7CWMr6BUnJ8ZmDrKXrQldNjmTQXGSiMVJ7T116vvjt9avZAAAqJXprQA117117
   item_date: "2017-03-22 18:56:59"
@@ -4487,29 +4487,29 @@
   url: http://www.darkreading.com/vulnerabilities---threats/google-slams-symantec-for-failures-in-ssl-tls-certificate-process/d/d-id/1328483
   domain: www.darkreading.com
   image: ""
-- curated_id: gujXXKHxBU6ozhCwpZwtF5awIFCwEUWT331VSMKlzNKSXC1GBZDgb8G4tIsk2DEuJg7q4nFDHreiCj8VHeZ25g117117
-  item_date: "2017-04-04 00:00:00"
-  title: API Design on the Scale of Decades
-  url: http://nordicapis.com/new-ebook-released-api-design-on-the-scale-of-decades/
-  domain: nordicapis.com
-  image: ""
 - curated_id: 495b4eb9c780e0c6200b38079311d16e
   item_date: "2017-04-04 00:00:00"
   title: Encryption Policy and Freedom of the Press
   url: https://www.schneier.com/blog/archives/2017/04/encryption_poli.html
   domain: www.schneier.com
   image: ""
-- curated_id: 780a125892024be28bde82247b765b0c
-  item_date: "2017-04-05 00:00:00"
-  title: Activists Need to Watch Out for Fake Encryption Keys
-  url: https://motherboard.vice.com/en_us/article/activists-need-to-watch-out-for-fake-encryption-keys
-  domain: motherboard.vice.com
+- curated_id: gujXXKHxBU6ozhCwpZwtF5awIFCwEUWT331VSMKlzNKSXC1GBZDgb8G4tIsk2DEuJg7q4nFDHreiCj8VHeZ25g117117
+  item_date: "2017-04-04 00:00:00"
+  title: API Design on the Scale of Decades
+  url: http://nordicapis.com/new-ebook-released-api-design-on-the-scale-of-decades/
+  domain: nordicapis.com
   image: ""
 - curated_id: mN123mJEO5pdph123THb123RjJvV9wqqi123K1qLV3juc31236scGa7EWfAzYM1B0IAaQTENCAUuwMhJLAjN7dcabdcomUUg117117
   item_date: "2017-04-05 00:00:00"
   title: Using field masks with Google APIs for partial response
   url: https://developers.googleblog.com/2017/04/using-field-masks-with-google-apis-for.html
   domain: developers.googleblog.com
+  image: ""
+- curated_id: 780a125892024be28bde82247b765b0c
+  item_date: "2017-04-05 00:00:00"
+  title: Activists Need to Watch Out for Fake Encryption Keys
+  url: https://motherboard.vice.com/en_us/article/activists-need-to-watch-out-for-fake-encryption-keys
+  domain: motherboard.vice.com
   image: ""
 - curated_id: Yy0bHmF4NQBaaLs7oGuSiPGsZKouj11Bg123UCW5E4Fsv27n10opofu1162PuIx7l0Q123VyWsIzGRK1FROiuAvtylCg117117
   item_date: "2017-04-05 00:40:41"
@@ -4523,11 +4523,11 @@
   url: http://philcalcado.com/2017/03/02/microservices_vs_1st_law_distributed_objects.html
   domain: philcalcado.com
   image: ""
-- curated_id: f68dff307732ce55a6554dd1bc4b8efd
+- curated_id: F2sRe5sAYf8iOdOvOjM3Z3A9lkQexTLJ3Cggk7Xg1I7vV123oRSpsXryFoEwPXInoGw5P116KTLlLaQmElGtrvI9jA117117
   item_date: "2017-04-06 00:00:00"
-  title: 23% of Security Pros are Blind to Encrypted Traffic Threats
-  url: http://www.itsecurityguru.org/2017/04/06/23-security-pros-blind-encrypted-traffic-threats/
-  domain: www.itsecurityguru.org
+  title: ALM Rest API posting design steps
+  url: https://community.hpe.com/t5/Quality-Center-ALM-Practitioners/ALM-Rest-API-posting-design-steps/td-p/6954521
+  domain: community.hpe.com
   image: ""
 - curated_id: cf1808f04652eb29fd4c3be8e60927cc
   item_date: "2017-04-06 00:00:00"
@@ -4535,11 +4535,11 @@
   url: https://dzone.com/articles/aws-lambda-encrypted-environment-variables
   domain: dzone.com
   image: ""
-- curated_id: F2sRe5sAYf8iOdOvOjM3Z3A9lkQexTLJ3Cggk7Xg1I7vV123oRSpsXryFoEwPXInoGw5P116KTLlLaQmElGtrvI9jA117117
+- curated_id: f68dff307732ce55a6554dd1bc4b8efd
   item_date: "2017-04-06 00:00:00"
-  title: ALM Rest API posting design steps
-  url: https://community.hpe.com/t5/Quality-Center-ALM-Practitioners/ALM-Rest-API-posting-design-steps/td-p/6954521
-  domain: community.hpe.com
+  title: 23% of Security Pros are Blind to Encrypted Traffic Threats
+  url: http://www.itsecurityguru.org/2017/04/06/23-security-pros-blind-encrypted-traffic-threats/
+  domain: www.itsecurityguru.org
   image: ""
 - curated_id: ra123rE6JGtLbZE116mul3tLsTQFjCHNDsE1Q123dcJ0RTKliJS0W1LNl5l1164z9OaeEqReVxx1dhNoUWyk4isg4k6S123A117117
   item_date: "2017-04-07 00:00:00"
@@ -4565,17 +4565,17 @@
   url: http://blog.opto22.com/optoblog/encryption-in-automation
   domain: blog.opto22.com
   image: ""
-- curated_id: 85816878ed0fe914c67b6c959f369189
-  item_date: "2017-04-12 00:00:00"
-  title: DotGov Domain Registration Program to Provide HTTPS Preloading in May
-  url: https://www.digitalgov.gov/2017/04/12/dotgov-domain-registration-program-to-provide-https-preloading-in-may/
-  domain: www.digitalgov.gov
-  image: ""
 - curated_id: dQABj84JsOJAH2jN4QvFHvEjONLmtXSbTYzyOX6qSulmTJSGImquWRG0IymZQkHEMXWG6sbqUtKjRcimSFStBQ117117
   item_date: "2017-04-12 00:00:00"
   title: Restlet Studio Supports RAML 10 API Specification
   url: https://www.programmableweb.com/news/restlet-studio-supports-raml-10-api-specification/announcement/2017/04/12
   domain: www.programmableweb.com
+  image: ""
+- curated_id: 85816878ed0fe914c67b6c959f369189
+  item_date: "2017-04-12 00:00:00"
+  title: DotGov Domain Registration Program to Provide HTTPS Preloading in May
+  url: https://www.digitalgov.gov/2017/04/12/dotgov-domain-registration-program-to-provide-https-preloading-in-may/
+  domain: www.digitalgov.gov
   image: ""
 - curated_id: uE98LCuxXpjtSw8nZESvzEJPFe5Pz9ZFKyb9lxzo4123dsq0eykwGKmCGkOg1JA0h8eNc4WJKa3rj59Wxu2MURbA117117
   item_date: "2017-04-12 00:24:58"
@@ -4584,12 +4584,11 @@
   url: https://twitter.com/MateriaHQ/statuses/852059953280012288
   domain: twitter.com
   image: ""
-- curated_id: 8d9d6eb8bd9a34a8c40b871d66519d4e
+- curated_id: cfa06be4dbfcca457f281b6cdd82c876
   item_date: "2017-04-13 00:00:00"
-  title: Hewlett Packard Enterprise touts encryption tool for federal clients
-  url: |
-    http://thehill.com/policy/cybersecurity/328636-hewlett-packard-touts-encryption-tool-for-federal-clients
-  domain: thehill.com
+  title: Amazon Adds Cross Region and Encrypted Replication Support for Aurora
+  url: https://www.infoq.com/news/2017/04/Amazon-Aurora-Update
+  domain: www.infoq.com
   image: ""
 - curated_id: vMUDNki123zuBuTxjNu7p7zzQm2tBqxoxcX6CdrIlBIhO1at1QdnuMYHTPOKZV6IekZBVbOwQxY123zeiowbiP2v1A117117
   item_date: "2017-04-13 00:00:00"
@@ -4597,17 +4596,12 @@
   url: http://blog.mparticle.com/simplicity-utility-x-data-success/
   domain: blog.mparticle.com
   image: ""
-- curated_id: cfa06be4dbfcca457f281b6cdd82c876
+- curated_id: 8d9d6eb8bd9a34a8c40b871d66519d4e
   item_date: "2017-04-13 00:00:00"
-  title: Amazon Adds Cross Region and Encrypted Replication Support for Aurora
-  url: https://www.infoq.com/news/2017/04/Amazon-Aurora-Update
-  domain: www.infoq.com
-  image: ""
-- curated_id: ce4576fbda4792205a7b16f1f52b3436
-  item_date: "2017-04-14 00:00:00"
-  title: Amazon Athena adds support for Querying Encrypted Data
-  url: https://aws.amazon.com/blogs/aws/launch-amazon-athena-adds-support-for-querying-encrypted-data/
-  domain: aws.amazon.com
+  title: Hewlett Packard Enterprise touts encryption tool for federal clients
+  url: |
+    http://thehill.com/policy/cybersecurity/328636-hewlett-packard-touts-encryption-tool-for-federal-clients
+  domain: thehill.com
   image: ""
 - curated_id: cee2b5e5e212540a8b45e2cdfd2cf742
   item_date: "2017-04-14 00:00:00"
@@ -4615,11 +4609,11 @@
   url: http://www.darkreading.com/attacks-breaches/the-long-slog-to-getting-encryption-right/d/d-id/1328629
   domain: www.darkreading.com
   image: ""
-- curated_id: mJ0CPNAifOOEAU1cqfL2rphranV116iVSuNYLHwswTTPE123N0wAqJJLduNcHS2UhpXSr21GKERyXRKwyBfswqRT9Q117117
-  item_date: "2017-04-19 00:00:00"
-  title: Microservices APIs and Swagger How They Fit Together
-  url: https://dzone.com/articles/microservices-apis-and-swagger-how-they-fit-togeth
-  domain: dzone.com
+- curated_id: ce4576fbda4792205a7b16f1f52b3436
+  item_date: "2017-04-14 00:00:00"
+  title: Amazon Athena adds support for Querying Encrypted Data
+  url: https://aws.amazon.com/blogs/aws/launch-amazon-athena-adds-support-for-querying-encrypted-data/
+  domain: aws.amazon.com
   image: ""
 - curated_id: rLk1167zKcM5ZqN0JvIulYhpCouEXRLnhFGpOhDP116Z4Ly7123YKtyUEyFCBwt5hK3lHLP116pqBmZFULBoMSPYnykb116w117117
   item_date: "2017-04-19 00:00:00"
@@ -4627,10 +4621,10 @@
   url: https://medium.com/m/global-identity
   domain: medium.com
   image: ""
-- curated_id: 21DFk7fxErnKg2QXLJL9U5gBMqhi7JGlBaiVt2IROkM0bUfdSmCKWZ14TBzmBrwqreUi9NKBqDjbzBss8NuMLA117117
-  item_date: "2017-04-20 00:00:00"
-  title: Is Protobuf 5x Faster Than JSON Part 2
-  url: https://dzone.com/articles/is-protobuf-5x-faster-than-json-part-ii
+- curated_id: mJ0CPNAifOOEAU1cqfL2rphranV116iVSuNYLHwswTTPE123N0wAqJJLduNcHS2UhpXSr21GKERyXRKwyBfswqRT9Q117117
+  item_date: "2017-04-19 00:00:00"
+  title: Microservices APIs and Swagger How They Fit Together
+  url: https://dzone.com/articles/microservices-apis-and-swagger-how-they-fit-togeth
   domain: dzone.com
   image: ""
 - curated_id: ABu4d7a123Thk93UlswkJAXycX6UkiQeRUcAQ116nXtCSqarYYEuAS8Ps1234n9J1P96FoL31KfgR9caoaYWHgQ0l4FQ117117
@@ -4638,6 +4632,12 @@
   title: SOAP vs REST A Look at Two Different API Styles
   url: http://www.business2community.com/brandviews/upwork/soap-vs-rest-look-two-different-api-styles-01827446
   domain: www.business2community.com
+  image: ""
+- curated_id: 21DFk7fxErnKg2QXLJL9U5gBMqhi7JGlBaiVt2IROkM0bUfdSmCKWZ14TBzmBrwqreUi9NKBqDjbzBss8NuMLA117117
+  item_date: "2017-04-20 00:00:00"
+  title: Is Protobuf 5x Faster Than JSON Part 2
+  url: https://dzone.com/articles/is-protobuf-5x-faster-than-json-part-ii
+  domain: dzone.com
   image: ""
 - curated_id: n11651h6Axb4vAX9IXQp4x7YvgBJrHboX6L123vp23Kf7HkQ81JR1D6OQvEz0sRbkn116nlpDuYqMZ1123Z6ydiEkzxg116w117117
   item_date: "2017-04-20 09:37:05"
@@ -4651,17 +4651,17 @@
   url: https://gsuite-developers.googleblog.com/2017/04/using-field-masks-with-update-requests.html
   domain: gsuite-developers.googleblog.com
   image: ""
-- curated_id: tPdy123UwPhTwr1U123Og3IOSAINYRJsUllPTxqZkeN14QIWjARsjYGotesb1d0T8YmQUdxJ4Pz116c7IIyoii116YsiuA117117
-  item_date: "2017-04-25 00:00:00"
-  title: Deliveroo API Design Guidelines added to the API Stylebook
-  url: https://apihandyman.io/deliveroo-api-design-guidelines-added-to-the-api-stylebook/
-  domain: apihandyman.io
-  image: ""
 - curated_id: qPMVyOTH8Dpv116AoQ0Vr7UejhQzqbE1165z6W123JNmrJA9U6vf8lHbVdJJbG8slWosbw5i1232123aILigQniCLcxHKreA117117
   item_date: "2017-04-25 00:00:00"
   title: Introducing ProtocolOriented BDD in Swift for iOS Apps Part 1
   url: https://dzone.com/articles/introducing-protocol-oriented-bdd-in-swift-for-ios
   domain: dzone.com
+  image: ""
+- curated_id: tPdy123UwPhTwr1U123Og3IOSAINYRJsUllPTxqZkeN14QIWjARsjYGotesb1d0T8YmQUdxJ4Pz116c7IIyoii116YsiuA117117
+  item_date: "2017-04-25 00:00:00"
+  title: Deliveroo API Design Guidelines added to the API Stylebook
+  url: https://apihandyman.io/deliveroo-api-design-guidelines-added-to-the-api-stylebook/
+  domain: apihandyman.io
   image: ""
 - curated_id: yNDL6OQYIJayeVJjtplUDL2H8123YXL792Uelek9O123N5ug1cKPZ5ERSxTbDRsoa22stYYmncb8SSkFopoH3svsyA117117
   item_date: "2017-04-25 12:10:12"
@@ -4675,17 +4675,11 @@
   url: https://twitter.com/Runscope/statuses/856992717330673664
   domain: twitter.com
   image: ""
-- curated_id: Wl8yWdJEUUBQXYXWW7dG1235SuuE3NFvjgW4lBDcuw16G116oCKuPhIuoHNwW7yLO5I9CaGdv4ddGh4iw8TDi2iJNg117117
+- curated_id: 81fb2f920e80548e35953a3a51a0ce94
   item_date: "2017-04-26 00:00:00"
-  title: Manage your gRPC APIs with Google Cloud Endpoints
-  url: http://cloudplatform.googleblog.com/2017/04/manage-your-gRPC-APIs-with-Google-Cloud-Endpoints.html
-  domain: cloudplatform.googleblog.com
-  image: ""
-- curated_id: B4JNeA123K4BBbXcxPThwBmHsG99LdR2G1pDAA49RiLeWB4FCBEIIcLb4116fJ7ncC10eWULPKlyajAsrsjNNSOtOA117117
-  item_date: "2017-04-26 00:00:00"
-  title: Summarizing requests
-  url: http://www.apiful.io/intro/2017/04/27/summarizing-requests.html
-  domain: www.apiful.io
+  title: 'W3C Launches Front-End Developer Certificate '
+  url: https://www.programmableweb.com/news/w3c-launches-front-end-developer-certificate/brief/2017/04/26
+  domain: www.programmableweb.com
   image: ""
 - curated_id: 653f8d49323212d872eacfb35750eead
   item_date: "2017-04-26 00:00:00"
@@ -4693,11 +4687,17 @@
   url: https://dzone.com/articles/mbedtls-ssl-certificate-verification-with-mosquitto-lwip-and-mqtt
   domain: dzone.com
   image: ""
-- curated_id: 81fb2f920e80548e35953a3a51a0ce94
+- curated_id: B4JNeA123K4BBbXcxPThwBmHsG99LdR2G1pDAA49RiLeWB4FCBEIIcLb4116fJ7ncC10eWULPKlyajAsrsjNNSOtOA117117
   item_date: "2017-04-26 00:00:00"
-  title: 'W3C Launches Front-End Developer Certificate '
-  url: https://www.programmableweb.com/news/w3c-launches-front-end-developer-certificate/brief/2017/04/26
-  domain: www.programmableweb.com
+  title: Summarizing requests
+  url: http://www.apiful.io/intro/2017/04/27/summarizing-requests.html
+  domain: www.apiful.io
+  image: ""
+- curated_id: Wl8yWdJEUUBQXYXWW7dG1235SuuE3NFvjgW4lBDcuw16G116oCKuPhIuoHNwW7yLO5I9CaGdv4ddGh4iw8TDi2iJNg117117
+  item_date: "2017-04-26 00:00:00"
+  title: Manage your gRPC APIs with Google Cloud Endpoints
+  url: http://cloudplatform.googleblog.com/2017/04/manage-your-gRPC-APIs-with-Google-Cloud-Endpoints.html
+  domain: cloudplatform.googleblog.com
   image: ""
 - curated_id: 84083707f252623bbcb2dbf885f4eebb
   item_date: "2017-04-27 08:11:01"
@@ -4717,17 +4717,17 @@
   url: https://dzone.com/articles/resource-centric-api-calls-switching-up-the-cloud
   domain: dzone.com
   image: ""
-- curated_id: 422ea815d3892d3da928d0e5645b7692
-  item_date: "2017-05-01 00:00:00"
-  title: Introducing TLS with Client Authentication
-  url: https://blog.cloudflare.com/introducing-tls-client-auth/
-  domain: blog.cloudflare.com
-  image: ""
 - curated_id: m1163m116H6J123jVjP2ICFSmbaZNHbwmiCvRgl1236FDBuFIC9wZrEfhbJXweWOSA8oi6d4sc1XrtbR9JwYc8WXeRXS8w117117
   item_date: "2017-05-01 00:00:00"
   title: API Mediation Why You Need an API Experience Layer
   url: http://nordicapis.com/api-mediation-why-you-need-api-experience-layer/
   domain: nordicapis.com
+  image: ""
+- curated_id: 422ea815d3892d3da928d0e5645b7692
+  item_date: "2017-05-01 00:00:00"
+  title: Introducing TLS with Client Authentication
+  url: https://blog.cloudflare.com/introducing-tls-client-auth/
+  domain: blog.cloudflare.com
   image: ""
 - curated_id: 230f053c786362d09c5b0fac90491675
   item_date: "2017-05-01 08:51:25"
@@ -4754,6 +4754,12 @@
   url: https://github.com/18F/doi-extractives-data/wiki/Little-rules-for-designing-with-data
   domain: github.com
   image: ""
+- curated_id: YESer1QlB0ywuCcgSxl116JAWB6UjFCPUQNBgRPzGPcD123URPs9tetLeSHqUQbJ886osMMKr1167ctZXYx5h8VafAnA117117
+  item_date: "2017-05-03 00:00:00"
+  title: The two perspectives of API design
+  url: https://restlet.com/company/blog/2017/05/03/the-two-perspectives-of-api-design/
+  domain: restlet.com
+  image: ""
 - curated_id: a981819e148c7fadef7f6b1aff124e94
   item_date: "2017-05-03 00:00:00"
   title: Establishing a TLS Connection, Part 4
@@ -4766,11 +4772,11 @@
   url: https://www.progress.com/blogs/rest-api-industry-debate-odata-vs-graphql-vs-ords
   domain: www.progress.com
   image: ""
-- curated_id: YESer1QlB0ywuCcgSxl116JAWB6UjFCPUQNBgRPzGPcD123URPs9tetLeSHqUQbJ886osMMKr1167ctZXYx5h8VafAnA117117
-  item_date: "2017-05-03 00:00:00"
-  title: The two perspectives of API design
-  url: https://restlet.com/company/blog/2017/05/03/the-two-perspectives-of-api-design/
-  domain: restlet.com
+- curated_id: 89a9f60ae1f72dc2f37f31e6c7322895
+  item_date: "2017-05-04 00:00:00"
+  title: Create a Self-Signed SSL Certificate Using OpenSSL
+  url: https://dzone.com/articles/create-a-self-signed-ssl-certificate-using-openssl
+  domain: dzone.com
   image: ""
 - curated_id: Hjeb94UAR03xqLCT123OSpCjFvg116saP2gANJbbeigUwyk2k2bhvOwj1239Qoved123VwvCptzrSQ9hvxKkcPZqlblzbg117117
   item_date: "2017-05-04 00:00:00"
@@ -4779,29 +4785,23 @@
   url: https://www.programmableweb.com/news/building-builders-stripes-8-tips-designing-apis-and-supporting-developers/analysis/2017/05/04
   domain: www.programmableweb.com
   image: ""
-- curated_id: 89a9f60ae1f72dc2f37f31e6c7322895
-  item_date: "2017-05-04 00:00:00"
-  title: Create a Self-Signed SSL Certificate Using OpenSSL
-  url: https://dzone.com/articles/create-a-self-signed-ssl-certificate-using-openssl
-  domain: dzone.com
-  image: ""
 - curated_id: 8080ca92fe79d090e4ff5762627b82c2
   item_date: "2017-05-05 00:00:00"
   title: UK seeks end to end-to-end encryption
   url: http://www.pcworld.com/article/3194910/encryption/uk-seeks-end-to-end-to-end-encryption.html#tk.rss_all
   domain: www.pcworld.com
   image: ""
-- curated_id: 5ae9f6950fe340d2b4b204ca69e6da71
-  item_date: "2017-05-05 00:00:00"
-  title: UK surveillance law still fuzzy on decryption rules for comms providers
-  url: https://techcrunch.com/2017/05/05/uk-surveillance-law-still-fuzzy-on-decryption-rules-for-comms-providers/
-  domain: techcrunch.com
-  image: ""
 - curated_id: 8NbSo6116bEVV5Alxvk0gW123VlIAeQrBNtWytu2MIrvnW0JLMuee116QUvAocbiSqkU7fLs3yXVyE3F0z8SPtlN8SKQ117117
   item_date: "2017-05-05 00:00:00"
   title: Yelp Adds GraphQL Support to Fusion API Introduces Developer Beta Program
   url: https://www.programmableweb.com/news/yelp-adds-graphql-support-to-fusion-api-introduces-developer-beta-program/brief/2017/05/05
   domain: www.programmableweb.com
+  image: ""
+- curated_id: 5ae9f6950fe340d2b4b204ca69e6da71
+  item_date: "2017-05-05 00:00:00"
+  title: UK surveillance law still fuzzy on decryption rules for comms providers
+  url: https://techcrunch.com/2017/05/05/uk-surveillance-law-still-fuzzy-on-decryption-rules-for-comms-providers/
+  domain: techcrunch.com
   image: ""
 - curated_id: TiI2FqkFse0E3aKM5wCYv0jSKOB5eqFp4AXNSzhJ8nvwIKPGH9IWgPPkuAJblpfUk116ayhTikMmEiBJhEhXoz1g117117
   item_date: "2017-05-05 22:23:17"
