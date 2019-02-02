@@ -1,165 +1,226 @@
-- slug: arxan-technologies
-  name: Arxan Technologies
+- slug: apache-avro
+  name: Apache Avro
   description: >-
-    Arxan Technologies is an American technology company specializing in
-    anti-tamper protections for software. The company reports that applications
-    secured by it are running on over 500 million devices.
-  url: 'https://www.arxan.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/Arxan'
-  blog: 'https://www.arxan.com/company/blog/'
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/arxan-logo.png
-  tags: 'Security,Encryption'
-- slug: digicert
-  name: DigiCert
-  description: >-
-    DigiCert is a U.S.-based Certificate Authority located in Lehi, Utah, and
-    has provided SSL Certificates and SSL management tools for over a decade.
-    While other CAs offer a variety of products unrelated to encryption,
-    DigiCert is solely focused on SSL innovation, which is paired with unmatched
-    customer service.
-  url: 'https://www.digicert.com'
-  short_url: ''
-  twitter: 'https://twitter.com/digicert'
-  blog: 'https://blog.digicert.com/'
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/digicert-logo.jpeg
-  tags: 'Encryption,SSL'
-- slug: lets-encrypt
-  name: Lets Encrypt
-  description: >-
-    Let&rsquo;s Encrypt is a free, automated, and open certificate authority
-    (CA), run for the public&rsquo;s benefit. Let&rsquo;s Encrypt is a service
-    provided by the Internet Security Research Group (ISRG).
-  url: 'https://letsencrypt.org/'
-  short_url: ''
-  twitter: 'https://twitter.com/letsencrypt'
-  blog: 'https://letsencrypt.org/blog/'
-  blog_rss: 'https://letsencrypt.org/feed.xml'
-  github: 'https://github.com/letsencrypt'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/About_-_Let_s_Encrypt_-_Free_SSL_TLS_Certificates.png
-  tags: Encryption
-- slug: cloudflare
-  name: CloudFlare
-  description: >-
-    CloudFlare, Inc. is a U.S. company that provides a content delivery network
-    and distributed domain name server services, sitting between the visitor and
-    the CloudFlare user's hosting provider, acting as a reverse proxy for
-    websites. Its network protects, speeds up, and improves availability for a
-    website or mobile application with a change in DNS.&nbsp;
-  url: 'https://www.cloudflare.com'
-  short_url: ''
-  twitter: 'https://twitter.com/CloudFlare'
-  blog: 'https://blog.cloudflare.com/'
-  blog_rss: 'http://blog.cloudflare.com/rss/'
-  github: 'https://github.com/cloudflare'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
-  tags: 'DNS,Partners,My API Stack,Encryption,Security,CDN,DNS New'
-- slug: certificate-transparency
-  name: Certificate Transparency
-  description: >-
-    Google's Certificate Transparency project fixes several structural flaws in
-    the SSL certificate system, which is the main cryptographic system that
-    underlies all HTTPS connections. These flaws weaken the reliability and
-    effectiveness of encrypted Internet connections and can compromise critical
-    TLS/SSL mechanisms, including domain validation, end-to-end encryption, and
-    the chains of trust set up by certificate authorities. If left unchecked,
-    these flaws can facilitate a wide range of security attacks, such as website
-    spoofing, server impersonation, and man-in-the-middle attacks.
-  url: 'http://www.certificate-transparency.org/'
+    Apache Avro is a data serialization system. Avro relies on schemas. When
+    Avro data is read, the schema used when writing it is always present. This
+    permits each datum to be written with no per-value overheads, making
+    serialization both fast and small. This also facilitates use with dynamic,
+    scripting languages, since data, together with its schema, is fully
+    self-describing.
+  url: 'https://avro.apache.org/docs/current/'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Certificate-Transparency.png
-  tags: 'Certificates,SSL,Encryption,Transparency'
-- slug: aws-certificate-manager
-  name: AWS Certificate Manager
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apache-avro.png
+  tags: Definitions
+- slug: api-blueprint
+  name: API Blueprint
   description: >-
-    AWS Certificate Manager is a service that lets you easily provision, manage,
-    and deploy Secure Sockets Layer/Transport Layer Security (SSL/TLS)
-    certificates for use with AWS services. SSL/TLS certificates are used to
-    secure network communications and establish the identity of websites over
-    the Internet. AWS Certificate Manager removes the time-consuming manual
-    process of purchasing, uploading, and renewing SSL/TLS certificates. With
-    AWS Certificate Manager, you can quickly request a certificate, deploy it on
-    AWS resources such as Elastic Load Balancers or Amazon CloudFront
-    distributions, and let AWS Certificate Manager handle certificate renewals.
-    SSL/TLS certificates provisioned through AWS Certificate Manager are free.
-    You pay only for the AWS resources you create to run your application.
-  url: 'https://aws.amazon.com/certificate-manager/'
+    API Blueprint is a documentation-oriented API description language. A couple
+    of semantic assumptions over the plain Markdown. API Blueprint is perfect
+    for designing your Web API and its comprehensive documentation but also for
+    quick prototyping and collaboration. It is easy to learn and even easier to
+    read &ndash; after all it is just a form of plain text.
+  url: 'https://apiblueprint.org/'
+  short_url: ''
+  twitter: 'https://twitter.com/apiblueprint'
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/apiaryio/api-blueprint'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apiblueprint-logo-2.png
+  tags: Definitions
+- slug: api-transformer
+  name: API Transformer
+  description: >-
+    Transform API Descriptions from/to various formats e.g., Swagger, API
+    Blueprint, RAML, WADL, Google Discovery, I/O Docs. Please contact us for
+    production and high volume usage.
+  url: 'https://apitransformer.com/'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_ACM_certificate-manager.png
-  tags: 'Amazon Web Services,Security,Certificates,Encryption'
-- slug: aws-key-management-service
-  name: AWS Key Management Service
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-transformer-screenshot.png
+  tags: 'Definitions,Conversion,My API Stack'
+- slug: elastic-path
+  name: Elastic Path
   description: >-
-    AWS Key Management Service (KMS) is a managed service that makes it easy for
-    you to create and control the encryption keys used to encrypt your data, and
-    uses Hardware Security Modules (HSMs) to protect the security of your keys.
-    AWS Key Management Service is integrated with several other AWS services to
-    help you protect the data you store with these services. AWS Key Management
-    Service is also integrated with AWS CloudTrail to provide you with logs of
-    all key usage to help meet your regulatory and compliance needs.
-  url: 'https://aws.amazon.com/kms/'
+    Elastic Path builds commerce software that powers the next generation of
+    digital experiences, helping businesses generate more revenue from their
+    goods, services, and content. Our products, including Commerce Engine,
+    Cortex, and Subscriptions, enable companies to unite discovery, buying, and
+    consumption into outstanding customer experiences that drive more engagement
+    and conversion.
+  url: 'http://www.elasticpath.com'
+  short_url: ''
+  twitter: 'https://twitter.com/elasticpath'
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/elasticpath'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/elastic-path.jpeg
+  tags: 'Enterprise,Retail,Commerce,Hypermedia,API LIfeycle,Definitions'
+- slug: frictionless-data
+  name: Frictionless Data
+  description: >-
+    Data Packages are a lightweight containerization format for data. They
+    provide the foundation for frictionless data transport.&nbsp;Tools and
+    integrations to make it easy to integrate Data Packages into your data
+    processing and publishing workflows.&nbsp;Learn how to get started using and
+    developing with Data Packages through our guides, tutorials and
+    documentation.
+  url: 'http://specs.frictionlessdata.io/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/frictionlessdata'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/frictionlessdata-logo.png
+  tags: 'Data,Schema,Definitions'
+- slug: postman
+  name: Postman
+  description: >-
+    Postman on Chrome is the most efficient way to test, develop and document
+    APIs. Create complex requests, go back in time and view results in a
+    beautiful way. Postman has more than 80 features to help you at every
+    step.&nbsp;Our user base is growing rapidly and with more tools in the
+    pipeline, Postman aims to provide the most comprehensive API development and
+    testing solution to developers.
+  url: 'http://www.getpostman.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/postmanclient'
+  blog: 'http://blog.getpostman.com/'
+  blog_rss: 'http://blog.getpostman.com/index.php/feed/'
+  github: 'https://github.com/postmanlabs'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/postman-rest-logo.png
+  tags: 'Clients, Testing, Definitions'
+- slug: google-api-discovery-service
+  name: Google API Discovery Service
+  description: >-
+    You can use the Google API Discovery Service to build client libraries, IDE
+    plugins, and other tools that interact with Google APIs. It provides a
+    lightweight, JSON-based API that exposes machine-readable metadata about
+    Google APIs.
+  url: 'https://developers.google.com/discovery/'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-key-management.jpg
-  tags: 'Amazon Web Services,Encryption,Security'
-- slug: aws-cloudhsm
-  name: AWS CloudHSM
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+    Shot 2017-03-16 at 9.06.47 PM.png
+  tags: 'Discovery,Google APIs,Definitions'
+- slug: odata.org
+  name: OData
   description: >-
-    The AWS CloudHSM service helps you meet corporate, contractual and
-    regulatory compliance requirements for data security by using dedicated
-    Hardware Security Module (HSM) appliances within the AWS cloud. With
-    CloudHSM, you control the encryption keys and cryptographic operations
-    performed by the HSM. AWS and AWS Marketplace partners offer a variety of
-    solutions for protecting sensitive data within the AWS platform, but for
-    applications and data subject to rigorous contractual or regulatory
-    requirements for managing cryptographic keys, additional protection is
-    sometimes necessary. Until now, your only option was to store the sensitive
-    data (or the encryption keys protecting the sensitive data) in your
-    on-premises datacenters. Unfortunately, this either prevented you from
-    migrating these applications to the cloud or significantly slowed their
-    performance. The AWS CloudHSM service allows you to protect your encryption
-    keys within HSMs designed and validated to government standards for secure
-    key management. You can securely generate, store, and manage the
-    cryptographic keys used for data encryption such that they are accessible
-    only by you. AWS CloudHSM helps you comply with strict key management
-    requirements without sacrificing application performance. The AWS CloudHSM
-    service works with Amazon Virtual Private Cloud (VPC). CloudHSM instances
-    are provisioned inside your VPC with an IP address that you specify,
-    providing simple and private network connectivity to your Amazon Elastic
-    Compute Cloud (EC2) instances. Placing CloudHSM instances near your EC2
-    instances decreases network latency, which can improve application
-    performance. AWS provides dedicated and exclusive (single tenant) access to
-    CloudHSM instances, isolated from other AWS customers. Available in multiple
-    Regions and Availability Zones (AZs), AWS CloudHSM allows you to add secure
-    and durable key storage to your applications.
-  url: 'https://aws.amazon.com/cloudhsm/'
+    OData (Open Data Protocol) is an OASIS standard that defines the best
+    practice for building and consuming RESTful APIs. OData helps you focus on
+    your business logic while building RESTful APIs without having to worry
+    about the approaches to define request and response headers, status codes,
+    HTTP methods, URL conventions, media types, payload formats and query
+    options etc.
+  url: 'http://www.odata.org/'
+  short_url: 'http://apis.how/byirz5zgt7'
+  twitter: 'https://twitter.com/odataorg'
+  blog: 'http://www.odata.org/blog/'
+  blog_rss: ''
+  github: 'https://github.com/odata'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/odata-logo.png
+  tags: Definitions
+- slug: openapi-spec
+  name: OpenAPIs
+  description: >-
+    The Open API Initiative (OAI) was created by a consortium of forward-looking
+    industry experts who recognize the immense value of standardizing on how
+    REST APIs are described. As an open governance structure under the Linux
+    Foundation, the OAI is focused on creating, evolving and promoting a vendor
+    neutral description format. SmartBear Software is donating the Swagger
+    Specification directly to the OAI as the basis of this Open Specification.
+    &nbsp;
+  url: 'https://openapis.org/'
+  short_url: ''
+  twitter: 'https://twitter.com/openapispec'
+  blog: 'https://openapis.org/news-faq/blog'
+  blog_rss: 'https://www.openapis.org/feed'
+  github: 'https://github.com/OAI'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/oai-logo.png
+  tags: Definitions
+- slug: raml
+  name: RAML
+  description: >-
+    RESTful API Modeling Language (RAML) is a simple and succinct way of
+    describing practically-RESTful APIs. It encourages reuse, enables discovery
+    and pattern-sharing, and aims for merit-based emergence of best practices.
+    The goal is to help our current API ecosystem by solving immediate problems
+    and then encourage ever-better API patterns. RAML is built on broadly-used
+    standards such as YAML and JSON and is a non-proprietary, vendor-neutral
+    open spec.
+  url: 'http://raml.org/'
+  short_url: ''
+  twitter: ''
+  blog: 'http://open-raml.blogspot.com/'
+  blog_rss: 'http://open-raml.blogspot.com/feeds/posts/default?alt=rss'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/raml-logo.jpg
+  tags: Definitions
+- slug: ''
+  name: RESTdesc
+  description: >-
+    Semantic descriptions for hypermedia APIs. RESTdesc allows you to capture
+    the functionality of hypermedia APIs, so automated agents can use them.
+    Despite their powerful capabilities, RESTdesc descriptions are easy to
+    master. Description is not a goal in itself: you want your API to be used.
+    See how RESTdesc opens up your API for discovery, based on its functional
+    characteristics.
+  url: 'http://restdesc.org/'
+  short_url: 'http://apis.how/vymksgxgfl'
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/restdesc-logo.png
+  tags: Definitions
+- slug: schema.org
+  name: Schema.org
+  description: >-
+    Schema.org is a collaborative, community activity with a mission to create,
+    maintain, and promote schemas for structured data on the Internet, on web
+    pages, in email messages, and beyond. Schema.org vocabulary can be used with
+    many different encodings, including RDFa, Microdata and JSON-LD.&nbsp;
+  url: 'http://schema.org'
+  short_url: ''
+  twitter: ''
+  blog: 'http://blog.schema.org/'
+  blog_rss: 'http://blog.schema.org/feeds/posts/default?alt=rss'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/schema-org-logo.jpeg
+  tags: 'Definitions, Schema'
+- slug: u.s.-data-federation
+  name: U.S. Data Federation
+  description: >-
+    The U.S. Data Federation supports data interoperability and harmonization
+    across Federal, state, and local government agencies by highlighting common
+    data formats, API specifications, and metadata vocabularies.
+  url: 'http://federation.data.gov/'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSCloudHSM.png
-  tags: 'Amazon Web Services,Contracts,Regulations,Management,Encryption'
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/usdf-logo.png
+  tags: 'Federal Government,Definitions'
