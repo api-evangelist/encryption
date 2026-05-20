@@ -1,0 +1,133 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/api-evangelist/encryption/refs/heads/main/json-schema/encryption-cmk-schema.json",
+  "title": "CustomerMasterKey",
+  "description": "Represents a customer master key (CMK) or key encryption key (KEK) managed by a KMS, HSM, or key management service. A CMK is the top-level key used to encrypt data encryption keys in envelope encryption patterns.",
+  "type": "object",
+  "properties": {
+    "key_id": {
+      "type": "string",
+      "description": "Provider-assigned unique identifier for the key.",
+      "example": "1234abcd-12ab-34cd-56ef-1234567890ab"
+    },
+    "arn": {
+      "type": "string",
+      "description": "Globally unique resource identifier or ARN for the key.",
+      "example": "arn:aws:kms:us-east-1:111122223333:key/1234abcd-12ab-34cd-56ef-1234567890ab"
+    },
+    "alias": {
+      "type": "string",
+      "description": "Human-readable alias for the key.",
+      "example": "alias/payments-prod"
+    },
+    "description": {
+      "type": "string",
+      "description": "Free-form description of the key's purpose.",
+      "example": "Encrypts cardholder data for the payments service in production."
+    },
+    "provider": {
+      "type": "string",
+      "description": "Key management provider hosting the CMK.",
+      "enum": [
+        "aws-kms",
+        "aws-cloudhsm",
+        "gcp-kms",
+        "azure-key-vault",
+        "hashicorp-vault",
+        "fortanix-dsm",
+        "thales-ciphertrust",
+        "entrust-nshield",
+        "akeyless",
+        "other"
+      ],
+      "example": "aws-kms"
+    },
+    "key_spec": {
+      "type": "string",
+      "description": "Cryptographic specification of the key.",
+      "enum": [
+        "SYMMETRIC_DEFAULT",
+        "AES_128",
+        "AES_256",
+        "RSA_2048",
+        "RSA_3072",
+        "RSA_4096",
+        "ECC_NIST_P256",
+        "ECC_NIST_P384",
+        "ECC_NIST_P521",
+        "ECC_SECG_P256K1",
+        "HMAC_256",
+        "HMAC_384",
+        "HMAC_512",
+        "ML_KEM_1024",
+        "ML_DSA_87"
+      ],
+      "example": "SYMMETRIC_DEFAULT"
+    },
+    "key_usage": {
+      "type": "string",
+      "description": "Primary usage of the key.",
+      "enum": [
+        "ENCRYPT_DECRYPT",
+        "SIGN_VERIFY",
+        "GENERATE_VERIFY_MAC",
+        "KEY_AGREEMENT",
+        "WRAP_UNWRAP"
+      ],
+      "example": "ENCRYPT_DECRYPT"
+    },
+    "origin": {
+      "type": "string",
+      "description": "Where the key material was generated.",
+      "enum": ["AWS_KMS", "EXTERNAL", "AWS_CLOUDHSM", "HSM", "SOFTWARE"],
+      "example": "AWS_KMS"
+    },
+    "state": {
+      "type": "string",
+      "description": "Lifecycle state of the key.",
+      "enum": [
+        "Enabled",
+        "Disabled",
+        "PendingDeletion",
+        "PendingImport",
+        "Unavailable",
+        "Compromised"
+      ],
+      "example": "Enabled"
+    },
+    "rotation_enabled": {
+      "type": "boolean",
+      "description": "Whether automatic key rotation is enabled.",
+      "example": true
+    },
+    "rotation_period_days": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "Rotation period in days.",
+      "example": 365
+    },
+    "multi_region": {
+      "type": "boolean",
+      "description": "Whether the key is replicated across multiple regions.",
+      "example": false
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Timestamp when the key was created.",
+      "example": "2026-05-19T14:21:00Z"
+    },
+    "tags": {
+      "type": "array",
+      "description": "Key/value tags applied to the key.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "key": { "type": "string" },
+          "value": { "type": "string" }
+        }
+      }
+    }
+  },
+  "required": ["key_id", "provider", "key_usage", "state"]
+}

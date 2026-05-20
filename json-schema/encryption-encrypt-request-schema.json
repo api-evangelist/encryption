@@ -1,0 +1,54 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/api-evangelist/encryption/refs/heads/main/json-schema/encryption-encrypt-request-schema.json",
+  "title": "EncryptRequest",
+  "description": "A request to encrypt a plaintext payload using a managed customer master key. Models the common shape used by AWS KMS Encrypt, Google Cloud KMS Encrypt, Azure Key Vault encrypt, and HashiCorp Vault Transit encrypt operations.",
+  "type": "object",
+  "properties": {
+    "key_id": {
+      "type": "string",
+      "description": "Identifier of the CMK or named key used to encrypt the payload.",
+      "example": "alias/payments-prod"
+    },
+    "plaintext": {
+      "type": "string",
+      "contentEncoding": "base64",
+      "description": "Base64-encoded plaintext to be encrypted. Implementations typically cap this at 4 KiB; larger payloads should use envelope encryption with a generated data key.",
+      "example": "U2VjcmV0IFBheW1lbnQgVG9rZW4="
+    },
+    "algorithm": {
+      "type": "string",
+      "description": "Encryption algorithm to apply.",
+      "enum": [
+        "SYMMETRIC_DEFAULT",
+        "AES_256_GCM",
+        "AES_128_GCM",
+        "RSAES_OAEP_SHA_256",
+        "RSAES_OAEP_SHA_1",
+        "SM2PKE",
+        "ML_KEM_1024"
+      ],
+      "example": "SYMMETRIC_DEFAULT"
+    },
+    "encryption_context": {
+      "type": "object",
+      "description": "Additional authenticated data (AAD) bound to the ciphertext. Same context must be provided to decrypt.",
+      "additionalProperties": { "type": "string" },
+      "example": {
+        "tenant_id": "acme",
+        "purpose": "card-encryption"
+      }
+    },
+    "grant_tokens": {
+      "type": "array",
+      "description": "Optional grant tokens authorizing this operation.",
+      "items": { "type": "string" }
+    },
+    "dry_run": {
+      "type": "boolean",
+      "description": "If true, validates the request without performing the encryption.",
+      "example": false
+    }
+  },
+  "required": ["key_id", "plaintext"]
+}

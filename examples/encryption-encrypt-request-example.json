@@ -1,0 +1,12 @@
+{
+  "key_id": "alias/payments-prod",
+  "plaintext": "U2VjcmV0IFBheW1lbnQgVG9rZW4=",
+  "algorithm": "SYMMETRIC_DEFAULT",
+  "encryption_context": {
+    "tenant_id": "acme",
+    "purpose": "card-encryption",
+    "request_id": "req-2026-05-19-001"
+  },
+  "grant_tokens": [],
+  "dry_run": false
+}

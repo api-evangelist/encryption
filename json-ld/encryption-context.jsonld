@@ -1,0 +1,117 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "enc": "https://api-evangelist.github.io/encryption/schema/",
+    "schema": "https://schema.org/",
+    "dcterms": "http://purl.org/dc/terms/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dcat": "https://www.w3.org/ns/dcat#",
+
+    "CustomerMasterKey": "enc:CustomerMasterKey",
+    "EncryptRequest": "enc:EncryptRequest",
+    "DecryptRequest": "enc:DecryptRequest",
+    "DataKey": "enc:DataKey",
+    "Certificate": "enc:Certificate",
+    "Signature": "enc:Signature",
+    "KeyPolicy": "enc:KeyPolicy",
+
+    "name": "schema:name",
+    "description": "schema:description",
+    "provider": "schema:provider",
+
+    "key_id": {
+      "@id": "enc:key_id",
+      "@type": "xsd:string"
+    },
+    "arn": {
+      "@id": "enc:arn",
+      "@type": "xsd:string"
+    },
+    "alias": {
+      "@id": "enc:alias",
+      "@type": "xsd:string"
+    },
+    "key_spec": {
+      "@id": "enc:key_spec",
+      "@type": "xsd:string"
+    },
+    "key_usage": {
+      "@id": "enc:key_usage",
+      "@type": "xsd:string"
+    },
+    "algorithm": {
+      "@id": "enc:algorithm",
+      "@type": "xsd:string"
+    },
+    "origin": {
+      "@id": "enc:origin",
+      "@type": "xsd:string"
+    },
+    "state": {
+      "@id": "enc:state",
+      "@type": "xsd:string"
+    },
+    "rotation_enabled": {
+      "@id": "enc:rotation_enabled",
+      "@type": "xsd:boolean"
+    },
+    "rotation_period_days": {
+      "@id": "enc:rotation_period_days",
+      "@type": "xsd:integer"
+    },
+    "multi_region": {
+      "@id": "enc:multi_region",
+      "@type": "xsd:boolean"
+    },
+    "created_at": {
+      "@id": "dcterms:created",
+      "@type": "xsd:dateTime"
+    },
+    "plaintext": {
+      "@id": "enc:plaintext",
+      "@type": "xsd:base64Binary"
+    },
+    "ciphertext": {
+      "@id": "enc:ciphertext",
+      "@type": "xsd:base64Binary"
+    },
+    "encryption_context": {
+      "@id": "enc:encryption_context",
+      "@container": "@index"
+    },
+    "grant_tokens": {
+      "@id": "enc:grant_tokens",
+      "@container": "@set",
+      "@type": "xsd:string"
+    },
+    "dry_run": {
+      "@id": "enc:dry_run",
+      "@type": "xsd:boolean"
+    },
+    "tags": {
+      "@id": "dcat:keyword",
+      "@container": "@set",
+      "@type": "xsd:string"
+    },
+    "issuer": {
+      "@id": "enc:issuer",
+      "@type": "@id"
+    },
+    "subject": {
+      "@id": "enc:subject",
+      "@type": "@id"
+    },
+    "not_before": {
+      "@id": "enc:not_before",
+      "@type": "xsd:dateTime"
+    },
+    "not_after": {
+      "@id": "enc:not_after",
+      "@type": "xsd:dateTime"
+    },
+    "fingerprint": {
+      "@id": "enc:fingerprint",
+      "@type": "xsd:hexBinary"
+    }
+  }
+}

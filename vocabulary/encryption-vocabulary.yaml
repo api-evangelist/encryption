@@ -1,0 +1,367 @@
+vocabulary: "1.0.0"
+
+info:
+  provider: Encryption
+  description: Vocabulary for the encryption topic, covering managed KMS, HSM, envelope encryption, certificate management, code/artifact signing, end-to-end encryption protocols, and secrets/configuration encryption tooling.
+  created: '2026-05-19'
+  modified: '2026-05-19'
+
+operational:
+  apis:
+    - name: AWS KMS
+      namespace: amazon-kms
+      status: active
+    - name: Google Cloud KMS
+      namespace: google-cloud-kms
+      status: active
+    - name: Azure Key Vault
+      namespace: azure-key-vault
+      status: active
+    - name: HashiCorp Vault
+      namespace: hashicorp-vault
+      status: active
+    - name: Sigstore
+      namespace: sigstore
+      status: active
+    - name: Let's Encrypt
+      namespace: lets-encrypt
+      status: active
+    - name: Tink
+      namespace: tink
+      status: active
+    - name: Signal
+      namespace: signal
+      status: active
+
+  resources:
+    - name: keys
+      description: Customer master keys (CMKs) and key encryption keys (KEKs) managed by a KMS or HSM
+      actions:
+        - list
+        - get
+        - create
+        - rotate
+        - schedule-deletion
+        - enable
+        - disable
+        - tag
+    - name: data-keys
+      description: Data encryption keys (DEKs) generated under a CMK for envelope encryption
+      actions:
+        - generate
+        - generate-without-plaintext
+        - decrypt
+    - name: ciphertext
+      description: Encrypted payloads produced by Encrypt/Decrypt/ReEncrypt operations
+      actions:
+        - encrypt
+        - decrypt
+        - re-encrypt
+    - name: signatures
+      description: Digital signatures over messages, hashes, container images, or software artifacts
+      actions:
+        - sign
+        - verify
+    - name: certificates
+      description: X.509 certificates and certificate authority issuance lifecycle
+      actions:
+        - request
+        - issue
+        - renew
+        - revoke
+        - list
+        - get
+    - name: secrets
+      description: Encrypted secrets, environment variables, and configuration values
+      actions:
+        - put
+        - get
+        - list
+        - rotate
+        - delete
+    - name: policies
+      description: Key policies, IAM grants, and access control bound to cryptographic resources
+      actions:
+        - get
+        - put
+        - list
+
+  actions:
+    - name: list
+      description: Enumerate cryptographic resources
+      httpMethod: GET
+      pattern: read
+    - name: get
+      description: Retrieve a single cryptographic resource
+      httpMethod: GET
+      pattern: read
+    - name: create
+      description: Create a new key, certificate, or secret
+      httpMethod: POST
+      pattern: write
+    - name: rotate
+      description: Generate new key material or certificate while preserving identity
+      httpMethod: POST
+      pattern: write
+    - name: encrypt
+      description: Encrypt plaintext under a CMK or named key
+      httpMethod: POST
+      pattern: cryptographic
+    - name: decrypt
+      description: Decrypt ciphertext back to plaintext
+      httpMethod: POST
+      pattern: cryptographic
+    - name: re-encrypt
+      description: Re-encrypt ciphertext under a different CMK without exposing plaintext
+      httpMethod: POST
+      pattern: cryptographic
+    - name: sign
+      description: Produce a digital signature over a payload or hash
+      httpMethod: POST
+      pattern: cryptographic
+    - name: verify
+      description: Verify a digital signature against a payload or hash
+      httpMethod: POST
+      pattern: read
+    - name: generate
+      description: Generate a new data key, IV, or random byte stream
+      httpMethod: POST
+      pattern: cryptographic
+    - name: issue
+      description: Issue a new X.509 certificate from a CA
+      httpMethod: POST
+      pattern: write
+    - name: revoke
+      description: Revoke a certificate or compromise a key
+      httpMethod: POST
+      pattern: destructive
+    - name: schedule-deletion
+      description: Schedule pending deletion of a key with a waiting period
+      httpMethod: POST
+      pattern: destructive
+
+  schemas:
+    core:
+      - name: CustomerMasterKey
+        description: A top-level key managed by a KMS or HSM, used to wrap data encryption keys
+        properties:
+          - key_id
+          - provider
+          - key_spec
+          - key_usage
+          - state
+          - rotation_enabled
+      - name: EncryptRequest
+        description: A request to encrypt plaintext under a CMK
+        properties:
+          - key_id
+          - plaintext
+          - algorithm
+          - encryption_context
+      - name: Certificate
+        description: An X.509 certificate issued by a CA
+        properties:
+          - subject
+          - issuer
+          - not_before
+          - not_after
+          - fingerprint
+      - name: Signature
+        description: A digital signature over a payload or hash
+        properties:
+          - key_id
+          - algorithm
+          - signature
+          - message
+
+  enums:
+    key_specs:
+      - SYMMETRIC_DEFAULT
+      - AES_128
+      - AES_256
+      - RSA_2048
+      - RSA_3072
+      - RSA_4096
+      - ECC_NIST_P256
+      - ECC_NIST_P384
+      - ECC_NIST_P521
+      - ECC_SECG_P256K1
+      - HMAC_256
+      - HMAC_384
+      - HMAC_512
+      - ML_KEM_1024
+      - ML_DSA_87
+    key_usages:
+      - ENCRYPT_DECRYPT
+      - SIGN_VERIFY
+      - GENERATE_VERIFY_MAC
+      - KEY_AGREEMENT
+      - WRAP_UNWRAP
+    encryption_algorithms:
+      - AES_256_GCM
+      - AES_128_GCM
+      - ChaCha20-Poly1305
+      - RSAES_OAEP_SHA_256
+      - RSAES_OAEP_SHA_1
+      - ML_KEM_1024
+    signature_algorithms:
+      - RSASSA_PSS_SHA_256
+      - RSASSA_PKCS1_V1_5_SHA_256
+      - ECDSA_SHA_256
+      - ECDSA_SHA_384
+      - Ed25519
+      - ML_DSA_87
+    key_lifecycle_states:
+      - Enabled
+      - Disabled
+      - PendingDeletion
+      - PendingImport
+      - Unavailable
+      - Compromised
+
+capability:
+  workflows:
+    - name: Envelope Encryption of Application Data
+      description: Generate a DEK under a CMK, encrypt application data with the DEK locally, store the encrypted DEK alongside the ciphertext, and decrypt by unwrapping the DEK through the KMS
+      apis:
+        - amazon-kms
+        - google-cloud-kms
+        - azure-key-vault
+        - hashicorp-vault
+      personas:
+        - Application Developer
+      domains:
+        - Key Management
+    - name: TLS Certificate Issuance and Renewal
+      description: Request and renew X.509 certificates from a public or private CA, automating provisioning through ACME or CA REST APIs
+      apis:
+        - lets-encrypt
+        - digicert
+        - amazon-private-ca
+      personas:
+        - Platform Engineer
+      domains:
+        - Certificate Management
+    - name: Software Artifact Signing
+      description: Sign container images, binaries, and SBOMs using keyless OIDC-bound identities with transparency log attestation, then verify at deploy time
+      apis:
+        - sigstore
+        - cosign
+        - notary
+        - tuf
+      personas:
+        - Release Engineer
+      domains:
+        - Code Signing
+    - name: End-to-End Encrypted Messaging
+      description: Establish forward-secret encrypted sessions between users with prekey bundles and double-ratchet key derivation, decrypting only on endpoints
+      apis:
+        - signal
+        - matrix
+      personas:
+        - Application Developer
+      domains:
+        - End-to-End Encryption
+    - name: Secrets Management for Workloads
+      description: Issue, encrypt, rotate, and audit access to secrets used by applications and pipelines, integrating with a cloud KMS as the trust root
+      apis:
+        - hashicorp-vault
+        - doppler
+        - sops
+        - google-cloud-secret-manager
+      personas:
+        - Platform Engineer
+      domains:
+        - Secrets Management
+
+  personas:
+    - id: application-developer
+      name: Application Developer
+      description: Developers integrating encryption SDKs and KMS APIs into application code
+      workflows:
+        - Envelope Encryption of Application Data
+        - End-to-End Encrypted Messaging
+    - id: platform-engineer
+      name: Platform Engineer
+      description: Engineers responsible for certificate, key, and secrets infrastructure across the organization
+      workflows:
+        - TLS Certificate Issuance and Renewal
+        - Secrets Management for Workloads
+    - id: release-engineer
+      name: Release Engineer
+      description: Engineers responsible for build, signing, and supply chain integrity of released software
+      workflows:
+        - Software Artifact Signing
+    - id: security-engineer
+      name: Security Engineer
+      description: Engineers defining cryptographic policy, key rotation, and incident response for compromised material
+      workflows:
+        - Envelope Encryption of Application Data
+        - Secrets Management for Workloads
+    - id: compliance-officer
+      name: Compliance Officer
+      description: Stakeholders ensuring cryptographic controls meet PCI, HIPAA, FIPS 140-3, and other regulatory requirements
+      workflows:
+        - TLS Certificate Issuance and Renewal
+        - Software Artifact Signing
+
+  domains:
+    - name: Key Management
+      description: Lifecycle management of cryptographic keys including creation, rotation, and destruction
+    - name: Certificate Management
+      description: Issuance, renewal, and revocation of X.509 certificates from public and private CAs
+    - name: Code Signing
+      description: Signing and verification of software artifacts, container images, and SBOMs
+    - name: End-to-End Encryption
+      description: Protocols and SDKs providing encryption from endpoint to endpoint without server access to plaintext
+    - name: Secrets Management
+      description: Encrypted storage, distribution, and rotation of application secrets and configuration
+
+crossReference:
+  - resource: keys
+    operations:
+      - create
+      - rotate
+      - schedule-deletion
+    workflows:
+      - Envelope Encryption of Application Data
+    personas:
+      - Application Developer
+      - Security Engineer
+  - resource: data-keys
+    operations:
+      - generate
+      - decrypt
+    workflows:
+      - Envelope Encryption of Application Data
+    personas:
+      - Application Developer
+  - resource: certificates
+    operations:
+      - request
+      - issue
+      - renew
+      - revoke
+    workflows:
+      - TLS Certificate Issuance and Renewal
+    personas:
+      - Platform Engineer
+      - Compliance Officer
+  - resource: signatures
+    operations:
+      - sign
+      - verify
+    workflows:
+      - Software Artifact Signing
+    personas:
+      - Release Engineer
+  - resource: secrets
+    operations:
+      - put
+      - get
+      - rotate
+    workflows:
+      - Secrets Management for Workloads
+    personas:
+      - Platform Engineer
+      - Security Engineer
