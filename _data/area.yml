@@ -1,0 +1,195 @@
+meta:
+  name: Encryption
+  description: An index and topic collection covering encryption services, key management
+    systems (KMS), hardware security modules (HSM), envelope encryption, end-to-end
+    encryption SDKs, certificate management, and code/data signing. This topic gathers
+    the cryptographic primitives, managed services, and open-source libraries that
+    protect data at rest and in transit across cloud, mobile, web, and supply-chain
+    workloads. It includes managed KMS offerings (AWS KMS, Google Cloud KMS, Azure
+    Key Vault), HSM and enterprise key management platforms, secrets and configuration
+    encryption tooling (HashiCorp Vault, Doppler, SOPS), code- and artifact-signing
+    infrastructure (Sigstore, Cosign, Notary, TUF), end-to-end encrypted messaging
+    protocols (Signal, Matrix), and certificate authority APIs (Let's Encrypt, DigiCert,
+    Amazon Private CA). Distinct from the broader Security topic, this collection
+    focuses specifically on cryptography, keys, certificates, and signing.
+  tags:
+  - Encryption
+  - KMS
+  - HSM
+  - Cryptography
+  - Key Management
+  - Certificate Management
+  - Code Signing
+  - End-to-End Encryption
+  portal: https://apievangelist.com
+  github: https://github.com/api-evangelist
+  repo: encryption
+services_tools:
+- name: Amazon KMS
+  repo: https://github.com/api-evangelist/amazon-kms
+  apisio: https://providers.apis.io/providers/amazon-kms/
+- name: Amazon Payment Cryptography
+  repo: https://github.com/api-evangelist/amazon-payment-cryptography
+  apisio: https://providers.apis.io/providers/amazon-payment-cryptography/
+- name: Amazon Private CA
+  repo: https://github.com/api-evangelist/amazon-private-ca
+  apisio: https://providers.apis.io/providers/amazon-private-ca/
+- name: Amazon Signer
+  repo: https://github.com/api-evangelist/amazon-signer
+  apisio: https://providers.apis.io/providers/amazon-signer/
+- name: Apple Pay
+  repo: https://github.com/api-evangelist/apple-pay
+  apisio: https://providers.apis.io/providers/apple-pay/
+- name: Azure Key Vault
+  repo: https://github.com/api-evangelist/azure-key-vault
+  apisio: https://providers.apis.io/providers/azure-key-vault/
+- name: Cosign
+  repo: https://github.com/api-evangelist/cosign
+  apisio: https://providers.apis.io/providers/cosign/
+- name: DigiCert
+  repo: https://github.com/api-evangelist/digicert
+  apisio: https://providers.apis.io/providers/digicert/
+- name: Doppler
+  repo: https://github.com/api-evangelist/doppler
+  apisio: https://providers.apis.io/providers/doppler/
+- name: Google Cloud KMS
+  repo: https://github.com/api-evangelist/google-cloud-kms
+  apisio: https://providers.apis.io/providers/google-cloud-kms/
+- name: Google Cloud Secret Manager
+  repo: https://github.com/api-evangelist/google-cloud-secret-manager
+  apisio: https://providers.apis.io/providers/google-cloud-secret-manager/
+- name: HashiCorp Vault
+  repo: https://github.com/api-evangelist/hashicorp-vault
+  apisio: https://providers.apis.io/providers/hashicorp-vault/
+- name: Let's Encrypt
+  repo: https://github.com/api-evangelist/lets-encrypt
+  apisio: https://providers.apis.io/providers/lets-encrypt/
+- name: Lit Protocol
+  repo: https://github.com/api-evangelist/lit-protocol
+  apisio: https://providers.apis.io/providers/lit-protocol/
+- name: Matrix
+  repo: https://github.com/api-evangelist/matrix
+  apisio: https://providers.apis.io/providers/matrix/
+- name: Notary Project
+  repo: https://github.com/api-evangelist/notary
+  apisio: https://providers.apis.io/providers/notary/
+- name: OpenSSF
+  repo: https://github.com/api-evangelist/openssf
+  apisio: https://providers.apis.io/providers/openssf/
+- name: OpenWallet Foundation
+  repo: https://github.com/api-evangelist/openwallet-foundation
+  apisio: https://providers.apis.io/providers/openwallet-foundation/
+- name: Signal
+  repo: https://github.com/api-evangelist/signal
+  apisio: https://providers.apis.io/providers/signal/
+- name: Sigstore
+  repo: https://github.com/api-evangelist/sigstore
+  apisio: https://providers.apis.io/providers/sigstore/
+- name: SOPS
+  repo: https://github.com/api-evangelist/sops
+  apisio: https://providers.apis.io/providers/sops/
+- name: SPIFFE
+  repo: https://github.com/api-evangelist/spiffe
+  apisio: https://providers.apis.io/providers/spiffe/
+- name: SSH
+  repo: https://github.com/api-evangelist/ssh
+  apisio: https://providers.apis.io/providers/ssh/
+- name: Symantec
+  repo: https://github.com/api-evangelist/symantec
+  apisio: https://providers.apis.io/providers/symantec/
+- name: Symphony
+  repo: https://github.com/api-evangelist/symphony
+  apisio: https://providers.apis.io/providers/symphony/
+- name: Tink
+  repo: https://github.com/api-evangelist/tink
+  apisio: https://providers.apis.io/providers/tink/
+- name: The Update Framework
+  repo: https://github.com/api-evangelist/tuf
+  apisio: https://providers.apis.io/providers/tuf/
+features:
+- name: Managed Key Management Services
+  description: Cloud KMS offerings like AWS KMS, Google Cloud KMS, and Azure Key Vault
+    provide managed creation, rotation, and lifecycle of cryptographic keys with hardware-backed
+    protection and IAM-controlled access.
+- name: Hardware Security Module APIs
+  description: Network-attached HSMs and HSM-backed services such as AWS CloudHSM,
+    Azure Dedicated HSM, and Google Cloud HSM expose tamper-resistant cryptographic
+    operations through PKCS#11 and REST APIs.
+- name: Envelope Encryption Patterns
+  description: Envelope encryption wraps data encryption keys (DEKs) with key encryption
+    keys (KEKs) stored in a KMS, enabling scalable encryption of large data sets while
+    centralizing key control.
+- name: End-to-End Encryption Protocols
+  description: Open protocols like Signal, Matrix Olm/Megolm, and MLS provide forward-secret,
+    deniable end-to-end encryption for messaging, calling, and collaboration applications.
+- name: Certificate Lifecycle Automation
+  description: ACME-based services like Let's Encrypt, alongside enterprise CAs like
+    DigiCert and Amazon Private CA, automate issuance, renewal, and revocation of
+    TLS and code-signing certificates.
+- name: Code and Artifact Signing
+  description: Sigstore, Cosign, Notary, and TUF provide keyless and key-based signing
+    of container images, binaries, and software packages with transparency-log-backed
+    verification.
+- name: Secrets and Configuration Encryption
+  description: Tools like HashiCorp Vault, Doppler, and SOPS encrypt secrets, environment
+    variables, and configuration files in transit and at rest, integrating with KMS
+    providers and CI/CD pipelines.
+- name: Open-Source Cryptographic Libraries
+  description: Libraries like Google Tink, libsodium, OpenSSL, and BoringSSL provide
+    misuse-resistant primitives for symmetric, asymmetric, AEAD, hashing, and digital
+    signature operations.
+use_cases:
+- name: Encrypting Data at Rest in the Cloud
+  description: Applications use cloud KMS APIs to encrypt database fields, S3 objects,
+    and disk volumes with envelope encryption, ensuring keys never leave a managed
+    boundary while data ciphertext can be stored anywhere.
+- name: TLS Termination and Certificate Renewal
+  description: Web platforms automate TLS certificate provisioning and rotation through
+    ACME (Let's Encrypt) or enterprise CA APIs (DigiCert, Amazon Private CA), keeping
+    in-transit encryption healthy without manual operations.
+- name: Software Supply Chain Signing
+  description: Build pipelines sign container images and binaries with Sigstore/Cosign,
+    anchoring artifacts to transparency logs so downstream consumers can verify provenance
+    before deploying.
+- name: End-to-End Encrypted Messaging and Collaboration
+  description: Messaging applications integrate Signal protocol, Matrix Olm/Megolm,
+    or MLS to provide forward-secret encryption where neither the service operator
+    nor an attacker can read message content.
+- name: Secrets Management for CI/CD
+  description: HashiCorp Vault, Doppler, and SOPS encrypt secrets used across CI/CD
+    pipelines, source control, and runtime environments, integrating with cloud KMS
+    for sealed storage and audit logging.
+- name: Tokenization and Payment Cryptography
+  description: Payment processors and PCI workloads use services like AWS Payment
+    Cryptography and Apple Pay tokenization to perform PIN translation, card encryption,
+    and EMV operations under FIPS-validated HSMs.
+- name: Workload Identity and Zero-Trust Cryptography
+  description: SPIFFE/SPIRE issue short-lived, cryptographically verifiable workload
+    identities (SVIDs) so services can mutually authenticate without long-lived secrets
+    across multi-cloud environments.
+integrations:
+- name: AWS KMS
+  description: Managed key creation, envelope encryption, and HSM-backed cryptographic
+    operations integrated across AWS services and accessible via SDK and REST APIs.
+- name: Google Cloud KMS
+  description: Multi-region, software- and HSM-backed key management for envelope
+    encryption and signing across GCP services and external KMS scenarios.
+- name: Azure Key Vault
+  description: Centralized key, secret, and certificate management with HSM-backed
+    key protection and tight integration into Azure services and Entra ID.
+- name: HashiCorp Vault
+  description: Open-source secrets management with a Transit engine for encryption-as-a-service,
+    PKI engine for certificate issuance, and KMIP server for HSM integration.
+- name: Sigstore
+  description: Free, keyless software signing infrastructure built around Fulcio (CA),
+    Rekor (transparency log), and Cosign (signing CLI), now broadly used for OSS supply
+    chain integrity.
+- name: Let's Encrypt
+  description: Free, automated ACME-based certificate authority issuing billions of
+    TLS certificates that underpin in-transit encryption for the public web.
+- name: Tink
+  description: Google's misuse-resistant cryptography library providing AEAD, MAC,
+    hybrid encryption, and signature primitives with pluggable KMS backends.
+- name: Signal Protocol
+  description: Forward-secret, end-to-end encryption protocol used by Signal, WhatsApp,
+    and others, providing double-ratchet key derivation and prekey-based async messaging.

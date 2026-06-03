@@ -1,0 +1,27 @@
+title: Encryption
+description: An index and topic collection covering encryption services, key management
+  systems (KMS), hardware security modules (HSM), envelope encryption, end-to-end
+  encryption SDKs, certificate management, and code/data signing. This topic gathers
+  the cryptographic primitives, managed services, and open-source libraries that protect
+  data at rest and in transit across cloud, mobile, web, and supply-chain workloads.
+  It includes managed KMS offerings (AWS KMS, Google Cloud KMS, Azure Key Vault),
+  HSM and enterprise key management platforms, secrets and configuration encryption
+  tooling (HashiCorp Vault, Doppler, SOPS), code- and artifact-signing infrastructure
+  (Sigstore, Cosign, Notary, TUF), end-to-end encrypted messaging protocols (Signal,
+  Matrix), and certificate authority APIs (Let's Encrypt, DigiCert, Amazon Private
+  CA). Distinct from the broader Security topic, this collection focuses specifically
+  on cryptography, keys, certificates, and signing.
+url: https://encryption.apievangelist.com
+collections:
+  api_stories:
+    output: false
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- Dockerfile
+- examples
+- json-ld
+- json-schema
+- json-structure
+- vocabulary
