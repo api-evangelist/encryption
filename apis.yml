@@ -9,7 +9,7 @@ description: >-
   messaging protocols (Signal, Matrix), and certificate authority APIs (Let's Encrypt, DigiCert, Amazon Private CA). Distinct from the broader
   Security topic, this collection focuses specifically on cryptography, keys, certificates, and signing.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
 - Encryption
 - KMS
