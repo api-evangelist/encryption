@@ -4,11 +4,6 @@ related:
   icon: https://gateway.apievangelist.com/icon.png
   description: A collection of services, tooling, and open source solutions for API gateway management
     and traffic control, covering routing, authentication, rate limiting, observability, and…
-- name: Pro-Code API Composition
-  url: https://pro-code-api-composition.apievangelist.com
-  icon: https://pro-code-api-composition.apievangelist.com/icon.png
-  description: An index of pro-code API composition service and tooling repos being tracked by the API
-    Evangelist network, covering workflow engines, code-first platforms, serverless…
 - name: SDKs
   url: https://sdk.apievangelist.com
   icon: https://sdk.apievangelist.com/icon.png
@@ -29,3 +24,8 @@ related:
   icon: https://ide.apievangelist.com/icon.png
   description: An index and topic collection covering integrated development environments (IDEs), code
     editors, and cloud workspaces with APIs. This topic captures the editors, IDEs, and…
+- name: Deprecation
+  url: https://deprecation.apievangelist.com
+  icon: https://deprecation.apievangelist.com/icon.png
+  description: API deprecation, sunset headers, end-of-life management, and API retirement practices,
+    including RFC 8594 Sunset, the Deprecation header, OpenAPI deprecation flags, and consumer…
