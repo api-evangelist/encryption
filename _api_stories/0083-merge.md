@@ -1,7 +1,7 @@
 ---
-title: How to connect a Calendly MCP with Claude Code (4 steps)
-link: https://www.merge.dev/blog/calendly-mcp-claude-code
-published: '2026-05-08'
+title: How to connect a OneNote MCP with Codex (4 steps)
+link: https://www.merge.dev/blog/onenote-mcp-codex
+published: '2026-06-10'
 provider: merge
 repo: https://github.com/api-evangelist/merge
 domain: www.merge.dev
