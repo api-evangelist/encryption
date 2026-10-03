@@ -1,7 +1,7 @@
 ---
-title: Add a Runnable Coupa MCP Quickstart (With Code) - 2026 Guide
-link: https://truto.one/blog/add-runnable-coupa-mcp-quickstart-with-code-2026-guide/
-published: '2026-05-26'
+title: 'Transform Code & MCP Examples: A Hands-On Engineering Guide for SaaS APIs'
+link: https://truto.one/blog/hands-on-engineering-guide-transform-code-mcp-examples-for-saas/
+published: '2026-05-27'
 provider: truto
 repo: https://github.com/api-evangelist/truto
 domain: truto.one
