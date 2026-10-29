@@ -1,120 +1,97 @@
-# Encryption (encryption)
+# Encryption
+
+<!-- API-EVANGELIST-PROVENANCE:BEGIN -->
+> ### About this repository
+>
+> **This is not our API.** This repository is an independent, third-party profile of a company's
+> **publicly available** API surface, maintained by [API Evangelist](https://apievangelist.com).
+> API Evangelist does not operate, host, resell, or support this company's APIs, and is not
+> affiliated with or endorsed by the company unless stated on the profile.
+>
+> **Where the information came from.** Everything here is assembled from material a member of the
+> public can reach with a browser and no credentials — the company's own website, developer portal
+> and documentation, the specifications it publishes for public use (OpenAPI, AsyncAPI, JSON Schema,
+> `apis.json`, `llms.txt` and similar), its public repositories, and its public status, pricing and
+> changelog pages. **Nothing here is obtained by breaching a system, defeating an access control, or
+> using credentials of any kind.**
+>
+> **The rating is an independent assessment.** The Kin Score and Agent Readiness rating are
+> independently calculated scores of a company's *public* API artifacts, produced by API Evangelist
+> against a published rubric. They are not certifications, endorsements, security assessments, or
+> audits, and they score published artifacts — not the quality, safety, or security of the software.
+>
+> **Corrections, re-scores, and removal are free.** No partnership, contract, or purchase is
+> required, and you do not need to justify the request.
+>
+> - **Something wrong?** Open an issue on this repository, or email
+>   [info@apievangelist.com](mailto:info@apievangelist.com).
+> - **Published something new?** Ask for a re-score and we will re-run the rating.
+> - **Want the listing taken down?** Say so and we will honor it. The profile is reduced to your
+>   company name, a factual description, and a link to your own site, and the company is recorded as
+>   **unrated** — never scored zero for having asked.
+>
+> **Response times.** Acknowledgement within **one business day**; removal or restriction within
+> **two business days**; corrections and re-scores within **five business days**.
+>
+> **Not from the company, and here with a question?** You are welcome here — we would rather be the
+> front line and point you the right way than have a good report go nowhere. What this repository
+> can answer is narrow, though, so it is worth knowing who you are actually looking for:
+>
+> - **A question about how the API works, an account, billing, or a bug in the service** — that is
+>   the company's own support, not us. We profile this API; we do not operate it and cannot see
+>   your account.
+> - **A bug in an open-source project we only catalog** — file it on that project's own repository.
+>   This has happened with a real and correct bug report that reached us instead of the people who
+>   could fix it, which helped nobody.
+> - **Anything about this listing itself** — the description, the tags, the rating, a missing or
+>   wrong artifact — is ours. Open an issue here.
+> - **Not sure, or something general about API Evangelist or APIs.io** — open an issue on the
+>   [APIs.io Inbox](https://github.com/api-search/inbox) and we will route it.
+>
+> **This repository contains no software, and we will never ask you to download anything.** There is
+> no build, release, installer, or binary here — only text and machine-readable API descriptions, so
+> there is nothing here that can be "corrupt" or need "repairing". Any issue, comment, or email
+> claiming otherwise and offering a download link is not from us and is hostile. Do not follow the
+> link; it is a lure. Report it to GitHub and, if you like, tell us at
+> [info@apievangelist.com](mailto:info@apievangelist.com) so we can take it down.
+>
+> **On a security or compliance team?** Email
+> [info@apievangelist.com](mailto:info@apievangelist.com) with *security* in the subject line and
+> you will get a person, not a form. We will tell you exactly which public URLs this profile was
+> built from so your team can see the same surface we did, and we will take the listing down on
+> request while you work through it.
+>
+> Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
+<!-- API-EVANGELIST-PROVENANCE:END -->
+
 An index and topic collection covering encryption services, key management systems (KMS), hardware security modules (HSM), envelope encryption, end-to-end encryption SDKs, certificate management, and code/data signing. This topic gathers the cryptographic primitives, managed services, and open-source libraries that protect data at rest and in transit across cloud, mobile, web, and supply-chain workloads. It includes managed KMS offerings (AWS KMS, Google Cloud KMS, Azure Key Vault), HSM and enterprise key management platforms, secrets and configuration encryption tooling (HashiCorp Vault, Doppler, SOPS), code- and artifact-signing infrastructure (Sigstore, Cosign, Notary, TUF), end-to-end encrypted messaging protocols (Signal, Matrix), and certificate authority APIs (Let's Encrypt, DigiCert, Amazon Private CA). Distinct from the broader Security topic, this collection focuses specifically on cryptography, keys, certificates, and signing.
 
-**URL:** [https://apievangelist.com](https://apievangelist.com)
+**Areas:** Encryption · KMS · HSM · Cryptography · Key Management · Certificate Management · Code Signing · End-to-End Encryption
 
-## Tags:
+## Encryption on APIs.io
 
- - Encryption, KMS, HSM, Cryptography, Key Management, Certificate Management, Code Signing, End-to-End Encryption
+Everything profiled for Encryption is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/encryption/](https://apis.io/providers/encryption/)** — or go straight to one of the APIs or properties below.
 
-## Timestamps
+## Where to find this API
 
-- **Created:** 2026-05-19
-- **Modified:** 2026-05-19
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-## Common Properties
+- [GitHub](https://github.com/api-evangelist)
 
-- [Portal](https://apievangelist.com)
-- [GitHubOrganization](https://github.com/api-evangelist)
-- [JSONSchema - Customer Master Key Schema](https://raw.githubusercontent.com/api-evangelist/encryption/refs/heads/main/json-schema/encryption-cmk-schema.json)
-- [JSONSchema - Encrypt Request Schema](https://raw.githubusercontent.com/api-evangelist/encryption/refs/heads/main/json-schema/encryption-encrypt-request-schema.json)
-- [JSON-LD](https://raw.githubusercontent.com/api-evangelist/encryption/refs/heads/main/json-ld/encryption-context.jsonld)
-- [Vocabulary](https://raw.githubusercontent.com/api-evangelist/encryption/refs/heads/main/vocabulary/encryption-vocabulary.yaml)
+## API Evangelist rating
 
-## Features
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-| Name | Description |
-|------|-------------|
-| Managed Key Management Services | Cloud KMS offerings like AWS KMS, Google Cloud KMS, and Azure Key Vault provide managed creation, rotation, and lifecycle of cryptographic keys with hardware-backed protection and IAM-controlled access. |
-| Hardware Security Module APIs | Network-attached HSMs and HSM-backed services such as AWS CloudHSM, Azure Dedicated HSM, and Google Cloud HSM expose tamper-resistant cryptographic operations through PKCS#11 and REST APIs. |
-| Envelope Encryption Patterns | Envelope encryption wraps data encryption keys (DEKs) with key encryption keys (KEKs) stored in a KMS, enabling scalable encryption of large data sets while centralizing key control. |
-| End-to-End Encryption Protocols | Open protocols like Signal, Matrix Olm/Megolm, and MLS provide forward-secret, deniable end-to-end encryption for messaging, calling, and collaboration applications. |
-| Certificate Lifecycle Automation | ACME-based services like Let's Encrypt, alongside enterprise CAs like DigiCert and Amazon Private CA, automate issuance, renewal, and revocation of TLS and code-signing certificates. |
-| Code and Artifact Signing | Sigstore, Cosign, Notary, and TUF provide keyless and key-based signing of container images, binaries, and software packages with transparency-log-backed verification. |
-| Secrets and Configuration Encryption | Tools like HashiCorp Vault, Doppler, and SOPS encrypt secrets, environment variables, and configuration files in transit and at rest, integrating with KMS providers and CI/CD pipelines. |
-| Open-Source Cryptographic Libraries | Libraries like Google Tink, libsodium, OpenSSL, and BoringSSL provide misuse-resistant primitives for symmetric, asymmetric, AEAD, hashing, and digital signature operations. |
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
-## Use Cases
+## How this profile is made
 
-| Name | Description |
-|------|-------------|
-| Encrypting Data at Rest in the Cloud | Applications use cloud KMS APIs to encrypt database fields, S3 objects, and disk volumes with envelope encryption, ensuring keys never leave a managed boundary while data ciphertext can be stored anywhere. |
-| TLS Termination and Certificate Renewal | Web platforms automate TLS certificate provisioning and rotation through ACME (Let's Encrypt) or enterprise CA APIs (DigiCert, Amazon Private CA), keeping in-transit encryption healthy without manual operations. |
-| Software Supply Chain Signing | Build pipelines sign container images and binaries with Sigstore/Cosign, anchoring artifacts to transparency logs so downstream consumers can verify provenance before deploying. |
-| End-to-End Encrypted Messaging and Collaboration | Messaging applications integrate Signal protocol, Matrix Olm/Megolm, or MLS to provide forward-secret encryption where neither the service operator nor an attacker can read message content. |
-| Secrets Management for CI/CD | HashiCorp Vault, Doppler, and SOPS encrypt secrets used across CI/CD pipelines, source control, and runtime environments, integrating with cloud KMS for sealed storage and audit logging. |
-| Tokenization and Payment Cryptography | Payment processors and PCI workloads use services like AWS Payment Cryptography and Apple Pay tokenization to perform PIN translation, card encryption, and EMV operations under FIPS-validated HSMs. |
-| Workload Identity and Zero-Trust Cryptography | SPIFFE/SPIRE issue short-lived, cryptographically verifiable workload identities (SVIDs) so services can mutually authenticate without long-lived secrets across multi-cloud environments. |
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## Integrations
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Encryption: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-| Name | Description |
-|------|-------------|
-| AWS KMS | Managed key creation, envelope encryption, and HSM-backed cryptographic operations integrated across AWS services and accessible via SDK and REST APIs. |
-| Google Cloud KMS | Multi-region, software- and HSM-backed key management for envelope encryption and signing across GCP services and external KMS scenarios. |
-| Azure Key Vault | Centralized key, secret, and certificate management with HSM-backed key protection and tight integration into Azure services and Entra ID. |
-| HashiCorp Vault | Open-source secrets management with a Transit engine for encryption-as-a-service, PKI engine for certificate issuance, and KMIP server for HSM integration. |
-| Sigstore | Free, keyless software signing infrastructure built around Fulcio (CA), Rekor (transparency log), and Cosign (signing CLI), now broadly used for OSS supply chain integrity. |
-| Let's Encrypt | Free, automated ACME-based certificate authority issuing billions of TLS certificates that underpin in-transit encryption for the public web. |
-| Tink | Google's misuse-resistant cryptography library providing AEAD, MAC, hybrid encryption, and signature primitives with pluggable KMS backends. |
-| Signal Protocol | Forward-secret, end-to-end encryption protocol used by Signal, WhatsApp, and others, providing double-ratchet key derivation and prekey-based async messaging. |
+## Open an issue
 
-## Artifacts
-
-Machine-readable API specifications organized by format.
-
-### JSON Schema
-
-- [Customer Master Key Schema](json-schema/encryption-cmk-schema.json)
-- [Encrypt Request Schema](json-schema/encryption-encrypt-request-schema.json)
-
-### JSON Structure
-
-- [Customer Master Key Structure](json-structure/encryption-cmk-structure.json)
-- [Encrypt Request Structure](json-structure/encryption-encrypt-request-structure.json)
-
-### JSON-LD
-
-- [Encryption Context](json-ld/encryption-context.jsonld)
-
-## Vocabulary
-
-- [Encryption Vocabulary](vocabulary/encryption-vocabulary.yaml) — Unified taxonomy mapping resources, actions, workflows, and personas across KMS, HSM, certificate management, end-to-end encryption, and code signing.
-
-## Network
-
-This index references the following encryption, KMS, HSM, certificate, and signing repositories:
-
-- [Amazon KMS](https://github.com/api-evangelist/amazon-kms)
-- [Amazon Payment Cryptography](https://github.com/api-evangelist/amazon-payment-cryptography)
-- [Amazon Private CA](https://github.com/api-evangelist/amazon-private-ca)
-- [Amazon Signer](https://github.com/api-evangelist/amazon-signer)
-- [Apple Pay](https://github.com/api-evangelist/apple-pay)
-- [Azure Key Vault](https://github.com/api-evangelist/azure-key-vault)
-- [Cosign](https://github.com/api-evangelist/cosign)
-- [DigiCert](https://github.com/api-evangelist/digicert)
-- [Doppler](https://github.com/api-evangelist/doppler)
-- [Google Cloud KMS](https://github.com/api-evangelist/google-cloud-kms)
-- [Google Cloud Secret Manager](https://github.com/api-evangelist/google-cloud-secret-manager)
-- [HashiCorp Vault](https://github.com/api-evangelist/hashicorp-vault)
-- [Let's Encrypt](https://github.com/api-evangelist/lets-encrypt)
-- [Lit Protocol](https://github.com/api-evangelist/lit-protocol)
-- [Matrix](https://github.com/api-evangelist/matrix)
-- [Notary Project](https://github.com/api-evangelist/notary)
-- [OpenSSF](https://github.com/api-evangelist/openssf)
-- [OpenWallet Foundation](https://github.com/api-evangelist/openwallet-foundation)
-- [Signal](https://github.com/api-evangelist/signal)
-- [Sigstore](https://github.com/api-evangelist/sigstore)
-- [SOPS](https://github.com/api-evangelist/sops)
-- [SPIFFE](https://github.com/api-evangelist/spiffe)
-- [SSH](https://github.com/api-evangelist/ssh)
-- [Symantec](https://github.com/api-evangelist/symantec)
-- [Symphony](https://github.com/api-evangelist/symphony)
-- [Tink](https://github.com/api-evangelist/tink)
-- [The Update Framework](https://github.com/api-evangelist/tuf)
-
-## Maintainers
-
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/encryption/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
