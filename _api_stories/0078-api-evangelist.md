@@ -1,7 +1,7 @@
 ---
-title: 'OpenAPI Overlays for SDK Generation Prep: Fixing a Spec Before Codegen'
-link: http://apievangelist.com/2026/07/15/openapi-overlays-for-sdk-generation-prep/
-published: '2026-07-15'
+title: Tamper-Evident Certificates for API Governance
+link: http://apievangelist.com/2026/07/20/tamper-evident-certificates-for-api-governance/
+published: '2026-07-20'
 provider: api-evangelist
 repo: https://github.com/api-evangelist/api-evangelist
 domain: apievangelist.com
